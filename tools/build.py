@@ -58,7 +58,7 @@ def build_report(path):
     reg_path = os.path.join(ROOT, "data", "reports.json")
     reg = json.load(open(reg_path)) if os.path.exists(reg_path) else []
     reg = [r for r in reg if r["file"] != name]
-    reg.append({"file": name, **{k: m[k] for k in ("date", "slug", "category", "emoji", "title_plain", "teaser")}})
+    reg.insert(0, {"file": name, **{k: m[k] for k in ("date", "slug", "category", "emoji", "title_plain", "teaser")}})
     reg.sort(key=lambda r: r["date"], reverse=True)
     json.dump(reg, open(reg_path, "w"), ensure_ascii=False, indent=1)
     print("built reports/" + name)
