@@ -1,5 +1,5 @@
 {
- "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day), never repeating anything in done.",
+ "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day and a howitworks topic about every fifth day), never repeating anything in done.",
  "queue": [
   {
    "category": "books",
@@ -22,6 +22,11 @@
    "angle": "How The Karate Kid was made and the real lessons of 'wax on, wax off'"
   },
   {
+   "category": "howitworks",
+   "subject": "How topspin works in tennis",
+   "angle": "Why a spinning ball dips and kicks up: the science behind Nadal's and Alcaraz's forehands"
+  },
+  {
    "category": "tennis",
    "subject": "Jannik Sinner",
    "angle": "How a skier from the Italian mountains switched to tennis and reached No. 1"
@@ -40,6 +45,11 @@
    "category": "games",
    "subject": "Shigeru Miyamoto",
    "angle": "How Nintendo's Miyamoto invented Mario and Zelda from his childhood adventures"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How video game graphics work",
+   "angle": "Pixels, polygons and frame rate: how a game draws a whole world 60 times a second"
   },
   {
    "category": "skills",
@@ -62,6 +72,11 @@
    "angle": "Core loops, rewards and difficulty, explained with Brawl Stars, Fortnite and Mario"
   },
   {
+   "category": "howitworks",
+   "subject": "How the internet sends your game to you",
+   "angle": "Servers, ping and lag: what happens between your click and the screen"
+  },
+  {
    "category": "books",
    "subject": "Rick Riordan",
    "angle": "How Percy Jackson started as bedtime stories for his son"
@@ -80,6 +95,11 @@
    "category": "games",
    "subject": "Satoshi Tajiri",
    "angle": "How a bug-collecting kid created Pokémon"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How a touchscreen works",
+   "angle": "How your phone feels your finger without any buttons"
   },
   {
    "category": "anime",
@@ -102,6 +122,11 @@
    "angle": "How two friends created Avatar and its four-element world"
   },
   {
+   "category": "howitworks",
+   "subject": "How AI chatbots work",
+   "angle": "How tools like Claude learn from text to answer questions, and why they can still make mistakes"
+  },
+  {
    "category": "skills",
    "subject": "Staying safe online",
    "angle": "Strong passwords, spotting scams, and what never to share in games or chats"
@@ -120,6 +145,11 @@
    "category": "skills",
    "subject": "Coding basics: your first script in Luau",
    "angle": "Make a part change colour or a door open in Roblox Studio with a few lines of code"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How airplanes fly",
+   "angle": "Lift, thrust and drag: how a giant metal plane stays in the air"
   },
   {
    "category": "tennis",
@@ -142,6 +172,11 @@
    "angle": "How a small Swedish game about blocks became the best-selling game ever"
   },
   {
+   "category": "howitworks",
+   "subject": "How rockets reach space",
+   "angle": "How rockets push off, and how SpaceX lands boosters to reuse them"
+  },
+  {
    "category": "wildcard",
    "subject": "Lionel Messi",
    "angle": "How a small kid who needed growth treatment became the greatest footballer"
@@ -160,6 +195,11 @@
    "category": "anime",
    "subject": "Koyoharu Gotouge",
    "angle": "How Demon Slayer's creator built a hit in just four years"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How Hawk-Eye calls lines in tennis",
+   "angle": "How cameras and computers decide if a ball was in or out"
   },
   {
    "category": "skills",
@@ -182,6 +222,11 @@
    "angle": "Turn a big tennis goal into small daily habits that stick"
   },
   {
+   "category": "howitworks",
+   "subject": "How anime is made",
+   "angle": "From storyboard to key frames to voice acting: how an episode like One Piece gets made"
+  },
+  {
    "category": "tennis",
    "subject": "Daniil Medvedev",
    "angle": "How Medvedev's unusual style beat the Big Three"
@@ -200,6 +245,11 @@
    "category": "games",
    "subject": "Clash Royale / Clash of Clans",
    "angle": "How Supercell's small teams make giant mobile hits"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How GPS knows where you are",
+   "angle": "Satellites, timing and a little maths that finds you anywhere on Earth"
   },
   {
    "category": "wildcard",
@@ -222,6 +272,11 @@
    "angle": "How My Hero Academia's creator nearly quit before his big hit"
   },
   {
+   "category": "howitworks",
+   "subject": "How roller coasters work",
+   "angle": "Gravity, speed and loops: the physics that makes coasters thrilling and safe"
+  },
+  {
    "category": "books",
    "subject": "Roald Dahl",
    "angle": "How Roald Dahl's wild childhood became Charlie and the Chocolate Factory"
@@ -240,6 +295,11 @@
    "category": "tennis",
    "subject": "Holger Rune",
    "angle": "How Denmark's Holger Rune rose fast with big belief"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How electric cars work",
+   "angle": "Batteries, motors and why electric cars feel so fast"
   },
   {
    "category": "wildcard",
@@ -262,6 +322,11 @@
    "angle": "How a former volleyball player turned his sport into the hit manga Haikyu!!"
   },
   {
+   "category": "howitworks",
+   "subject": "How noise-cancelling headphones work",
+   "angle": "How headphones make sound to erase sound"
+  },
+  {
    "category": "tennis",
    "subject": "Andy Murray",
    "angle": "How Andy Murray ended Britain's 77-year Wimbledon wait"
@@ -282,6 +347,11 @@
    "angle": "How two bicycle makers taught the world to fly"
   },
   {
+   "category": "howitworks",
+   "subject": "How a computer chip works",
+   "angle": "Billions of tiny switches that turn on and off to run every game you play"
+  },
+  {
    "category": "tennis",
    "subject": "Coco Gauff",
    "angle": "How Coco Gauff beat Venus Williams at Wimbledon at age 15"
@@ -300,6 +370,11 @@
    "category": "anime",
    "subject": "Pokémon anime",
    "angle": "How Ash and Pikachu's TV show became a 25-year adventure"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How 3D printers work",
+   "angle": "How a printer builds real objects layer by layer"
   },
   {
    "category": "screen",
