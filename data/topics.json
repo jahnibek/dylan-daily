@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard), never repeating anything in done.",
  "queue": [
   {
-   "category": "tennis",
-   "subject": "Carlos Alcaraz",
-   "angle": "How a kid from a small Spanish town became world No. 1 so young"
-  },
-  {
    "category": "books",
    "subject": "Jeff Kinney",
    "angle": "How Diary of a Wimpy Kid went from an online comic to a worldwide hit"
@@ -318,6 +313,10 @@
   {
    "date": "2026-10-11",
    "subject": "David Baszucki / Roblox"
+  },
+  {
+   "date": "2026-10-11",
+   "subject": "Carlos Alcaraz"
   }
  ]
 }

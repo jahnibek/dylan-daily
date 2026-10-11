@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-11",
+  "slug": "carlos-alcaraz",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How Carlos Alcaraz became world No. 1 at 19",
+  "teaser": "He started at age 4 at his dad's tennis club and never stopped smiling."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How Carlos Alcaraz became <span class=\"hl\">world No. 1</span> at 19",
+  "sub": "The story of Carlos Alcaraz, Spain's tennis superstar",
+  "bigIdea": "Alcaraz plays his best when he's <span class=\"hl\">having fun</span>. He says he can't play well unless he's enjoying himself.",
+  "cards": [
+   {"emo": "👶", "title": "He started at age 4", "front": "Carlos grew up in El Palmar, a small town in Spain.", "back": "His dad was a coach at the local tennis club, so Carlos started hitting balls at age 4. The club became his second home.", "tryit": "Think back: what's the earliest thing you remember about tennis?"},
+   {"emo": "🧑‍🏫", "title": "A champion chose to coach him", "front": "At 15, he moved to train with Juan Carlos Ferrero.", "back": "Ferrero was a former world No. 1. He turned down top pros to coach teenage Carlos. They worked together for seven years.", "tryit": "Ask your coach what one thing would most improve your game."},
+   {"emo": "🏆", "title": "Youngest No. 1 ever", "front": "In 2022 he won the US Open at 19.", "back": "That win made him world No. 1 at 19 years old, the youngest man ever. A year earlier he was ranked No. 32.", "tryit": "Write down one big tennis goal and the first small step toward it."},
+   {"emo": "🪶", "title": "The magic drop shot", "front": "His drop shot is famous for being almost impossible to reach.", "back": "Former champion Andy Roddick called it the best in tennis history. Carlos hits huge forehands, then suddenly plays it soft.", "tryit": "Practice 20 drop shots this week. Mix them in after hard shots."},
+   {"emo": "😄", "title": "Fun is his secret weapon", "front": "Alcaraz smiles a lot on court, even in big matches.", "back": "He wants to win, but also to try new shots and entertain the crowd. Enjoying it helps him play his best.", "tryit": "In your next match, try one creative shot just for fun."}
+  ],
+  "words": [
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments: Australian, French, Wimbledon, US Open."},
+   {"w": "Drop shot", "d": "A soft shot that lands just over the net."},
+   {"w": "ATP ranking", "d": "The official list of the best men's tennis players."},
+   {"w": "Academy", "d": "A school where young players train every day."}
+  ],
+  "quiz": [
+   {"q": "How old was Alcaraz when he started playing tennis?", "opts": ["4", "10", "14"], "a": 0, "hint": "Very young! Check idea 1.", "why": "He started at 4 at the club where his dad coached."},
+   {"q": "What record did he set in 2022?", "opts": ["Fastest serve ever", "Youngest man to be world No. 1", "Longest match ever"], "a": 1, "hint": "Think about the ranking list.", "why": "He became No. 1 at 19, the youngest man ever."},
+   {"q": "Which shot is Alcaraz famous for?", "opts": ["The underarm serve", "The tweener", "The drop shot"], "a": 2, "hint": "Andy Roddick called it the best ever.", "why": "His drop shot is so soft and surprising that it's almost impossible to reach."},
+   {"q": "What does Alcaraz say helps him play his best?", "opts": ["Never smiling", "Enjoying himself on court", "Practicing only serves"], "a": 1, "hint": "Look at the big idea at the top.", "why": "He says he can't play well unless he's having fun."}
+  ],
+  "think": "Alcaraz plays best when he's having fun. When do you enjoy tennis the most, and how could you bring more of that into your matches?",
+  "tries": [
+   "Hit 20 drop shots in practice, mixed in after hard forehands",
+   "Try one creative shot in a match, win or lose the point",
+   "Watch a few Alcaraz highlights and spot his drop shots",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, ATP Tour"
+ }
+}
