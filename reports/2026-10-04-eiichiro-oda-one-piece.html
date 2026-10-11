@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How one kid&#x27;s pirate dream became One Piece · Dylan Daily</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#10243D;--card:#1A3252;--card2:#23406A;--ink:#FFFFFF;--text:#D6DCE6;--mute:#93A3BA;--orange:#E08A4B;--blue:#5AA9E6;--green:#4CC38A;--red:#E5646A;--line:rgba(255,255,255,.12)}
+:root[data-theme="light"]{--bg:#F5F7FB;--card:#FFFFFF;--card2:#EAF1FA;--ink:#10243D;--text:#2B3A50;--mute:#627089;--line:rgba(16,36,61,.12)}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#F5F7FB;--card:#FFFFFF;--card2:#EAF1FA;--ink:#10243D;--text:#2B3A50;--mute:#627089;--line:rgba(16,36,61,.12)}}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:Nunito,system-ui,sans-serif;font-size:18px;line-height:1.55}
+.wrap{max-width:720px;margin:0 auto;padding:20px 16px 80px}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 12px}
+.bar .track{height:10px;background:var(--card);border-radius:10px;overflow:hidden}
+.bar .fill{height:100%;width:0;background:linear-gradient(90deg,var(--blue),var(--orange));transition:width .4s}
+.bar .lbl{font-size:13px;color:var(--mute);font-weight:700;margin-top:6px;display:flex;justify-content:space-between}
+header{padding:18px 0 8px}
+.back{display:inline-block;margin-bottom:14px;color:var(--blue);font-weight:800;font-size:15px;text-decoration:none}
+.tag{display:inline-block;font-size:13px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--blue);background:var(--card);padding:5px 12px;border-radius:20px}
+h1{color:var(--ink);font-size:34px;line-height:1.15;font-weight:900;margin:14px 0 8px}
+h1 .hl{color:var(--orange)}
+.sub{color:var(--mute);font-size:17px}
+section{margin-top:34px}
+h2{color:var(--ink);font-size:24px;font-weight:900;margin-bottom:12px;display:flex;align-items:center;gap:10px}
+h2 .n{background:var(--orange);color:#10243D;width:34px;height:34px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:17px;flex:none}
+.big{background:var(--card);border-left:6px solid var(--orange);border-radius:14px;padding:18px 20px;font-size:22px;font-weight:800;color:var(--ink);line-height:1.35}
+.big .hl{color:var(--orange)}
+.hint-line{color:var(--mute);font-size:15px;margin-bottom:12px}
+.grid{display:grid;gap:14px}
+.flip{perspective:1000px;cursor:pointer;border:none;background:none;text-align:left;font:inherit;color:inherit;width:100%}
+.flip .in{display:grid;width:100%;min-height:170px;transition:transform .5s;transform-style:preserve-3d}
+.flip.on .in{transform:rotateY(180deg)}
+.face{grid-area:1/1;-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:16px;padding:18px 20px;display:flex;flex-direction:column;justify-content:center}
+.front{background:var(--card)}
+.back{background:var(--card2);transform:rotateY(180deg)}
+.face .emo{font-size:30px;line-height:1}
+.face h3{color:var(--ink);font-size:21px;font-weight:900;margin:8px 0 4px}
+.face small{color:var(--blue);font-weight:800;font-size:13px;letter-spacing:.05em;text-transform:uppercase}
+.face p{font-size:17px}
+.face .try{margin-top:8px;color:var(--ink);font-weight:700}
+.face .try b{color:var(--orange)}
+.words{display:flex;flex-wrap:wrap;gap:10px}
+.word{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:10px 14px;cursor:pointer;font:inherit;color:var(--ink);font-weight:800;text-align:left}
+.word span{display:none;font-weight:600;color:var(--text);font-size:16px;margin-top:4px}
+.word.on{border-color:var(--blue)} .word.on span{display:block}
+.q{background:var(--card);border-radius:16px;padding:18px 20px;margin-bottom:14px}
+.q h3{color:var(--ink);font-size:19px;font-weight:800;margin-bottom:12px}
+.opt{display:block;width:100%;text-align:left;font:inherit;font-size:17px;font-weight:700;color:var(--ink);background:var(--card2);border:2px solid transparent;border-radius:12px;padding:12px 14px;margin-bottom:8px;cursor:pointer}
+.opt:hover{border-color:var(--blue)}
+.opt.right{border-color:var(--green);background:rgba(76,195,138,.18)}
+.opt.wrong{border-color:var(--red);background:rgba(229,100,106,.15)}
+.q .fb{display:none;margin-top:6px;font-size:16px}
+.q .fb.show{display:block}
+.q .hintbtn{background:none;border:none;color:var(--blue);font:inherit;font-weight:800;font-size:15px;cursor:pointer;padding:4px 0}
+.q .hinttxt{display:none;font-size:15px;color:var(--mute);margin-top:4px}
+.score{font-size:20px;font-weight:900;color:var(--ink);text-align:center;background:var(--card);border-radius:14px;padding:14px;display:none}
+.think{background:var(--card);border-radius:16px;padding:18px 20px}
+.think p{color:var(--ink);font-weight:800;font-size:19px;margin-bottom:10px}
+textarea{width:100%;min-height:90px;border-radius:12px;border:2px solid var(--line);background:var(--card2);color:var(--ink);font:inherit;font-size:16px;padding:12px}
+.chk{display:flex;gap:12px;align-items:flex-start;background:var(--card);border-radius:14px;padding:14px 16px;margin-bottom:10px;cursor:pointer}
+.chk input{width:24px;height:24px;accent-color:var(--orange);flex:none;margin-top:2px}
+.chk.done span{text-decoration:line-through;color:var(--mute)}
+.done-msg{display:none;text-align:center;font-weight:900;color:var(--orange);font-size:20px;margin-top:8px}
+footer{margin-top:40px;color:var(--mute);font-size:14px;text-align:center}
+@media (min-width:640px){.grid{grid-template-columns:1fr 1fr}}
+</style></head>
+<body>
+<div class="wrap">
+  <div class="bar"><div class="track"><div class="fill" id="fill"></div></div><div class="lbl"><span id="plbl">0% explored</span><span id="rt"></span></div></div>
+  <header>
+    <a class="back" href="../index.html">← All reports</a>
+    <span class="tag" id="kind"></span>
+    <h1 id="title"></h1>
+    <p class="sub" id="sub"></p>
+  </header>
+
+  <section><h2>⚡ The big idea</h2><div class="big" id="bigidea"></div></section>
+
+  <section><h2>🃏 5 ideas to flip</h2><p class="hint-line">Tap or click a card to flip it.</p><div class="grid" id="cards"></div></section>
+
+  <section><h2>📖 Words to know</h2><p class="hint-line">Tap a word to see what it means.</p><div class="words" id="words"></div></section>
+
+  <section><h2>🎯 Quick quiz</h2><p class="hint-line">Stuck? Tap "Need a hint?" before you guess.</p><div id="quiz"></div><div class="score" id="score"></div></section>
+
+  <section><h2>💭 Think about it</h2><div class="think"><p id="think"></p><textarea id="think-answer" placeholder="Type your answer here, then talk about it with Dad."></textarea></div></section>
+
+  <section><h2>✅ Try this week</h2><div id="tries"></div><div class="done-msg" id="donemsg">Challenge complete! 🏆</div></section>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+/* ====== CONTENT: the only part to change per summary ====== */
+const DATA = {
+ "kind": "Report for Dylan",
+ "readTime": "4 min read",
+ "title": "How one kid's pirate dream became <span class=\"hl\">One Piece<\/span>",
+ "sub": "The story of Eiichiro Oda, the creator of One Piece",
+ "bigIdea": "Eiichiro Oda picked his dream at age 4 and never quit. Now One Piece has more than <span class=\"hl\">600 million<\/span> copies in print.",
+ "cards": [
+  {
+   "emo": "✏️",
+   "title": "He chose his dream at age 4",
+   "front": "Little Eiichiro decided he'd draw manga for a living.",
+   "back": "He loved Dragon Ball and a cartoon about Vikings, which got him hooked on pirates. He never changed his mind.",
+   "tryit": "Write down a dream you've had for years. What's one step toward it?"
+  },
+  {
+   "emo": "🏆",
+   "title": "His first big win came at 17",
+   "front": "At 17, he entered a manga contest and won second place.",
+   "back": "His story Wanted! placed second in the Tezuka Award, a famous prize for new artists. Two years later he won another award.",
+   "tryit": "Show something you made to someone, or enter it in a contest."
+  },
+  {
+   "emo": "🧑‍🎨",
+   "title": "He learned by helping others",
+   "front": "Before One Piece, Oda worked as an assistant.",
+   "back": "He helped other manga artists draw their series, including Rurouni Kenshin. He even helped design one of its characters.",
+   "tryit": "Find someone who's great at something and learn from them."
+  },
+  {
+   "emo": "🏴‍☠️",
+   "title": "One Piece began in 1997",
+   "front": "His pirate story started in a weekly magazine.",
+   "back": "Oda has drawn new chapters almost every week since 1997. That's nearly 30 years of the same adventure.",
+   "tryit": "Pick one habit you'll do every week, like drawing or practice."
+  },
+  {
+   "emo": "📚",
+   "title": "A Guinness World Record",
+   "front": "One Piece is the best-selling comic by a single author ever.",
+   "back": "It holds a Guinness World Record, with more than 600 million copies printed. It's now an anime, movies and a Netflix show.",
+   "tryit": "Think about it: one person's idea reached the whole world."
+  }
+ ],
+ "words": [
+  {
+   "w": "Manga",
+   "d": "Japanese comics, usually read from right to left."
+  },
+  {
+   "w": "Serialization",
+   "d": "Publishing a story one chapter at a time."
+  },
+  {
+   "w": "Assistant",
+   "d": "Someone who helps an artist and learns the job."
+  },
+  {
+   "w": "Guinness World Record",
+   "d": "An official record for the biggest, best or first."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How old was Oda when he decided to become a manga artist?",
+   "opts": [
+    "4",
+    "14",
+    "24"
+   ],
+   "a": 0,
+   "hint": "Very young! Check card 1.",
+   "why": "He was just 4, and he stuck with that dream his whole life."
+  },
+  {
+   "q": "Which show got Oda interested in pirates?",
+   "opts": [
+    "SpongeBob",
+    "A cartoon about Vikings",
+    "Pokémon"
+   ],
+   "a": 1,
+   "hint": "Think of sailors from long ago in Scandinavia.",
+   "why": "Vicky the Viking made him love adventures at sea."
+  },
+  {
+   "q": "What did Oda do before starting One Piece?",
+   "opts": [
+    "Worked as a manga assistant",
+    "Sailed on a pirate ship",
+    "Played pro tennis"
+   ],
+   "a": 0,
+   "hint": "Look at card 3.",
+   "why": "Helping other artists taught him how the job really works."
+  },
+  {
+   "q": "About how many One Piece copies have been printed?",
+   "opts": [
+    "6 million",
+    "60 million",
+    "600 million"
+   ],
+   "a": 2,
+   "hint": "It's the best-selling comic by one author ever.",
+   "why": "More than 600 million. That's a Guinness World Record level."
+  }
+ ],
+ "think": "Oda has worked on the same story for almost 30 years. What's something you love enough to keep doing for a really long time?",
+ "tries": [
+  "Draw or write a short comic about one of your tennis matches",
+  "Ask someone who's great at something you want to learn one question",
+  "Do one thing toward a long-term dream every day this week",
+  "Tell Dad one idea from this report"
+ ],
+ "footer": "Made for Dylan by Dad · Sources: Wikipedia, Guinness World Records"
+};
+/* ====== END CONTENT ====== */
+
+const $=id=>document.getElementById(id);
+$('kind').textContent=DATA.kind; $('rt').textContent=DATA.readTime;
+$('title').innerHTML=DATA.title; document.title=$('title').textContent;
+$('sub').textContent=DATA.sub; $('bigidea').innerHTML=DATA.bigIdea;
+$('think').textContent=DATA.think; $('foot').textContent=DATA.footer;
+
+const seen=new Set(); const total=DATA.cards.length+DATA.words.length+DATA.quiz.length+DATA.tries.length;
+function mark(k){seen.add(k);const p=Math.round(seen.size/total*100);$('fill').style.width=p+'%';$('plbl').textContent=p+'% explored'+(p===100?' 🎉':'');}
+
+DATA.cards.forEach((c,i)=>{const b=document.createElement('button');b.className='flip';b.setAttribute('aria-label',c.title+', tap to flip');
+ b.innerHTML=`<div class="in"><div class="face front"><div class="emo">${c.emo}</div><small>Idea ${i+1}</small><h3>${c.title}</h3><p>${c.front}</p></div><div class="face back"><small>What it means</small><p>${c.back}</p><p class="try"><b>Try it:</b> ${c.tryit}</p></div></div>`;
+ b.onclick=()=>{b.classList.toggle('on');mark('c'+i)};$('cards').appendChild(b);});
+
+DATA.words.forEach((w,i)=>{const b=document.createElement('button');b.className='word';b.innerHTML=`${w.w}<span>${w.d}</span>`;b.onclick=()=>{b.classList.toggle('on');mark('w'+i)};$('words').appendChild(b);});
+
+let right=0,answered=0;
+DATA.quiz.forEach((q,i)=>{const d=document.createElement('div');d.className='q';
+ d.innerHTML=`<h3>${i+1}. ${q.q}</h3>`+q.opts.map((o,j)=>`<button class="opt" data-j="${j}">${o}</button>`).join('')+`<button class="hintbtn">Need a hint?</button><div class="hinttxt">💡 ${q.hint}</div><div class="fb"></div>`;
+ d.querySelector('.hintbtn').onclick=e=>{e.target.style.display='none';d.querySelector('.hinttxt').style.display='block'};
+ let tries=0,done=false;
+ d.querySelectorAll('.opt').forEach(b=>b.onclick=()=>{if(done)return;const j=+b.dataset.j;const fb=d.querySelector('.fb');tries++;
+  if(j===q.a){b.classList.add('right');done=true;answered++;if(tries===1)right++;fb.innerHTML=`<b style="color:var(--green)">${tries===1?'Nailed it!':'You got there!'}</b> ${q.why}`;fb.classList.add('show');mark('q'+i);
+   if(answered===DATA.quiz.length){const s=$('score');s.style.display='block';s.textContent=`You got ${right} of ${DATA.quiz.length} on the first try${right===DATA.quiz.length?' 🏆':' 👍'}`;}}
+  else{b.classList.add('wrong');b.disabled=true;fb.innerHTML=`<b style="color:var(--red)">Not quite.</b> Try another one${tries===1?', or tap the hint':''}.`;fb.classList.add('show');}
+ });
+ $('quiz').appendChild(d);});
+
+DATA.tries.forEach((t,i)=>{const l=document.createElement('label');l.className='chk';l.innerHTML=`<input type="checkbox"><span>${t}</span>`;
+ const cb=l.querySelector('input');cb.onchange=()=>{l.classList.toggle('done',cb.checked);if(cb.checked)mark('t'+i);
+  $('donemsg').style.display=[...document.querySelectorAll('.chk input')].every(x=>x.checked)?'block':'none'};$('tries').appendChild(l);});
+</script>
+</body></html>

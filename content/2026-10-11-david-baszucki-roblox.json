@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "date": "2026-10-11",
+  "slug": "david-baszucki-roblox",
+  "category": "games",
+  "emoji": "🧱",
+  "title_plain": "How \"Builderman\" turned a physics app into Roblox",
+  "teaser": "Roblox began as a way to let everyone build and share."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How \"Builderman\" turned a physics app into <span class=\"hl\">Roblox</span>",
+  "sub": "The story of David Baszucki, co-founder of Roblox",
+  "bigIdea": "Roblox started as an idea: let people <span class=\"hl\">build and share</span> their own worlds. By 2025, about 85 million people played every day.",
+  "cards": [
+   {
+    "emo": "🏎️",
+    "title": "A kid who loved building",
+    "front": "David grew up in Minnesota loving go-karts, dirt bikes and sci-fi.",
+    "back": "He was also captain of his high school's TV quiz team. Later he studied engineering at Stanford University.",
+    "tryit": "Pick something you love and learn how it really works."
+   },
+   {
+    "emo": "🧪",
+    "title": "His first company made physics software",
+    "front": "Before Roblox, he made a computer program for science class.",
+    "back": "With his brother, he built Interactive Physics, which let students create their own experiments. In 1998 the company sold for $20 million.",
+    "tryit": "Think of a tool that would make school more fun. What would it do?"
+   },
+   {
+    "emo": "💡",
+    "title": "The big idea: let everyone build",
+    "front": "Students loved building things in his physics program.",
+    "back": "So he and his partner Erik Cassel made a world where anyone could build and share. They first called it DynaBlocks, then Roblox: robots + blocks.",
+    "tryit": "Build one small thing in Roblox Studio this week."
+   },
+   {
+    "emo": "🚀",
+    "title": "It took years to take off",
+    "front": "Work started in 2003. Roblox launched in 2006.",
+    "back": "It grew slowly for years before it got huge. In 2021, Roblox became a public company worth about $45 billion.",
+    "tryit": "When a project grows slowly, keep building anyway."
+   },
+   {
+    "emo": "💰",
+    "title": "Players are the creators",
+    "front": "On Roblox, players make most of the games.",
+    "back": "Creators can swap Robux for real money. In 2020, about 345,000 creators earned money this way.",
+    "tryit": "Look at a game you like. What would you change to make it better?"
+   }
+  ],
+  "words": [
+   {
+    "w": "Co-founder",
+    "d": "One of the people who starts a company together."
+   },
+   {
+    "w": "Physics",
+    "d": "The science of how things move, fall and crash."
+   },
+   {
+    "w": "Roblox Studio",
+    "d": "The free tool people use to build Roblox games."
+   },
+   {
+    "w": "Luau",
+    "d": "The coding language used to script Roblox games."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Where does the name Roblox come from?",
+    "opts": [
+     "Robots + blocks",
+     "Rob + Lox",
+     "Robot boxes"
+    ],
+    "a": 0,
+    "hint": "Check idea 3.",
+    "why": "Robots + blocks. Before that it was called DynaBlocks."
+   },
+   {
+    "q": "What was David's first company about?",
+    "opts": [
+     "Pizza delivery",
+     "Physics software for students",
+     "Music videos"
+    ],
+    "a": 1,
+    "hint": "Think science class.",
+    "why": "Interactive Physics let students build experiments, and that idea led to Roblox."
+   },
+   {
+    "q": "When did Roblox launch for everyone?",
+    "opts": [
+     "1996",
+     "2006",
+     "2016"
+    ],
+    "a": 1,
+    "hint": "Work started in 2003.",
+    "why": "September 2006, after about three years of building."
+   },
+   {
+    "q": "What does Roblox let players do that most games don't?",
+    "opts": [
+     "Build and share their own games",
+     "Watch TV shows",
+     "Skip homework"
+    ],
+    "a": 0,
+    "hint": "Think about Roblox Studio.",
+    "why": "Players are also the creators, and some earn real money."
+   }
+  ],
+  "think": "If you made a Roblox game that millions of people played, what would it be about? How would it be different from games that already exist?",
+  "tries": [
+   "Build one small thing in Roblox Studio, like an obby or a house",
+   "Play a game and write down one thing you'd improve",
+   "Build something in Roblox Studio together with Dad",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Source: Wikipedia"
+ }
+}

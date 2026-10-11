@@ -1,0 +1,323 @@
+{
+ "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard), never repeating anything in done.",
+ "queue": [
+  {
+   "category": "tennis",
+   "subject": "Carlos Alcaraz",
+   "angle": "How a kid from a small Spanish town became world No. 1 so young"
+  },
+  {
+   "category": "books",
+   "subject": "Jeff Kinney",
+   "angle": "How Diary of a Wimpy Kid went from an online comic to a worldwide hit"
+  },
+  {
+   "category": "games",
+   "subject": "Brawl Stars / Supercell",
+   "angle": "How Supercell made Brawl Stars and why it kills games that aren't fun enough"
+  },
+  {
+   "category": "screen",
+   "subject": "The Karate Kid",
+   "angle": "How The Karate Kid was made and the real lessons of 'wax on, wax off'"
+  },
+  {
+   "category": "tennis",
+   "subject": "Jannik Sinner",
+   "angle": "How a skier from the Italian mountains switched to tennis and reached No. 1"
+  },
+  {
+   "category": "anime",
+   "subject": "Akira Toriyama",
+   "angle": "How the creator of Dragon Ball inspired a generation of manga artists"
+  },
+  {
+   "category": "games",
+   "subject": "Shigeru Miyamoto",
+   "angle": "How Nintendo's Miyamoto invented Mario and Zelda from his childhood adventures"
+  },
+  {
+   "category": "tennis",
+   "subject": "Novak Djokovic",
+   "angle": "How a boy who trained during wartime in Belgrade became the record Grand Slam winner"
+  },
+  {
+   "category": "screen",
+   "subject": "Cobra Kai",
+   "angle": "How the Karate Kid story came back 34 years later as Cobra Kai"
+  },
+  {
+   "category": "books",
+   "subject": "Rick Riordan",
+   "angle": "How Percy Jackson started as bedtime stories for his son"
+  },
+  {
+   "category": "tennis",
+   "subject": "Ben Shelton",
+   "angle": "How a college player coached by his dad shot up the rankings with a huge serve"
+  },
+  {
+   "category": "games",
+   "subject": "Satoshi Tajiri",
+   "angle": "How a bug-collecting kid created Pokémon"
+  },
+  {
+   "category": "anime",
+   "subject": "Masashi Kishimoto",
+   "angle": "How Naruto's creator turned rejection into one of the biggest manga ever"
+  },
+  {
+   "category": "tennis",
+   "subject": "Alexander Zverev",
+   "angle": "How Zverev grew up in a tennis family and won Olympic gold"
+  },
+  {
+   "category": "screen",
+   "subject": "Avatar: The Last Airbender",
+   "angle": "How two friends created Avatar and its four-element world"
+  },
+  {
+   "category": "games",
+   "subject": "Among Us / Innersloth",
+   "angle": "How a tiny 3-person studio's flop became a global hit two years later"
+  },
+  {
+   "category": "books",
+   "subject": "Dav Pilkey",
+   "angle": "How a kid who got sent to the hallway created Captain Underpants and Dog Man"
+  },
+  {
+   "category": "tennis",
+   "subject": "Rafael Nadal",
+   "angle": "How Nadal's uncle coached him to 14 French Open titles"
+  },
+  {
+   "category": "screen",
+   "subject": "Hayao Miyazaki / Studio Ghibli",
+   "angle": "How Miyazaki hand-draws worlds like Spirited Away"
+  },
+  {
+   "category": "games",
+   "subject": "Minecraft / Mojang",
+   "angle": "How a small Swedish game about blocks became the best-selling game ever"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Lionel Messi",
+   "angle": "How a small kid who needed growth treatment became the greatest footballer"
+  },
+  {
+   "category": "tennis",
+   "subject": "Serena Williams",
+   "angle": "How Serena and Venus trained on public courts in Compton to rule tennis"
+  },
+  {
+   "category": "anime",
+   "subject": "Koyoharu Gotouge",
+   "angle": "How Demon Slayer's creator built a hit in just four years"
+  },
+  {
+   "category": "games",
+   "subject": "Rocket League / Psyonix",
+   "angle": "How 'soccer with rocket cars' became a worldwide esport"
+  },
+  {
+   "category": "books",
+   "subject": "J.R.R. Tolkien",
+   "angle": "How a language-loving professor created Middle-earth"
+  },
+  {
+   "category": "tennis",
+   "subject": "Daniil Medvedev",
+   "angle": "How Medvedev's unusual style beat the Big Three"
+  },
+  {
+   "category": "screen",
+   "subject": "Marvel Studios / Kevin Feige",
+   "angle": "How Kevin Feige connected 30+ movies into one universe"
+  },
+  {
+   "category": "games",
+   "subject": "Clash Royale / Clash of Clans",
+   "angle": "How Supercell's small teams make giant mobile hits"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Usain Bolt",
+   "angle": "How a cricket-loving kid became the fastest human ever"
+  },
+  {
+   "category": "tennis",
+   "subject": "Taylor Fritz",
+   "angle": "How Taylor Fritz became America's top player"
+  },
+  {
+   "category": "anime",
+   "subject": "Kohei Horikoshi",
+   "angle": "How My Hero Academia's creator nearly quit before his big hit"
+  },
+  {
+   "category": "books",
+   "subject": "Roald Dahl",
+   "angle": "How Roald Dahl's wild childhood became Charlie and the Chocolate Factory"
+  },
+  {
+   "category": "games",
+   "subject": "Stardew Valley / Eric Barone",
+   "angle": "How one person made a hit farming game alone over 4 years"
+  },
+  {
+   "category": "screen",
+   "subject": "Spider-Man: Into the Spider-Verse",
+   "angle": "How the Spider-Verse artists invented a brand-new animation look"
+  },
+  {
+   "category": "tennis",
+   "subject": "Holger Rune",
+   "angle": "How Denmark's Holger Rune rose fast with big belief"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Michael Jordan",
+   "angle": "How Michael Jordan got cut from his school team and came back"
+  },
+  {
+   "category": "games",
+   "subject": "Valve / Steam",
+   "angle": "How Valve built Steam and Half-Life"
+  },
+  {
+   "category": "books",
+   "subject": "Kwame Alexander",
+   "angle": "How The Crossover turned basketball into poetry"
+  },
+  {
+   "category": "anime",
+   "subject": "Haruichi Furudate / Haikyu!!",
+   "angle": "How a former volleyball player turned his sport into the hit manga Haikyu!!"
+  },
+  {
+   "category": "tennis",
+   "subject": "Andy Murray",
+   "angle": "How Andy Murray ended Britain's 77-year Wimbledon wait"
+  },
+  {
+   "category": "screen",
+   "subject": "Pixar / Ed Catmull",
+   "angle": "How Pixar made Toy Story, the first fully computer-animated movie"
+  },
+  {
+   "category": "games",
+   "subject": "Rovio / Angry Birds",
+   "angle": "How Rovio's 52nd game, Angry Birds, finally became a hit"
+  },
+  {
+   "category": "wildcard",
+   "subject": "The Wright Brothers",
+   "angle": "How two bicycle makers taught the world to fly"
+  },
+  {
+   "category": "tennis",
+   "subject": "Coco Gauff",
+   "angle": "How Coco Gauff beat Venus Williams at Wimbledon at age 15"
+  },
+  {
+   "category": "books",
+   "subject": "Raina Telgemeier",
+   "angle": "How Smile turned a dental disaster into a bestselling graphic novel"
+  },
+  {
+   "category": "games",
+   "subject": "Mario Kart",
+   "angle": "How Nintendo invented the kart-racing game"
+  },
+  {
+   "category": "anime",
+   "subject": "Pokémon anime",
+   "angle": "How Ash and Pikachu's TV show became a 25-year adventure"
+  },
+  {
+   "category": "screen",
+   "subject": "Wallace & Gromit / Aardman",
+   "angle": "How Aardman makes movies one clay frame at a time"
+  },
+  {
+   "category": "tennis",
+   "subject": "Stefanos Tsitsipas",
+   "angle": "How Tsitsipas learned tennis from his coach dad in Greece"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Walt Disney",
+   "angle": "How Walt Disney went broke before creating Mickey Mouse"
+  },
+  {
+   "category": "games",
+   "subject": "Tetris / Alexey Pajitnov",
+   "angle": "How a Soviet programmer's puzzle conquered the world"
+  },
+  {
+   "category": "books",
+   "subject": "Chris Colfer",
+   "angle": "How Chris Colfer wrote The Land of Stories as a kid"
+  },
+  {
+   "category": "tennis",
+   "subject": "Iga Świątek",
+   "angle": "How Iga Świątek uses a sports psychologist to stay calm"
+  },
+  {
+   "category": "screen",
+   "subject": "The Lego Movie",
+   "angle": "How Lego went from almost broke to blockbuster movies"
+  },
+  {
+   "category": "games",
+   "subject": "Epic Games Store and Unreal Engine 5",
+   "angle": "How game engines let small teams make huge-looking games"
+  },
+  {
+   "category": "anime",
+   "subject": "Osamu Tezuka",
+   "angle": "How the 'god of manga' created Astro Boy"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Cristiano Ronaldo",
+   "angle": "How Ronaldo's work ethic turned a skinny kid into a goal machine"
+  },
+  {
+   "category": "tennis",
+   "subject": "Grigor Dimitrov",
+   "angle": "How 'Baby Fed' found his own style"
+  },
+  {
+   "category": "books",
+   "subject": "Gordon Korman",
+   "angle": "How Gordon Korman published his first book at 14"
+  },
+  {
+   "category": "games",
+   "subject": "Fortnite Creative / UEFN creators",
+   "angle": "How kids and teens build Fortnite islands and earn money"
+  }
+ ],
+ "done": [
+  {
+   "date": "2026-09-27",
+   "subject": "Roger Federer"
+  },
+  {
+   "date": "2026-10-01",
+   "subject": "Tim Sweeney / Fortnite"
+  },
+  {
+   "date": "2026-10-04",
+   "subject": "Eiichiro Oda / One Piece"
+  },
+  {
+   "date": "2026-10-11",
+   "subject": "David Baszucki / Roblox"
+  }
+ ]
+}

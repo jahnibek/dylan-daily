@@ -1,0 +1,52 @@
+# Dylan Daily
+
+A daily interactive report for Dylan (13) about the people behind the things he loves: tennis players, game creators, movies, shows, anime and book authors. Published with GitHub Pages at https://jahnibek.github.io/dylan-daily/ and emailed to him every morning.
+
+## Daily run (the scheduled task follows this exactly)
+
+1. **Pick today's topic.** Take the first item in `data/topics.json` → `queue`. Use its `subject` and `angle`. If that subject already appears in `done`, skip to the next one.
+2. **Research.** Read the subject's Wikipedia page, plus one more reliable source (an official site, a major news outlet or Guinness World Records). Use only facts you've read in a source. Prefer round numbers a 13-year-old can picture, and give years for anything that changes, like rankings or sales.
+3. **Write the content file** `content/YYYY-MM-DD-<slug>.json`, using today's date in Almaty (UTC+5). Copy the shape of any existing file in `content/`:
+   - `meta`: `date`, `slug` (lowercase-hyphenated), `category` (one of `tennis`, `games`, `screen`, `books`, `anime`, `wildcard`), `emoji`, `title_plain` (no HTML), and `teaser` (one sentence, at most about 15 words).
+   - `page`: `kind` is "Report for Dylan" and `readTime` is "4 min read". `title` is a fun, curiosity-driven headline with one phrase wrapped in `<span class="hl">…</span>`. `sub` is "The story of …". `bigIdea` is one or two sentences with one highlighted phrase.
+   - `cards`: exactly 5. Each has an emoji, a `title` of at most 6 words, a `front` teaser, a `back` of at most 30 words, and a `tryit` with a concrete action for Dylan.
+   - `words`: 3–5 terms, each with a definition of at most 15 words.
+   - `quiz`: exactly 4 questions with 3 options each. `a` is the index of the right answer, and its position must vary across questions. Each has a `hint` that nudges without giving the answer away, and a one-sentence `why`.
+   - `think`: one open question that links the topic to Dylan's life.
+   - `tries`: 3–4 small actions for this week. The last is always "Tell Dad one idea from this report".
+   - `footer`: "Made for Dylan by Dad · Source: Wikipedia" (name any extra sources too).
+4. **Build:** `python3 tools/build.py content/<file>.json`. If it reports a problem, fix the content file and run it again.
+5. **Update the queue.** Move the topic from `queue` to `done` as `{"date","subject"}`. If fewer than 10 topics remain in `queue`, append 20 new ones following `rules`.
+6. **Publish.** Commit with the message `Daily report: <title_plain>` and push to `main`.
+7. **Check it's live.** Wait about 90 seconds, then fetch `https://jahnibek.github.io/dylan-daily/reports/<file>.html`. Retry for up to 5 minutes. If it never loads, still send the email, but use the library link.
+8. **Email Dylan** at dylan.jahnibek@gmail.com using the Gmail connector:
+   - Subject: `Dylan Daily: <title_plain>`
+   - Body: "Good morning Dylan!", then today's teaser in one or two sentences, the report link, and one line saying "All your reports: https://jahnibek.github.io/dylan-daily/". Sign it "Love, Dad".
+   - Keep it short, plain and friendly: no attachments and no PDF.
+
+## Writing rules (age 13)
+
+- Aim for a grade 6–7 reading level. Keep sentences under about 15 words, use everyday words, and explain any jargon in "Words to know".
+- Talk to Dylan as "you". Be warm and upbeat, but never preachy or babyish. Use comparisons from his world: competitive tennis, Roblox, Fortnite, Brawl Stars, One Piece and anime, The Karate Kid, Cobra Kai and *Diary of a Wimpy Kid*.
+- The parent rule: guide his thinking, don't hand him answers. Hints nudge, and the "why" explains after he answers.
+- Focus on effort, practice, creativity, setbacks, curiosity and teamwork.
+- **Never include:**
+  - drugs, alcohol or supplements
+  - suicide or self-harm
+  - sex or romance
+  - graphic violence
+  - politics or culture-war topics
+  - scandals, lawsuits or arrests
+  - specific medical, diet or dosing advice
+  - gambling
+  - adult business jargon
+- If a subject's story mainly involves any of the above, skip it, move it to `done` with a note saying "skipped", and use the next topic.
+- Don't invent quotes. Use a quote only if a source gives it word for word.
+
+## Files
+
+- `tools/template.html`: the interactive page template. Don't edit it in the daily run.
+- `tools/build.py`: checks a content file, writes the report page, and rebuilds `index.html` and `data/reports.json`.
+- `content/`: one JSON file per report, which is the source of each page.
+- `reports/`: the generated pages.
+- `data/topics.json`: the topic queue and the done list.

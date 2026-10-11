@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "date": "2026-09-27",
+  "slug": "roger-federer",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How Federer went from racket-thrower to legend",
+  "teaser": "He won only 54% of his points. Here's why that made him a champion."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How Federer went from <span class=\"hl\">racket&#8209;thrower</span> to legend",
+  "sub": "The Founders podcast on Roger Federer's secrets",
+  "bigIdea": "Federer won only <span class=\"hl\">54%</span> of the points he played. Champions don't win every point. They let the bad ones go.",
+  "cards": [
+   {
+    "emo": "😡",
+    "title": "He used to lose his temper",
+    "front": "As a kid, Federer threw rackets and yelled on court.",
+    "back": "An opponent said Roger would fall apart after two hours. That stung. At 16, he started training his mind.",
+    "tryit": "After a bad point, take one deep breath before the next one."
+   },
+   {
+    "emo": "🔥",
+    "title": "Control the flames",
+    "front": "He didn't lose his fire. He learned to aim it.",
+    "back": "Federer turned his anger into energy. Same fire, pointed in a better direction.",
+    "tryit": "When you get mad in a match, pour it into your next serve."
+   },
+   {
+    "emo": "🎯",
+    "title": "It's only a point",
+    "front": "He won just over half the points he played.",
+    "back": "Even the greatest lose almost half the points. So he forgot bad points fast and played the next one fully.",
+    "tryit": "After a mistake, say in your head: 'It's only a point.'"
+   },
+   {
+    "emo": "🔋",
+    "title": "Rest is part of training",
+    "front": "His trainer planned for a very long career.",
+    "back": "Their rule: stress, recover, improve. Hard work plus real rest kept him playing as a pro for 24 years.",
+    "tryit": "Take one real rest day after your next tough tournament."
+   },
+   {
+    "emo": "❤️",
+    "title": "Never stop loving it",
+    "front": "Federer said he never fell out of love with tennis.",
+    "back": "He kept tennis fun by changing his routines, so it never got boring.",
+    "tryit": "Try one new shot or drill this week just for fun."
+   }
+  ],
+  "words": [
+   {
+    "w": "Temper",
+    "d": "Losing control when you're upset or angry."
+   },
+   {
+    "w": "Composure",
+    "d": "Staying calm and in control under pressure."
+   },
+   {
+    "w": "Recovery",
+    "d": "Rest your body and mind need to get stronger after hard work."
+   },
+   {
+    "w": "Mental coach",
+    "d": "A coach who trains how you think and feel when you compete."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "What percentage of points did Federer win in his career?",
+    "opts": [
+     "About 54%",
+     "About 90%",
+     "About 75%"
+    ],
+    "a": 0,
+    "hint": "It's a lot lower than you'd guess!",
+    "why": "Just over half. Even the best lose lots of points, so letting them go matters."
+   },
+   {
+    "q": "What was Federer like on court as a kid?",
+    "opts": [
+     "Always calm",
+     "He threw rackets and yelled",
+     "He never played matches"
+    ],
+    "a": 1,
+    "hint": "Look at card 1.",
+    "why": "He had a big temper and had to learn to control it."
+   },
+   {
+    "q": "What was his trainer's rule?",
+    "opts": [
+     "Train hard every single day",
+     "Only play matches, never practice",
+     "Stress, recover, improve"
+    ],
+    "a": 2,
+    "hint": "Getting stronger needs two things, not just one.",
+    "why": "Hard work only pays off when you also recover."
+   },
+   {
+    "q": "What did Federer do with his anger?",
+    "opts": [
+     "Got rid of all emotion",
+     "Turned it into energy and focus",
+     "Quit when he got angry"
+    ],
+    "a": 1,
+    "hint": "Think about 'control the flames'.",
+    "why": "He kept his fire but learned to aim it."
+   }
+  ],
+  "think": "What happens in your head after you lose a point? What could you do in the 20 seconds before the next one?",
+  "tries": [
+   "After every mistake in practice, say 'It's only a point'",
+   "Take one deep breath before each serve in your next match",
+   "Try one new shot or drill just for fun",
+   "Tell Dad one idea from this summary"
+  ],
+  "footer": "Made for Dylan by Dad · Based on Founders #412 by David Senra"
+ }
+}

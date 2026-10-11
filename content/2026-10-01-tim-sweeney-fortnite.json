@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "date": "2026-10-01",
+  "slug": "tim-sweeney-fortnite",
+  "category": "games",
+  "emoji": "🏰",
+  "title_plain": "How a kid who loved coding built Fortnite",
+  "teaser": "Tim Sweeney coded for 10,000 hours before his first big game."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a kid who loved coding built <span class=\"hl\">Fortnite</span>",
+  "sub": "Epic Games founder Tim Sweeney on the Lex Fridman Podcast",
+  "bigIdea": "Tim Sweeney coded for about <span class=\"hl\">10,000 hours</span> before his first big game. Huge things start as lots of small projects.",
+  "cards": [
+   {
+    "emo": "💻",
+    "title": "It started at age 11",
+    "front": "Tim's older brother showed him a computer, and he was hooked.",
+    "back": "He learned to code in a few days. From age 10 to 20, he spent about 10,000 hours building his own projects.",
+    "tryit": "Pick one small thing to build this week: a game, a map or a website."
+   },
+   {
+    "emo": "🧩",
+    "title": "Games are puzzles to solve",
+    "front": "Tim played games to figure out how they worked.",
+    "back": "When Doom came out, he moved the mouse pixel by pixel to see how it was drawn. Then he built his own version.",
+    "tryit": "Next time you play, ask: how did they make that work?"
+   },
+   {
+    "emo": "📬",
+    "title": "His first company ran from home",
+    "front": "At about 20, he sold his game ZZT from his parents' house.",
+    "back": "Players mailed in orders, and he made around $100 a day. His secret: he gave players the editor so they could build their own levels.",
+    "tryit": "Think of something you could make that other people can build on."
+   },
+   {
+    "emo": "🎮",
+    "title": "6 months turned into 3.5 years",
+    "front": "Epic planned to make its first 3D game in six months.",
+    "back": "It took three and a half years, and they almost ran out of money. They kept going, and Unreal Engine now powers huge games and even movies.",
+    "tryit": "When a project takes longer than planned, keep improving it instead of quitting."
+   },
+   {
+    "emo": "🏰",
+    "title": "Fortnite began as a 1-week experiment",
+    "front": "Fortnite started in 2011 as a one-week game jam.",
+    "back": "The idea: build forts by day, fight zombies by night. Years later, the team made Battle Royale in about four weeks, and it exploded.",
+    "tryit": "Hold your own game jam: give yourself one week to make something fun."
+   }
+  ],
+  "words": [
+   {
+    "w": "Programmer",
+    "d": "Someone who writes code to tell computers what to do."
+   },
+   {
+    "w": "Game engine",
+    "d": "The toolkit used to build games, like Unreal Engine."
+   },
+   {
+    "w": "Shareware",
+    "d": "Give part of a game away free, then sell the rest."
+   },
+   {
+    "w": "Game jam",
+    "d": "A short challenge to build a game fast, often in days."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "About how many hours did Tim code before his first big game?",
+    "opts": [
+     "About 100",
+     "About 1,000",
+     "About 10,000"
+    ],
+    "a": 2,
+    "hint": "Look at the big idea at the top.",
+    "why": "Around 10,000 hours, from age 10 to 20. Skill comes from lots of practice."
+   },
+   {
+    "q": "How did Fortnite start?",
+    "opts": [
+     "As a one-week game jam",
+     "As a movie",
+     "As a phone app"
+    ],
+    "a": 0,
+    "hint": "Check card 5.",
+    "why": "It began in 2011 as a week-long experiment about forts and zombies."
+   },
+   {
+    "q": "What did Tim give ZZT players that made it so popular?",
+    "opts": [
+     "Free pizza",
+     "The editor to build their own levels",
+     "A new controller"
+    ],
+    "a": 1,
+    "hint": "Fortnite Creative does the same thing today.",
+    "why": "Letting players create their own levels kept the community growing."
+   },
+   {
+    "q": "Unreal was planned for 6 months. How long did it really take?",
+    "opts": [
+     "2 weeks",
+     "6 months",
+     "3.5 years"
+    ],
+    "a": 2,
+    "hint": "Much longer than planned!",
+    "why": "3.5 years. Big projects almost always take longer, so keep going."
+   }
+  ],
+  "think": "Tim says it's smarter to make something new than to copy what's already popular. What's a game or project idea that nobody has made yet?",
+  "tries": [
+   "Spend 30 minutes building something: a game, a Fortnite Creative map or a coding project",
+   "Next time you play, figure out how one feature works",
+   "Write down one idea nobody has made yet",
+   "Tell Dad one idea from this summary"
+  ],
+  "footer": "Made for Dylan by Dad · Based on the Lex Fridman Podcast #467"
+ }
+}
