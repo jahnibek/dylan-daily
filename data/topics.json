@@ -1,5 +1,5 @@
 {
- "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard), never repeating anything in done.",
+ "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day), never repeating anything in done.",
  "queue": [
   {
    "category": "books",
@@ -12,6 +12,11 @@
    "angle": "How Supercell made Brawl Stars and why it kills games that aren't fun enough"
   },
   {
+   "category": "skills",
+   "subject": "Create your own game: make your first Roblox obby",
+   "angle": "Step by step: build, test and share a simple obstacle course in Roblox Studio"
+  },
+  {
    "category": "screen",
    "subject": "The Karate Kid",
    "angle": "How The Karate Kid was made and the real lessons of 'wax on, wax off'"
@@ -20,6 +25,11 @@
    "category": "tennis",
    "subject": "Jannik Sinner",
    "angle": "How a skier from the Italian mountains switched to tennis and reached No. 1"
+  },
+  {
+   "category": "skills",
+   "subject": "How to use AI as a smart helper",
+   "angle": "How AI tools like Claude work, how to ask good questions, and why it should help you think, not think for you"
   },
   {
    "category": "anime",
@@ -32,6 +42,11 @@
    "angle": "How Nintendo's Miyamoto invented Mario and Zelda from his childhood adventures"
   },
   {
+   "category": "skills",
+   "subject": "How to launch your own company",
+   "angle": "From an idea to your first customer, using real stories of kid and teen founders"
+  },
+  {
    "category": "tennis",
    "subject": "Novak Djokovic",
    "angle": "How a boy who trained during wartime in Belgrade became the record Grand Slam winner"
@@ -40,6 +55,11 @@
    "category": "screen",
    "subject": "Cobra Kai",
    "angle": "How the Karate Kid story came back 34 years later as Cobra Kai"
+  },
+  {
+   "category": "skills",
+   "subject": "Game design: what makes a game fun",
+   "angle": "Core loops, rewards and difficulty, explained with Brawl Stars, Fortnite and Mario"
   },
   {
    "category": "books",
@@ -52,6 +72,11 @@
    "angle": "How a college player coached by his dad shot up the rankings with a huge serve"
   },
   {
+   "category": "skills",
+   "subject": "Money basics: saving and compound interest",
+   "angle": "How money grows over time, and why starting early is a superpower"
+  },
+  {
    "category": "games",
    "subject": "Satoshi Tajiri",
    "angle": "How a bug-collecting kid created Pokémon"
@@ -60,6 +85,11 @@
    "category": "anime",
    "subject": "Masashi Kishimoto",
    "angle": "How Naruto's creator turned rejection into one of the biggest manga ever"
+  },
+  {
+   "category": "skills",
+   "subject": "How to pitch your idea in 60 seconds",
+   "angle": "How founders explain an idea fast, and how to practice your own pitch"
   },
   {
    "category": "tennis",
@@ -72,6 +102,11 @@
    "angle": "How two friends created Avatar and its four-element world"
   },
   {
+   "category": "skills",
+   "subject": "Staying safe online",
+   "angle": "Strong passwords, spotting scams, and what never to share in games or chats"
+  },
+  {
    "category": "games",
    "subject": "Among Us / Innersloth",
    "angle": "How a tiny 3-person studio's flop became a global hit two years later"
@@ -80,6 +115,11 @@
    "category": "books",
    "subject": "Dav Pilkey",
    "angle": "How a kid who got sent to the hallway created Captain Underpants and Dog Man"
+  },
+  {
+   "category": "skills",
+   "subject": "Coding basics: your first script in Luau",
+   "angle": "Make a part change colour or a door open in Roblox Studio with a few lines of code"
   },
   {
    "category": "tennis",
@@ -92,6 +132,11 @@
    "angle": "How Miyazaki hand-draws worlds like Spirited Away"
   },
   {
+   "category": "skills",
+   "subject": "How to learn anything faster",
+   "angle": "Practice, mistakes, sleep and spacing: how champions and scientists learn"
+  },
+  {
    "category": "games",
    "subject": "Minecraft / Mojang",
    "angle": "How a small Swedish game about blocks became the best-selling game ever"
@@ -100,6 +145,11 @@
    "category": "wildcard",
    "subject": "Lionel Messi",
    "angle": "How a small kid who needed growth treatment became the greatest footballer"
+  },
+  {
+   "category": "skills",
+   "subject": "How to spot fake news and AI fakes",
+   "angle": "Simple checks for fake photos, videos and stories online"
   },
   {
    "category": "tennis",
@@ -112,6 +162,11 @@
    "angle": "How Demon Slayer's creator built a hit in just four years"
   },
   {
+   "category": "skills",
+   "subject": "How YouTube and TikTok choose what you see",
+   "angle": "What an algorithm is, and how to stay in control of your feed"
+  },
+  {
    "category": "games",
    "subject": "Rocket League / Psyonix",
    "angle": "How 'soccer with rocket cars' became a worldwide esport"
@@ -120,6 +175,11 @@
    "category": "books",
    "subject": "J.R.R. Tolkien",
    "angle": "How a language-loving professor created Middle-earth"
+  },
+  {
+   "category": "skills",
+   "subject": "How to set goals and build habits",
+   "angle": "Turn a big tennis goal into small daily habits that stick"
   },
   {
    "category": "tennis",
@@ -132,6 +192,11 @@
    "angle": "How Kevin Feige connected 30+ movies into one universe"
   },
   {
+   "category": "skills",
+   "subject": "How to speak in front of people",
+   "angle": "Simple tricks to feel calm and sound confident when presenting"
+  },
+  {
    "category": "games",
    "subject": "Clash Royale / Clash of Clans",
    "angle": "How Supercell's small teams make giant mobile hits"
@@ -140,6 +205,11 @@
    "category": "wildcard",
    "subject": "Usain Bolt",
    "angle": "How a cricket-loving kid became the fastest human ever"
+  },
+  {
+   "category": "skills",
+   "subject": "Make a trailer for your game",
+   "angle": "How to plan, record and edit a short video that makes people want to play"
   },
   {
    "category": "tennis",

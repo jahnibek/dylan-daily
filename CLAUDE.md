@@ -7,7 +7,7 @@ A daily interactive report for Dylan (13) about the people behind the things he 
 1. **Pick today's topic.** Take the first item in `data/topics.json` → `queue`. Use its `subject` and `angle`. If that subject already appears in `done`, skip to the next one.
 2. **Research.** Read the subject's Wikipedia page, plus one more reliable source (an official site, a major news outlet or Guinness World Records). Use only facts you've read in a source. Prefer round numbers a 13-year-old can picture, and give years for anything that changes, like rankings or sales.
 3. **Write the content file** `content/YYYY-MM-DD-<slug>.json`, using today's date in Almaty (UTC+5). Copy the shape of any existing file in `content/`:
-   - `meta`: `date`, `slug` (lowercase-hyphenated), `category` (one of `tennis`, `games`, `screen`, `books`, `anime`, `wildcard`), `emoji`, `title_plain` (no HTML), and `teaser` (one sentence, at most about 15 words).
+   - `meta`: `date`, `slug` (lowercase-hyphenated), `category` (one of `tennis`, `games`, `screen`, `books`, `anime`, `wildcard`, `skills`), `emoji`, `title_plain` (no HTML), and `teaser` (one sentence, at most about 15 words).
    - `page`: `kind` is "Report for Dylan" and `readTime` is "4 min read". `title` is a fun, curiosity-driven headline with one phrase wrapped in `<span class="hl">…</span>`. `sub` is "The story of …". `bigIdea` is one or two sentences with one highlighted phrase.
    - `cards`: exactly 5. Each has an emoji, a `title` of at most 6 words, a `front` teaser, a `back` of at most 30 words, and a `tryit` with a concrete action for Dylan.
    - `words`: 3–5 terms, each with a definition of at most 15 words.
@@ -23,6 +23,18 @@ A daily interactive report for Dylan (13) about the people behind the things he 
    - Subject: `Dylan Daily: <title_plain>`
    - Body: "Good morning Dylan!", then today's teaser in one or two sentences, the report link, and one line saying "All your reports: https://jahnibek.github.io/dylan-daily/". Sign it "Love, Dad".
    - Keep it short, plain and friendly: no attachments and no PDF.
+
+## Skills reports (category `skills`)
+
+Some topics teach a skill rather than tell a person's story. For these:
+- **Research** official guides (for example, the Roblox Creator Docs for Roblox Studio), well-known education sources (Khan Academy, Common Sense Media, government online-safety pages) and one real example of a person who used the skill.
+- **Title** something like "How to …" or "Make your first …", with `sub` set to "A skill you can use today".
+- **Cards** are the 5 steps or principles, in order. Each card's `tryit` is something he can do in 15 minutes or less.
+- **Quiz and think** check that he understood the steps. The "think" question asks him to plan his own version.
+- **Tries** include one small project for this week.
+- **AI topics:** encourage using AI as a helper for thinking, learning and creating, never for doing homework for him. Mention checking facts, keeping personal information private, and that real accounts on most AI tools need an adult.
+- **Money and company topics:** only kid-sized, legal activities like selling crafts, lessons or game items made with permission. Never trading, crypto or gambling.
+- **Online safety topics:** be practical and calm, never scary.
 
 ## Writing rules (age 13)
 
