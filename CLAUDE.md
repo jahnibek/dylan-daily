@@ -19,10 +19,21 @@ A daily interactive report for Dylan (13) about the people behind the things he 
 5. **Update the queue.** Move the topic from `queue` to `done` as `{"date","subject"}`. If fewer than 10 topics remain in `queue`, append 20 new ones following `rules`.
 6. **Publish.** Commit with the message `Daily report: <title_plain>` and push to `main`.
 7. **Check it's live.** Wait about 90 seconds, then fetch `https://jahnibek.github.io/dylan-daily/reports/<file>.html`. Retry for up to 5 minutes. If it never loads, still send the email, but use the library link.
-8. **Email Dylan** at dylan.jahnibek@gmail.com using the Gmail connector:
-   - Subject: `Dylan Daily: <title_plain>`
-   - Body: "Good morning Dylan!", then today's teaser in one or two sentences, the report link, and one line saying "All your reports: https://jahnibek.github.io/dylan-daily/". Sign it "Love, Dad".
-   - Keep it short, plain and friendly: no attachments and no PDF.
+8. **Email Dylan** at dylan.jahnibek@gmail.com using the Gmail connector. Use this template exactly, filling in only `<TOPIC>` and the link:
+   - Subject: `Daily Fun Project for Dylan`
+   - Body:
+     ```
+     Good morning, Tatosha!
+     Just created a fun page for you to learn about <TOPIC>. Hope you enjoy!
+
+     [Open today's page →]  (the report link)
+
+     Love you,
+     Dad.
+     ```
+   - `<TOPIC>` is a short, natural phrase for the day's subject, for example "Carlos Alcaraz", "Jeff Kinney and Diary of a Wimpy Kid" or "making your first Roblox obby".
+   - Send both a plain-text body (with the full report URL on its own line) and an HTML body (htmlBody). In the HTML, the link is an orange button: background #E08A4B, text #10243D, bold, padding 12px 20px, border-radius 8px. Use Arial at 16px, colour #1A2433.
+   - Nothing else: no teaser, no library line, no attachments.
 
 ## Skills reports (category `skills`)
 
