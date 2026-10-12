@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-12",
+  "slug": "jeff-kinney",
+  "category": "books",
+  "emoji": "📓",
+  "title_plain": "How Diary of a Wimpy Kid went from a website to 300 million books",
+  "teaser": "Jeff Kinney's cartoonist dream flopped, so he built Greg Heffley instead."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a comic on a kids' website became <span class=\"hl\">300 million books</span>",
+  "sub": "The story of Jeff Kinney and Diary of a Wimpy Kid",
+  "bigIdea": "Jeff Kinney's first dream didn't work out. So he <span class=\"hl\">kept drawing</span> and built something new from it.",
+  "cards": [
+   {"emo": "✏️", "title": "A kid who loved comics", "front": "Jeff Kinney was born in 1971 in Maryland, USA.", "back": "As a kid he wanted to be a cartoonist. In college he drew a comic called Igdoof for the student newspaper.", "tryit": "Draw a 3-panel comic about something funny from your week."},
+   {"emo": "🚪", "title": "The dream that didn't work", "front": "After college, he tried to become a newspaper cartoonist.", "back": "It didn't work out. So he got normal jobs, including designing online games for kids. He still kept drawing.", "tryit": "Think of one loss that taught you something. Write it down."},
+   {"emo": "⏳", "title": "Eight years of quiet work", "front": "In 1998 he started sketching ideas for Greg Heffley.", "back": "He worked on it for almost eight years before showing a publisher. Like a long rally, he kept the point going.", "tryit": "Pick one skill and practice it 10 minutes every day this week."},
+   {"emo": "💻", "title": "Online before it was a book", "front": "In 2004 the story first appeared on a kids' website, Funbrain.", "back": "He posted a new bit each day. About 70,000 people visited daily, like a hit Roblox game everyone shares.", "tryit": "Ask a friend: what makes you come back to a game every day?"},
+   {"emo": "🌍", "title": "A slow start, then huge", "front": "The first book came out in 2007.", "back": "Sales started slowly, then kids told friends. By 2025, over 300 million copies sold, in 50+ languages.", "tryit": "Recommend one book or show you love to a friend today."}
+  ],
+  "words": [
+   {"w": "Cartoonist", "d": "An artist who draws comics or funny pictures that tell a story."},
+   {"w": "Publisher", "d": "A company that prints books and sells them to stores."},
+   {"w": "Word of mouth", "d": "When people tell friends about something they like."},
+   {"w": "Narrator", "d": "The character who tells the story, like Greg in his journal."}
+  ],
+  "quiz": [
+   {"q": "What did Jeff Kinney want to be as a kid?", "opts": ["A pro tennis player", "A cartoonist", "A video game streamer"], "a": 1, "hint": "Think about what he drew in college.", "why": "He dreamed of drawing comics, and he drew Igdoof in college."},
+   {"q": "Where did Diary of a Wimpy Kid first appear?", "opts": ["On a kids' website", "In a movie", "On TV"], "a": 0, "hint": "Check idea 4. It was before the book.", "why": "It started on Funbrain in 2004, with a new part posted each day."},
+   {"q": "How did the first book become a hit?", "opts": ["It was famous on day one", "It won a game contest", "Kids told their friends about it"], "a": 2, "hint": "Look at the words to know.", "why": "Sales started slowly, then word of mouth made it grow and grow."},
+   {"q": "What did Jeff do when his first dream didn't work out?", "opts": ["He quit drawing forever", "He kept drawing and made something new", "He became a coach"], "a": 1, "hint": "Read the big idea at the top.", "why": "He kept drawing for years, and that work became Greg Heffley."}
+  ],
+  "think": "Jeff spent almost eight years on Greg before anyone saw him. What's something you'd be willing to work on for a long time, and why?",
+  "tries": [
+   "Draw a 3-panel comic starring a made-up kid like Greg",
+   "Keep a mini journal for 3 days, with one doodle each day",
+   "Practice one tennis shot for 10 minutes every day this week",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Britannica Kids"
+ }
+}
