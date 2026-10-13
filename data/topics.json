@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day and a howitworks topic about every fifth day), never repeating anything in done.",
  "queue": [
   {
-   "category": "games",
-   "subject": "Brawl Stars / Supercell",
-   "angle": "How Supercell made Brawl Stars and why it kills games that aren't fun enough"
-  },
-  {
    "category": "skills",
    "subject": "Create your own game: make your first Roblox obby",
    "angle": "Step by step: build, test and share a simple obstacle course in Roblox Studio"
@@ -461,6 +456,10 @@
   {
    "date": "2026-10-12",
    "subject": "Jeff Kinney"
+  },
+  {
+   "date": "2026-10-13",
+   "subject": "Brawl Stars / Supercell"
   }
  ]
 }

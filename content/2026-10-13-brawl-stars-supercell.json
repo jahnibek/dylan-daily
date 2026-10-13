@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-13",
+  "slug": "brawl-stars-supercell",
+  "category": "games",
+  "emoji": "⭐",
+  "title_plain": "How Brawl Stars almost got deleted before it was born",
+  "teaser": "Supercell tested Brawl Stars for 522 days and nearly cancelled it."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "The game that was <span class=\"hl\">almost deleted</span>: how Brawl Stars survived",
+  "sub": "The story of Supercell and Brawl Stars",
+  "bigIdea": "Supercell only keeps games that are truly fun. Brawl Stars nearly got cut, but the team <span class=\"hl\">kept changing it</span> until it worked.",
+  "cards": [
+   {"emo": "🧩", "title": "Tiny teams called cells", "front": "Supercell is a game company in Helsinki, Finland, started in 2010.", "back": "Games are made by small teams of 5 to 7 people, called cells. The team itself decides if its game lives or gets cancelled.", "tryit": "Pick 4 friends. If you made a game together, what job would each person do?"},
+   {"emo": "🇨🇦", "title": "Test it in Canada first", "front": "In June 2017, Brawl Stars quietly appeared in Canada's App Store.", "back": "This is a soft launch: a test in a few countries first. If players don't stick around, the game gets cancelled.", "tryit": "Show a friend a game idea. Watch their face. Do they want to keep playing?"},
+   {"emo": "📱", "title": "522 days of changes", "front": "The test lasted 522 days. Almost everything changed.", "back": "It began in portrait mode, where you tapped to move. Players liked joysticks, so it flipped sideways and went from 2D to 3D.", "tryit": "Play Brawl Stars for 5 minutes. Notice how both thumbs share the work."},
+   {"emo": "🌵", "title": "Spike began as numbers", "front": "Spike, the cactus Brawler, didn't start as a cactus.", "back": "First, designers made a balanced list of his attacks. Then artists turned those numbers into a cactus in overalls.", "tryit": "Invent a Brawler: write 3 attacks first, then draw what he looks like."},
+   {"emo": "🏆", "title": "Cancelled games teach lessons", "front": "Supercell has cancelled many games, even some that tested well.", "back": "They celebrate what each failure taught them. Brawl Stars nearly got cut too, then launched worldwide on 12 December 2018.", "tryit": "Think of a tennis match you lost. Write one thing it taught you."}
+  ],
+  "words": [
+   {"w": "Soft launch", "d": "Releasing a game in a few countries first to test it."},
+   {"w": "Prototype", "d": "A quick, rough first version made to test an idea."},
+   {"w": "Balance", "d": "Making sure no character is way too strong or too weak."},
+   {"w": "Feedback", "d": "What players tell you, or show you, about your game."}
+  ],
+  "quiz": [
+   {"q": "What is a soft launch?", "opts": ["A game with soft graphics", "Testing a game in a few countries first", "A game that's free forever"], "a": 1, "hint": "Look at where Brawl Stars showed up in 2017.", "why": "Supercell tests games in places like Canada before releasing them everywhere."},
+   {"q": "Why did Brawl Stars switch to sideways joystick controls?", "opts": ["Players enjoyed using joysticks", "Phones got bigger that year", "A famous streamer asked for it"], "a": 0, "hint": "Who was the team watching during the test?", "why": "The team saw players loved joysticks, so they rebuilt the game around them."},
+   {"q": "How did Spike's design begin?", "opts": ["As a drawing of a cactus", "As a character from a movie", "As a list of balanced attacks"], "a": 2, "hint": "Card 4: what came before the art?", "why": "Designers balanced his abilities first, and artists gave him a look later."},
+   {"q": "How does Supercell treat a cancelled game?", "opts": ["They hide it and never talk about it", "They celebrate the lessons it taught", "They blame one person"], "a": 1, "hint": "Read the big idea and card 5.", "why": "Supercell sees a cancelled game as a lesson, which makes it safe to take risks."}
+  ],
+  "think": "The Brawl Stars team kept changing their game for 522 days instead of giving up. What's something you do, in tennis or in games, that could get better if you changed one big thing?",
+  "tries": [
+   "Design a new Brawler on paper: 3 attacks, a Super and a name",
+   "Ask 2 friends what they'd change about Brawl Stars, and listen to their reasons",
+   "Change one thing in your tennis serve this week and see if it helps",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Newsweek, PocketGamer.biz, Supercell"
+ }
+}
