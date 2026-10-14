@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day and a howitworks topic about every fifth day), never repeating anything in done.",
  "queue": [
   {
-   "category": "skills",
-   "subject": "Create your own game: make your first Roblox obby",
-   "angle": "Step by step: build, test and share a simple obstacle course in Roblox Studio"
-  },
-  {
    "category": "screen",
    "subject": "The Karate Kid",
    "angle": "How The Karate Kid was made and the real lessons of 'wax on, wax off'"
@@ -460,6 +455,10 @@
   {
    "date": "2026-10-13",
    "subject": "Brawl Stars / Supercell"
+  },
+  {
+   "date": "2026-10-14",
+   "subject": "Create your own game: make your first Roblox obby"
   }
  ]
 }

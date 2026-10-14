@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-14",
+  "slug": "roblox-obby",
+  "category": "skills",
+  "emoji": "🧱",
+  "title_plain": "Make your first Roblox obby",
+  "teaser": "Build, test and publish your own obstacle course in Roblox Studio."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "Make your first Roblox obby: <span class=\"hl\">from player to creator</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "Alex Balfanz started making Roblox games at age 9. Later he co-created Jailbreak, with nearly 8 billion visits. Every creator starts with <span class=\"hl\">one simple build</span>.",
+  "cards": [
+   {"emo": "🗺️", "title": "Start with the template", "front": "Roblox Studio has a free Classic Obby template to learn from.", "back": "It starts easy and gets harder. It has moving platforms, launch pads and blocks that reset your health.", "tryit": "Open the Classic Obby template, click Play and finish it. Which obstacle was hardest?"},
+   {"emo": "🧱", "title": "Add platforms with parts", "front": "Every platform in an obby is a part.", "back": "Use the Part inserter on the Home tab. Pick a shape: Block, Sphere, Cylinder, Wedge or Corner Wedge.", "tryit": "Add 5 new platforms using at least 3 different shapes."},
+   {"emo": "📏", "title": "Move, scale, rotate", "front": "The gap between platforms decides if your obby is fun.", "back": "Use Move, Scale and Rotate to place each part. Start with easy jumps. If the start is too hard, players quit.", "tryit": "Make your first 3 jumps easy, then make jump 4 a little harder."},
+   {"emo": "⚓", "title": "Anchor everything down", "front": "Your platforms might fall the moment the game starts!", "back": "Hold Shift, select all your new parts and turn on Anchor. Now they stay put, even when players bump them.", "tryit": "Test once without anchoring and watch what happens. Then anchor everything."},
+   {"emo": "🚀", "title": "Test, then publish", "front": "Real creators test their game again and again.", "back": "Click Play with Test selected, try your course, then click Stop. Save with File, then Publish to Roblox.", "tryit": "Ask Dad to sit with you and publish your obby together."}
+  ],
+  "words": [
+   {"w": "Obby", "d": "Short for obstacle course: a game where you jump past challenges."},
+   {"w": "Part", "d": "A basic 3D shape in Roblox Studio, like a block or sphere."},
+   {"w": "Anchor", "d": "A setting that locks a part in place so it can't fall."},
+   {"w": "Playtest", "d": "Playing your own game to find what's broken or too hard."},
+   {"w": "Publish", "d": "Saving your game to Roblox so it's stored online."}
+  ],
+  "quiz": [
+   {"q": "Why should the first jumps in your obby be easy?", "opts": ["Easy jumps load faster", "Roblox doesn't allow hard jumps", "Players may quit if the start is too hard"], "a": 2, "hint": "Think about how you feel when a game is too hard right away.", "why": "Roblox's guide warns that a hard start makes players give up instead of continuing."},
+   {"q": "What happens to platforms that aren't anchored?", "opts": ["They fall when the game starts", "They turn invisible", "They change colour"], "a": 0, "hint": "Check card 4. What does Anchor stop?", "why": "Without Anchor, gravity pulls parts down as soon as the playtest begins."},
+   {"q": "Which tool changes how big a part is?", "opts": ["Move", "Scale", "Rotate"], "a": 1, "hint": "Which word is about size, like a map's scale?", "why": "Scale makes parts bigger or smaller, while Move and Rotate change position and direction."},
+   {"q": "What's the best order for building an obby?", "opts": ["Publish, then build, then test", "Test, then build, then anchor", "Build, anchor, test, then publish"], "a": 2, "hint": "You can't test something that isn't built yet.", "why": "Build first, lock parts down, test that it works, and then save it online."}
+  ],
+  "think": "Plan your own obby on paper. What's its theme, maybe a tennis court or a pirate ship? What are your 5 obstacles, from easiest to hardest?",
+  "tries": [
+   "Draw your obby plan on paper: theme, start, 5 obstacles and a finish",
+   "Small project: build a 10-platform obby in Roblox Studio and anchor every part",
+   "Get a friend to playtest it and watch where they fall most",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Roblox Creator Docs, Wikipedia"
+ }
+}
