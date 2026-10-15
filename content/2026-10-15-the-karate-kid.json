@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-15",
+  "slug": "the-karate-kid",
+  "category": "screen",
+  "emoji": "🥋",
+  "title_plain": "How The Karate Kid turned car chores into karate",
+  "teaser": "How a bullied teen's real story became a movie about patient practice."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How The Karate Kid turned <span class=\"hl\">car chores into karate</span>",
+  "sub": "The story of The Karate Kid",
+  "bigIdea": "The Karate Kid came out in 1984 and still inspires Cobra Kai today. Its biggest lesson is simple: <span class=\"hl\">boring practice, repeated, becomes real skill</span>.",
+  "cards": [
+   {"emo": "✍️", "title": "A writer's real story", "front": "The movie started with the writer's own life.", "back": "Robert Mark Kamen was bullied at 17 and began martial arts. His first teacher pushed revenge. A better teacher showed him karate for self-defense.", "tryit": "Write down one thing a great coach of yours taught you, besides the sport itself."},
+   {"emo": "🚗", "title": "Wax on, wax off", "front": "Daniel thinks he is just doing free chores.", "back": "He waxes cars and paints fences for days. Then Miyagi shows him the moves were karate blocks, learned by muscle memory.", "tryit": "Shadow-swing your forehand slowly 30 times. Does the last one feel smoother than the first?"},
+   {"emo": "🧔", "title": "Miyagi almost wasn't Morita", "front": "The studio first said no to Pat Morita.", "back": "He was known for comedy on Happy Days. He grew a beard, auditioned again and got the part. Later he earned an Oscar nomination.", "tryit": "Think of a time you lost but tried again. What did you change the second time?"},
+   {"emo": "🥷", "title": "Real experts behind the scenes", "front": "Real martial artists made the fights look right.", "back": "Fumio Demura, who worked with Bruce Lee, was Miyagi's stunt double. Fight designer Pat E. Johnson also plays the tournament referee.", "tryit": "Watch the final tournament scene and spot the referee. Now you know who he really is!"},
+   {"emo": "🏆", "title": "Small movie, giant hit", "front": "Nobody expected this movie to be huge.", "back": "It cost about $8 million and earned over $130 million worldwide. It led to sequels, a 2010 remake and Cobra Kai in 2018.", "tryit": "Ask Dad which Karate Kid scene he remembers best from when he was young."}
+  ],
+  "words": [
+   {"w": "Muscle memory", "d": "When your body does a move automatically because you practised it so much."},
+   {"w": "Screenplay", "d": "The written script of a movie, with scenes and dialogue."},
+   {"w": "Stunt double", "d": "An expert who does the hard action moves for an actor."},
+   {"w": "Choreographer", "d": "The person who plans every move in a fight or dance."},
+   {"w": "Sleeper hit", "d": "A movie that becomes a surprise success without much early hype."}
+  ],
+  "quiz": [
+   {"q": "Where did the idea for The Karate Kid mostly come from?", "opts": ["A video game", "The writer's own life", "A comic book"], "a": 1, "hint": "Look back at card 1. Who had bullies and a good teacher?", "why": "Robert Mark Kamen used his own karate training, plus a news story, to write it."},
+   {"q": "Why did Miyagi make Daniel wax cars?", "opts": ["To earn money", "To punish him", "To build blocks through repetition"], "a": 2, "hint": "Think about what those arm circles turned into later.", "why": "Doing the same motion again and again trained Daniel's blocks without him noticing."},
+   {"q": "What helped Pat Morita win the role after first being rejected?", "opts": ["Trying again with a new look", "Paying the director", "Doing a backflip"], "a": 0, "hint": "What did he grow before his second audition?", "why": "He grew a beard and gave a stronger second audition, and it worked."},
+   {"q": "What does this story teach about getting good at something?", "opts": ["Talent is all you need", "Only fancy moves matter", "Simple practice, repeated, builds real skill"], "a": 2, "hint": "Think about your tennis drills.", "why": "Like wax on, wax off, small repeated drills turn into skills you use under pressure."}
+  ],
+  "think": "What's your own \"wax on, wax off\"? Which boring drill in tennis or a game might secretly be building a skill you'll use in a big moment?",
+  "tries": [
+   "Pick one simple tennis drill and do it every day this week",
+   "Watch the wax on, wax off scene and count how many chores Daniel does",
+   "Teach a friend one move by having them repeat it 10 times",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, AFI Catalog"
+ }
+}
