@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day and a howitworks topic about every fifth day), never repeating anything in done.",
  "queue": [
   {
-   "category": "howitworks",
-   "subject": "How topspin works in tennis",
-   "angle": "Why a spinning ball dips and kicks up: the science behind Nadal's and Alcaraz's forehands"
-  },
-  {
    "category": "tennis",
    "subject": "Jannik Sinner",
    "angle": "How a skier from the Italian mountains switched to tennis and reached No. 1"
@@ -458,6 +453,10 @@
   {
    "date": "2026-10-15",
    "subject": "The Karate Kid"
+  },
+  {
+   "date": "2026-10-16",
+   "subject": "How topspin works in tennis"
   }
  ]
 }

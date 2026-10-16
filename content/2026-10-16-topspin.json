@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-16",
+  "slug": "topspin",
+  "category": "howitworks",
+  "emoji": "🎾",
+  "title_plain": "How topspin makes a tennis ball dive",
+  "teaser": "Why a spinning ball dips down: the air science behind big forehands."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How topspin makes a tennis ball <span class=\"hl\">dive like magic</span>",
+  "sub": "The science behind topspin",
+  "bigIdea": "A ball spinning forward pushes on the air, and the air pushes back. That is why <span class=\"hl\">topspin lets you hit high and still land it in</span>.",
+  "cards": [
+   {"emo": "🏸", "title": "It starts with your swing", "front": "Spin begins the moment strings touch the ball.", "back": "You swing from low to high, up and forward. The racket face tilts slightly down. Your strings brush up the back of the ball, so it rolls forward.", "tryit": "Shadow-swing 10 forehands slowly. Start below your knee and finish above your shoulder."},
+   {"emo": "🌀", "title": "The ball drags the air", "front": "A spinning ball is not alone in the air.", "back": "As it spins, the ball's fuzzy surface drags nearby air around with it. So the air flows differently on the top and the bottom.", "tryit": "Stir water in a cup, then stop. Notice how the water keeps swirling for a while."},
+   {"emo": "⬇️", "title": "Air pressure pushes down", "front": "Why does the ball suddenly dip?", "back": "On top, the spin moves against the air, so pressure rises. Underneath, the air moves faster and pressure drops. Higher pressure on top pushes the ball down.", "tryit": "Hold a paper strip under your lip and blow over it. Faster air on top lifts it up!"},
+   {"emo": "🥅", "title": "Clear the net, stay in", "front": "Topspin gives you a safety zone.", "back": "Because the ball drops faster, you can aim higher over the net and it still lands in. That bigger margin of error makes you more consistent.", "tryit": "At practice, hit 10 forehands aiming a racket-length above the net. Count how many land in."},
+   {"emo": "🦁", "title": "Nadal's heavy forehand", "front": "Rafa turned spin into a weapon.", "back": "His forehand averaged about 3,200 spins per minute and peaked near 5,000. Sampras and Agassi hit around 1,800. It worked best on high-bouncing clay.", "tryit": "Watch a Nadal forehand clip. Notice how high it clears the net before it dives."}
+  ],
+  "words": [
+   {"w": "Topspin", "d": "When a ball spins forward, top rolling toward your opponent, as it flies."},
+   {"w": "Magnus effect", "d": "The push a spinning ball gets from the air, curving its path."},
+   {"w": "Air pressure", "d": "How hard the air presses on something. More squeeze means more push."},
+   {"w": "Margin of error", "d": "Extra room so a slightly off shot still works."},
+   {"w": "RPM", "d": "Revolutions per minute: how many full spins happen in one minute."}
+  ],
+  "quiz": [
+   {"q": "Which swing path creates topspin?", "opts": ["High to low", "Low to high", "Flat and straight"], "a": 1, "hint": "Think about where your racket starts and finishes on a big forehand.", "why": "Brushing up the back of the ball from low to high makes it roll forward."},
+   {"q": "Why does a topspin ball dip down?", "opts": ["The air pushes harder on top", "The ball gets heavier", "Gravity turns off underneath"], "a": 0, "hint": "Look at card 3. Where is the pressure higher?", "why": "Spin raises pressure on top and lowers it below, so the ball is pushed down."},
+   {"q": "How does topspin help you in a match?", "opts": ["It makes the ball slower", "It stops the ball bouncing", "You can hit higher over the net safely"], "a": 2, "hint": "What happens to a high shot that drops faster?", "why": "A ball that dives can clear the net high and still land in the court."},
+   {"q": "Who first studied this spinning-ball effect in experiments?", "opts": ["Rafael Nadal", "H.G. Magnus", "Carlos Alcaraz"], "a": 1, "hint": "The effect is named after him.", "why": "German scientist H.G. Magnus tested it in 1853, long before modern tennis."}
+  ],
+  "think": "In your next match, when would you use a high, heavy topspin ball instead of a flat, fast one? Picture one point where it would help you win.",
+  "tries": [
+   "Do the paper-strip blowing test and explain it to someone",
+   "Hit 10 topspin forehands aiming high over the net",
+   "Watch a slow-motion forehand video and spot the low-to-high swing",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Britannica, Big Think"
+ }
+}
