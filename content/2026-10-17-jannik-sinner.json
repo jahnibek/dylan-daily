@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-17",
+  "slug": "jannik-sinner",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How a young ski champion became tennis world No. 1",
+  "teaser": "Jannik Sinner raced down mountains, then picked tennis and reached No. 1."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a ski champion from the mountains became <span class=\"hl\">tennis world No. 1</span>",
+  "sub": "The story of Jannik Sinner",
+  "bigIdea": "Jannik Sinner was great at skiing, but he chose tennis. Then he <span class=\"hl\">worked step by step</span> until he was the best in the world.",
+  "cards": [
+   {"emo": "⛷️", "title": "A kid on skis", "front": "Jannik was born in 2001 in the Dolomite mountains of Italy.", "back": "He started skiing at age 3. At 7, he won a national giant slalom title. He was one of Italy's top junior skiers.", "tryit": "List three sports you've tried. Which one felt most fun?"},
+   {"emo": "🤔", "title": "Choosing tennis at 13", "front": "He played tennis, skiing and football as a kid.", "back": "At 13 he picked tennis. He said in skiing, \"if you make one mistake, then it's over.\" In tennis, you can fight back.", "tryit": "Next match, after a lost point, take one breath and reset."},
+   {"emo": "🧳", "title": "Leaving home young", "front": "At 13, he moved far from home to train.", "back": "He went to Bordighera, Italy, to train with coach Riccardo Piatti. He thanks his parents for teaching him to be independent.", "tryit": "Do one task by yourself today, like packing your tennis bag."},
+   {"emo": "🦊", "title": "Ski legs on court", "front": "His nickname is \"The Fox.\"", "back": "People think skiing helped his fast side-to-side moves. He hits hard from the baseline, like a Brawl Stars sharpshooter.", "tryit": "Do 10 side-shuffles across the court, staying low and quick."},
+   {"emo": "🏆", "title": "Italy's first No. 1", "front": "In June 2024, he became world No. 1.", "back": "He was the first Italian ever to do it. By 2026 he'd won five Grand Slams and helped Italy win the Davis Cup twice.", "tryit": "Write one tennis goal for this month and stick it on your wall."}
+  ],
+  "words": [
+   {"w": "Giant slalom", "d": "A ski race where you zigzag fast through gates down a hill."},
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments, like Wimbledon or the US Open."},
+   {"w": "Baseline", "d": "The line at the very back of the tennis court."},
+   {"w": "Davis Cup", "d": "A team tennis competition where countries play against each other."}
+  ],
+  "quiz": [
+   {"q": "What sport was Jannik a champion in as a young kid?", "opts": ["Skiing", "Football", "Swimming"], "a": 0, "hint": "Think about where he grew up: snowy mountains.", "why": "He won a national giant slalom ski title at just 7 years old."},
+   {"q": "Why did he like tennis more than ski racing?", "opts": ["Tennis matches are shorter", "In tennis, one mistake doesn't end it", "Skiing was too cold"], "a": 1, "hint": "Read his quote in idea 2.", "why": "In a ski race one slip ends it, but in tennis you can win the next point."},
+   {"q": "How might skiing have helped his tennis?", "opts": ["It made him taller", "It made his serve slower", "It helped his quick side-to-side moves"], "a": 2, "hint": "Look at idea 4 about his legs.", "why": "Skiing trains balance and quick sideways movement, which helps on court."},
+   {"q": "What did Jannik become in June 2024?", "opts": ["A ski coach", "The first Italian world No. 1", "A football star"], "a": 1, "hint": "Check the last idea card.", "why": "He became the first Italian in history to be ranked world No. 1."}
+  ],
+  "think": "Jannik chose tennis because you can always fight back after a mistake. When you lose a point in a match, what helps you bounce back?",
+  "tries": [
+   "Practice a 'reset' habit after every lost point in your next match",
+   "Do side-shuffle footwork drills for 5 minutes, three days this week",
+   "Watch a Jannik Sinner highlight video and spot how he moves",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, ATP Tour"
+ }
+}
