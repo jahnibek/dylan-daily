@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-18",
+  "slug": "ai-smart-helper",
+  "category": "skills",
+  "emoji": "🤖",
+  "title_plain": "How to use AI as a smart helper",
+  "teaser": "Learn how AI chatbots work and how to make them coach your brain."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How to use AI as a smart helper: <span class=\"hl\">a coach, not a cheat code</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "AI chatbots like Claude can explain almost anything, any time of day. The trick is using AI to <span class=\"hl\">train your brain, not replace it</span>.",
+  "cards": [
+   {"emo": "🧠", "title": "Know what AI really is", "front": "A chatbot isn't a brain. So what is it?", "back": "Chatbots like Claude are large language models. They learned from huge amounts of text. They build answers by predicting the next word, again and again.", "tryit": "On your phone keyboard, type \"The best tennis shot is\" and keep tapping the suggested words. That's next-word guessing, mini version."},
+   {"emo": "🎯", "title": "Ask a clear question", "front": "A vague question gets a vague answer.", "back": "Say what you want and how. \"Explain topspin to a 13-year-old tennis player in 5 sentences\" works much better than just \"topspin?\"", "tryit": "With Dad, ask an AI the same question two ways: short and detailed. Which answer helps more?"},
+   {"emo": "🥋", "title": "Ask it to coach you", "front": "The best AI tutors don't hand you answers.", "back": "Sal Khan started by tutoring his cousin online. Later Khan Academy built Khanmigo, an AI tutor that guides you to find answers yourself.", "tryit": "Pick one maths problem. With Dad, ask an AI: \"Give me a hint, not the answer.\" Then solve it."},
+   {"emo": "🔍", "title": "Check the facts", "front": "AI can be totally wrong and still sound sure.", "back": "Sometimes AI makes things up and says them like facts. Experts call this a hallucination. Always check important facts in a second trusted source.", "tryit": "Ask an AI 3 facts about your favourite tennis player. Check each one on Wikipedia. Were they all right?"},
+   {"emo": "🔒", "title": "Keep private stuff private", "front": "What you type into AI may be saved.", "back": "Never share your full name, address, school, passwords or friends' photos. Real accounts on most AI tools need an adult, so use them with Dad.", "tryit": "Write a list of 5 things you would never type into an AI or any app."}
+  ],
+  "words": [
+   {"w": "Artificial intelligence (AI)", "d": "A computer program that does tasks that usually need human skill."},
+   {"w": "Large language model", "d": "An AI trained on huge amounts of text to write and answer."},
+   {"w": "Prompt", "d": "The question or instructions you type into an AI tool."},
+   {"w": "Hallucination", "d": "When AI gives false information but sounds sure it's true."},
+   {"w": "Privacy", "d": "Keeping your personal information safe and to yourself."}
+  ],
+  "quiz": [
+   {"q": "How does a chatbot like Claude build its answers?", "opts": ["It looks up one perfect answer in a giant book", "It predicts the next word, again and again", "A person types every reply really fast"], "a": 1, "hint": "Think about the phone keyboard test in card 1.", "why": "Large language models build answers one word at a time by predicting what comes next."},
+   {"q": "An AI gives you a fact for a school project. What should you do?", "opts": ["Check it in a second trusted source", "Use it straight away, because AI is always right", "Ask the AI if it's sure, then use it"], "a": 0, "hint": "Can AI sound sure even when it's wrong?", "why": "AI can hallucinate and still sound confident, so only another trusted source can confirm it."},
+   {"q": "Which prompt will get you the most useful help?", "opts": ["\"Tennis\"", "\"Tell me stuff\"", "\"Explain how to hit a better backhand slice, in 5 simple steps\""], "a": 2, "hint": "Which one tells the AI exactly what you want and how?", "why": "A clear, detailed prompt tells the AI the topic, the goal and the format you want."},
+   {"q": "What's the smartest way to use AI for homework?", "opts": ["Ask it to write the whole thing", "Ask it for hints and questions while you do the work", "Copy its answer and change a few words"], "a": 1, "hint": "Which choice still makes your own brain do the training?", "why": "Handing in work you didn't create can count as cheating, but hints help you really learn."}
+  ],
+  "think": "Plan your own AI study buddy. What's one thing you want to learn, like a tennis tactic, a maths topic or a Roblox script? Write the exact prompt you'd use so the AI coaches you instead of giving answers.",
+  "tries": [
+   "With Dad, ask an AI to quiz you on one school topic, using hints only",
+   "Small project: write 3 great prompts (tennis, school and a Roblox idea) and test them with Dad",
+   "Catch an AI mistake: check 3 of its facts against a trusted source",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Common Sense Media, Khan Academy"
+ }
+}
