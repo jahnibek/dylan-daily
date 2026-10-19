@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-19",
+  "slug": "pete-sampras",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How a quiet kid with a huge serve won 7 Wimbledons",
+  "teaser": "Pete Sampras hit balls against a wall, then built a serve nobody could break."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a quiet kid with a huge serve won <span class=\"hl\">7 Wimbledons</span>",
+  "sub": "The story of Pete Sampras",
+  "bigIdea": "Pete Sampras changed his whole game as a teenager, even when it was hard. That brave switch helped him <span class=\"hl\">win 14 Grand Slams</span>.",
+  "cards": [
+   {"emo": "🧱", "title": "A racket in the basement", "front": "Pete was born in 1971 in Washington, D.C.", "back": "At age 3, he found a tennis racket in his basement. He spent hours hitting balls against the wall. His hero was champion Rod Laver.", "tryit": "Hit 50 balls against a wall today. Count how many in a row you keep going."},
+   {"emo": "🔄", "title": "The big switch at 14", "front": "As a kid, Pete hit a two-handed backhand.", "back": "At 14, he and coach Peter Fischer changed to a one-handed backhand and serve-and-volley. He struggled at first, but it paid off.", "tryit": "Pick one shot you want to improve. Practice it 20 times, even if it feels weird."},
+   {"emo": "🔫", "title": "Meet \"Pistol Pete\"", "front": "His serve was one of the best ever.", "back": "It was clocked at over 200 km/h (120 mph). It was so strong that fans called him \"Pistol Pete.\" Think of a one-shot sniper in Fortnite.", "tryit": "Serve 10 balls. Aim each one at the same corner of the box."},
+   {"emo": "🏆", "title": "Youngest US Open champ", "front": "In 1990, Pete won his first Grand Slam.", "back": "He won the US Open at 19. He became its youngest-ever men's champion. Later he won seven Wimbledon titles in eight years.", "tryit": "Write down one thing you can do now that you couldn't do a year ago."},
+   {"emo": "😌", "title": "Calm wins big", "front": "Pete was known for being quiet on court.", "back": "He stayed calm under pressure. He was No. 1 at year's end six years in a row, 1993 to 1998. That's a record.", "tryit": "Before your next serve, take one slow breath and picture where it will go."}
+  ],
+  "words": [
+   {"w": "Serve-and-volley", "d": "Serving, then rushing to the net to hit the ball before it bounces."},
+   {"w": "Backhand", "d": "A shot hit with the back of your hand facing the net."},
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments, like Wimbledon or the US Open."},
+   {"w": "Year-end No. 1", "d": "The player ranked best in the world when the season finishes."}
+  ],
+  "quiz": [
+   {"q": "How did little Pete first practise tennis?", "opts": ["At a tennis academy", "Hitting balls against a wall", "Playing video games"], "a": 1, "hint": "Think about the racket he found at home.", "why": "At age 3, he hit balls for hours against a wall in his basement."},
+   {"q": "What did Pete change at age 14?", "opts": ["His country", "His racket colour", "His backhand and style of play"], "a": 2, "hint": "Look at idea 2. It was a hard change.", "why": "He switched to a one-handed backhand and a serve-and-volley game."},
+   {"q": "Why was he called \"Pistol Pete\"?", "opts": ["His super-fast serve", "He ran very fast", "He loved cowboy movies"], "a": 0, "hint": "Which shot was he most famous for?", "why": "His serve was so powerful and precise that it earned him the nickname."},
+   {"q": "Which tournament did Pete win seven times?", "opts": ["US Open", "Wimbledon", "Australian Open"], "a": 1, "hint": "It's played on grass in London.", "why": "He won Wimbledon seven times in eight years, from 1993 to 2000."}
+  ],
+  "think": "Pete changed his backhand at 14, even though it made him worse at first. Is there a part of your game you'd change if you knew it would pay off later?",
+  "tries": [
+   "Do a wall-hitting challenge: try to beat your record of hits in a row",
+   "Serve 20 balls this week, aiming for one target corner",
+   "Watch a Pete Sampras Wimbledon highlight and notice how he rushes to the net",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Britannica"
+ }
+}
