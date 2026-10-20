@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-20",
+  "slug": "akira-toriyama",
+  "category": "anime",
+  "emoji": "🐉",
+  "title_plain": "How a kid who drew his friends powered up a generation of manga artists",
+  "teaser": "Akira Toriyama came last, kept drawing, and created Dragon Ball."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a kid who drew his friends <span class=\"hl\">powered up</span> a generation of manga artists",
+  "sub": "The story of Akira Toriyama",
+  "bigIdea": "Akira Toriyama's first stories flopped, but he kept drawing anyway. That stubborn practice led to Dragon Ball and <span class=\"hl\">inspired the creators of One Piece and Naruto</span>.",
+  "cards": [
+   {"emo": "🖍️", "title": "The kid who drew friends", "front": "Akira was born in 1955 in Kiyosu, Japan.", "back": "He loved drawing animals and cars. Everyone in his class copied manga. He got ahead of them when he started drawing his friends instead.", "tryit": "Draw a friend or teammate as a cartoon character in 10 minutes."},
+   {"emo": "📉", "title": "Last place, then 500 pages", "front": "His first published story was in 1978.", "back": "It was called Wonder Island, and it came last in the readers' vote. He was too stubborn to quit. He drew about 500 more pages in a year.", "tryit": "Pick a skill you're bad at. Do 10 minutes of it today, just for practice."},
+   {"emo": "🤖", "title": "A super-strong robot girl", "front": "In 1980, he finally had a hit.", "back": "Dr. Slump starred Arale, a tiny robot girl who was super strong. It won a big award in 1981 and sold over 35 million copies in Japan.", "tryit": "Invent a character who looks weak but has a surprise power. Sketch them."},
+   {"emo": "🐉", "title": "Kung fu films become Dragon Ball", "front": "Dragon Ball sold about 260 million copies worldwide.", "back": "He loved Jackie Chan movies, so in 1984 he started Dragon Ball. Fun fact: Super Saiyans got blond hair partly so there was less to ink.", "tryit": "Watch a fight scene you like. Count how many moves happen in 10 seconds."},
+   {"emo": "🏴‍☠️", "title": "Passing the power on", "front": "Your favourite manga creators were his fans.", "back": "Eiichiro Oda (One Piece) and Masashi Kishimoto (Naruto) were inspired by his work. In 2006, Toriyama and Oda even drew a crossover story together.", "tryit": "Find one thing in One Piece that reminds you of Dragon Ball. Write it down."}
+  ],
+  "words": [
+   {"w": "Manga", "d": "Japanese comics, usually read from right to left."},
+   {"w": "Editor", "d": "The person who helps an artist improve stories before they're printed."},
+   {"w": "Inking", "d": "Going over pencil drawings with black ink so they print clearly."},
+   {"w": "Character designer", "d": "The artist who decides how characters in a game or show look."}
+  ],
+  "quiz": [
+   {"q": "What happened to Toriyama's first published story?", "opts": ["It won a big prize", "It came last in a readers' vote", "It became a movie right away"], "a": 1, "hint": "Think about why he needed to be stubborn.", "why": "Wonder Island came last, but he kept drawing for a whole year."},
+   {"q": "Who was Arale in Dr. Slump?", "opts": ["A tiny, super-strong robot girl", "A kung fu master", "A dragon"], "a": 0, "hint": "She looked small, but she wasn't weak.", "why": "Arale was a small robot with huge strength, and readers loved her."},
+   {"q": "Why did Super Saiyans get blond hair?", "opts": ["Fans voted for it", "To look like the Sun", "So there was less to ink"], "a": 2, "hint": "Think about the work of drawing every page by hand.", "why": "Blond hair meant less black ink to fill in, a smart shortcut for a busy artist."},
+   {"q": "Which creator was inspired by Toriyama?", "opts": ["The maker of Fortnite", "Eiichiro Oda of One Piece", "Jeff Kinney"], "a": 1, "hint": "Look at idea 5 and think about pirates.", "why": "Oda grew up loving Toriyama's work and later drew a crossover with him."}
+  ],
+  "think": "Toriyama drew about 500 pages of stories that flopped before his big hit. What's something in tennis or school you'd keep working on, even after a \"last place\"?",
+  "tries": [
+   "Draw a 4-panel comic about your best tennis point ever",
+   "Design a character and give them one smart drawing shortcut, like Super Saiyan hair",
+   "Show your favourite drawing to someone and ask for one tip, like an editor would",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Polygon, BBC"
+ }
+}

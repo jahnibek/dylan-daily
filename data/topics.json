@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day and a howitworks topic about every fifth day), never repeating anything in done.",
  "queue": [
   {
-   "category": "anime",
-   "subject": "Akira Toriyama",
-   "angle": "How the creator of Dragon Ball inspired a generation of manga artists"
-  },
-  {
    "category": "games",
    "subject": "Shigeru Miyamoto",
    "angle": "How Nintendo's Miyamoto invented Mario and Zelda from his childhood adventures"
@@ -554,6 +549,10 @@
   {
    "date": "2026-10-19",
    "subject": "Pete Sampras"
+  },
+  {
+   "date": "2026-10-20",
+   "subject": "Akira Toriyama"
   }
  ]
 }
