@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-21",
+  "slug": "shigeru-miyamoto",
+  "category": "games",
+  "emoji": "🍄",
+  "title_plain": "How a boy who explored caves invented Mario and Zelda",
+  "teaser": "Shigeru Miyamoto turned his childhood adventures into the world's most famous games."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a boy who explored caves <span class=\"hl\">invented Mario and Zelda</span>",
+  "sub": "The story of Shigeru Miyamoto",
+  "bigIdea": "Shigeru Miyamoto didn't copy other games. He <span class=\"hl\">turned his own real-life adventures into play</span>, and the whole world joined in.",
+  "cards": [
+   {"emo": "🌲", "title": "The kid who explored everything", "front": "He was born in 1952 in Sonobe, Japan.", "back": "As a boy, he explored fields, woods and caves near his home. Once, on a hike, he found a hidden lake. It felt like a real adventure.", "tryit": "Walk somewhere near home you've never really looked at. Spot three new things."},
+   {"emo": "🧸", "title": "Toys got him hired", "front": "He studied industrial design at art college.", "back": "He first dreamed of drawing manga. In 1977, he showed his toy creations to Nintendo's president and got a job as an apprentice.", "tryit": "Sketch a toy or gadget you wish existed. Label three parts."},
+   {"emo": "🦍", "title": "Jumpman becomes Mario", "front": "His first big hit was Donkey Kong in 1981.", "back": "The hero was first called \"Jumpman.\" Later, Nintendo named him Mario, after the landlord of its warehouse. A name can change. The idea stays.", "tryit": "Invent a hero for a game. Give them a simple nickname based on what they do."},
+   {"emo": "🗡️", "title": "A cave becomes Zelda", "front": "The Legend of Zelda came out in 1986.", "back": "He based it on exploring the countryside as a kid. The first screen shows a cave, just like his memory. Inside, you get a sword.", "tryit": "Draw a map of a secret area in your favourite Roblox or Fortnite world."},
+   {"emo": "🌱", "title": "Ideas are everywhere", "front": "Mario has sold over 800 million games.", "back": "He kept finding ideas in normal life. Gardening with his wife led to Pikmin. His dog Pikku inspired Nintendogs.", "tryit": "Pick one hobby, like tennis. Write one game idea that comes from it."}
+  ],
+  "words": [
+   {"w": "Industrial design", "d": "Designing everyday objects, like toys, so they look good and work well."},
+   {"w": "Apprentice", "d": "A beginner who learns a job by working with experts."},
+   {"w": "Franchise", "d": "A big series of games, films or books with the same characters."},
+   {"w": "Dungeon", "d": "In games, a maze-like area full of puzzles, enemies and treasure."}
+  ],
+  "quiz": [
+   {"q": "What did Miyamoto show Nintendo to get his job?", "opts": ["A finished video game", "His toy creations", "A manga book"], "a": 1, "hint": "Think about what he studied at college.", "why": "He studied industrial design, so he showed the toys he had designed."},
+   {"q": "What was Mario's first name in Donkey Kong?", "opts": ["Jumpman", "Plumber Pete", "Super Guy"], "a": 0, "hint": "Think about what the hero does over barrels.", "why": "He was called Jumpman because jumping was his main move."},
+   {"q": "Where did the idea for Zelda come from?", "opts": ["A famous movie", "A fan contest", "His childhood exploring caves and woods"], "a": 2, "hint": "Look back at the first card.", "why": "Zelda recreates the feeling of exploring that he loved as a boy."},
+   {"q": "Which game was inspired by his dog?", "opts": ["Pikmin", "Nintendogs", "Super Mario Bros."], "a": 1, "hint": "The name is a clue.", "why": "His Shetland Sheepdog, Pikku, inspired Nintendogs in 2005."}
+  ],
+  "think": "Miyamoto turned exploring caves into Zelda. What moment from your own life, like a big tennis match, could you turn into a game?",
+  "tries": [
+   "Explore a new path or park and imagine it as a game level",
+   "Design one screen of a game on paper, with a hidden secret in it",
+   "Play a Mario or Zelda game and spot one thing that feels like real exploring",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Video Games Chronicle"
+ }
+}
