@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-22",
+  "slug": "video-game-graphics",
+  "category": "howitworks",
+  "emoji": "🎮",
+  "title_plain": "How video game graphics draw a whole world 60 times a second",
+  "teaser": "Triangles, pixels and a super-fast chip: how your games get drawn."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How your games draw a whole world <span class=\"hl\">60 times a second</span>",
+  "sub": "The science behind video game graphics",
+  "bigIdea": "Every game world is built from tiny triangles. A special chip turns them into colored dots, <span class=\"hl\">over and over, faster than you can blink</span>.",
+  "cards": [
+   {"emo": "🔺", "title": "Everything is made of triangles", "front": "Your Fortnite skin is secretly a pile of shapes.", "back": "Game objects are split into tiny flat shapes, usually triangles. Thousands join into a 3D model. Modern graphics chips can handle millions of triangles in every frame.", "tryit": "Fold a paper strip into triangles and tape them into a pyramid. That's a tiny 3D model!"},
+   {"emo": "🎨", "title": "Textures paint the triangles", "front": "Bare triangles look like grey plastic.", "back": "A texture is a flat picture wrapped onto the triangles, like a sticker. It adds wood grain, bricks or the pattern on a character's outfit.", "tryit": "Wrap a gift-paper scrap around a box. The box is the model; the paper is the texture."},
+   {"emo": "💡", "title": "Lights and shaders add mood", "front": "Why does a sunset level feel warm?", "back": "Small programs called shaders work out each spot's color. They check where the lights are and whether a surface sits in shadow.", "tryit": "Shine a phone flashlight on a ball from different sides. Watch the bright and dark parts move."},
+   {"emo": "🟦", "title": "Triangles become pixels", "front": "Your screen only shows tiny colored dots.", "back": "Rasterization finds which pixels each triangle covers and fills them in. A 1080p screen has 1,920 by 1,080 pixels: about 2 million dots.", "tryit": "Look very closely at a screen with a magnifying glass or phone zoom. Spot the tiny dots."},
+   {"emo": "⚡", "title": "Repeat it 60 times a second", "front": "One picture isn't a game. You need lots.", "back": "Each finished picture is a frame. Gamers see 60 frames per second as the minimum for smooth play. A GPU splits the work into many small jobs at once.", "tryit": "Draw a stick figure moving across 10 sticky notes. Flip them fast to make it move."}
+  ],
+  "words": [
+   {"w": "Polygon", "d": "A flat shape with straight sides. Games mostly use triangles."},
+   {"w": "Texture", "d": "A picture wrapped onto a 3D model to give it detail."},
+   {"w": "Pixel", "d": "One tiny colored dot on a screen. Millions make a picture."},
+   {"w": "Frame rate (FPS)", "d": "How many new pictures appear each second. Higher looks smoother."},
+   {"w": "GPU", "d": "A graphics chip that does many small calculations at the same time."}
+  ],
+  "quiz": [
+   {"q": "What shape are most game models built from?", "opts": ["Circles", "Triangles", "Stars"], "a": 1, "hint": "Think of the simplest flat shape with straight sides.", "why": "Game objects are split into many small triangles that join into a 3D model."},
+   {"q": "What does a texture do?", "opts": ["Paints detail onto the model", "Makes the game louder", "Moves your character"], "a": 0, "hint": "Remember the gift-paper and box idea.", "why": "A texture is a picture wrapped onto triangles, like a sticker on a box."},
+   {"q": "Why does a game need many frames every second?", "opts": ["To save battery", "To make the screen brighter", "So movement looks smooth"], "a": 2, "hint": "Think about your flip-book of sticky notes.", "why": "Lots of pictures shown quickly trick your eyes into seeing smooth motion."},
+   {"q": "Why is a GPU so fast at graphics?", "opts": ["It skips half the pixels", "It does many small jobs at once", "It only draws one color"], "a": 1, "hint": "Is it better to have one worker or a whole team?", "why": "A GPU splits the picture into tiny pieces and works on them in parallel."}
+  ],
+  "think": "Next time you play Fortnite or Roblox, which part of the scene would need the most triangles: a tree, a wall or a character? Why do you think so?",
+  "tries": [
+   "Make a sticky-note flip-book with at least 10 frames",
+   "Turn on an FPS counter in a game's settings if it has one, and watch the number",
+   "Find the blockiest, most triangle-looking object in your favorite game",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Unity"
+ }
+}

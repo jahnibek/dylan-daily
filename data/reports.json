@@ -1,5 +1,14 @@
 [
  {
+  "file": "2026-10-22-video-game-graphics.html",
+  "date": "2026-10-22",
+  "slug": "video-game-graphics",
+  "category": "howitworks",
+  "emoji": "🎮",
+  "title_plain": "How video game graphics draw a whole world 60 times a second",
+  "teaser": "Triangles, pixels and a super-fast chip: how your games get drawn."
+ },
+ {
   "file": "2026-10-21-shigeru-miyamoto.html",
   "date": "2026-10-21",
   "slug": "shigeru-miyamoto",
