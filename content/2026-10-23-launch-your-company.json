@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-23",
+  "slug": "launch-your-company",
+  "category": "skills",
+  "emoji": "🚀",
+  "title_plain": "How to launch your own company",
+  "teaser": "Turn one good idea into your very first happy customer, step by step."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How to launch your own company: <span class=\"hl\">from idea to first customer</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "Mikaila Ulmer started selling lemonade at about age 4, and later it was in over 1,500 stores. Every big company starts the same way: <span class=\"hl\">one idea, one customer, then lots of practice</span>.",
+  "cards": [
+   {"emo": "💡", "title": "Start with a real problem", "front": "The best ideas fix something or make people smile.", "back": "Mikaila used her great-grandmother's 1940s lemonade recipe, sweetened with local honey. She wanted to help bees, and gives part of her profits to save them.", "tryit": "Spend 10 minutes listing 5 small problems you notice at home, at school or on the tennis court."},
+   {"emo": "🔍", "title": "Test your idea first", "front": "Before you build it, find out if anyone wants it.", "back": "The U.S. Small Business Administration calls this market research. Ask real people if they need your idea. Check who already sells something similar.", "tryit": "Ask 3 family members: \"Would you use this? What would you pay?\" Write down their answers."},
+   {"emo": "📝", "title": "Make a one-page plan", "front": "A plan is like a game strategy before a match.", "back": "Write what you sell, who buys it, what it costs to make and your price. The price minus the cost is your profit.", "tryit": "Pick your best idea. In 15 minutes, fill in four lines: product, customer, cost and price."},
+   {"emo": "🍋", "title": "Find your first customer", "front": "One happy customer beats a hundred maybe-customers.", "back": "Mikaila first sold lemonade in front of her house. Then a local pizza shop asked to sell it. Start small and close to home.", "tryit": "Write a one-sentence offer, like \"I'll teach your little brother a forehand drill.\" Practise saying it to Dad."},
+   {"emo": "🔁", "title": "Listen, improve, grow", "front": "Your first version won't be perfect. That's normal.", "back": "Feedback shows you what to fix. Mikaila's company grew step by step. In 2015 she got $60,000 from Daymond John on the TV show Shark Tank.", "tryit": "Ask one person who tried your idea: \"What's one thing I could make better?\" Write it down."}
+  ],
+  "words": [
+   {"w": "Entrepreneur", "d": "A person who starts their own business or project."},
+   {"w": "Customer", "d": "A person who buys or uses what you offer."},
+   {"w": "Market research", "d": "Finding out if people want your idea before you build it."},
+   {"w": "Profit", "d": "The money left over after you pay what it cost to make."},
+   {"w": "Feedback", "d": "What people tell you about your work so you can improve it."}
+  ],
+  "quiz": [
+   {"q": "What's the best way to start a company idea?", "opts": ["Pick the most expensive product you can think of", "Copy exactly what a big brand already sells", "Find a problem people have, or something that makes them happy"], "a": 2, "hint": "Look back at card 1. Why did Mikaila make her lemonade?", "why": "Companies grow when they help people, so a real problem is the best starting point."},
+   {"q": "You think kids at school want custom tennis grip tape. What should you do first?", "opts": ["Ask a few kids if they'd want it and what they'd pay", "Buy 500 rolls straight away", "Keep it secret until it's perfect"], "a": 0, "hint": "What does the Small Business Administration call checking an idea first?", "why": "Market research tells you if people want your idea before you spend money on it."},
+   {"q": "You sell bracelets for 5 dollars, and each one costs 2 dollars to make. What's your profit per bracelet?", "opts": ["5 dollars", "3 dollars", "7 dollars"], "a": 1, "hint": "Profit is what's left after you pay for making it.", "why": "Price minus cost is profit, so 5 minus 2 leaves 3 dollars."},
+   {"q": "Your first customer says your product is OK but a bit boring. What's the smart move?", "opts": ["Quit, because it failed", "Ignore them, because they're wrong", "Use the feedback to make the next version better"], "a": 2, "hint": "Think about how a coach helps you fix your serve.", "why": "Feedback is like coaching: it shows you exactly what to practise and improve."}
+  ],
+  "think": "Plan your own mini company. What would you sell or teach, like drawings, tennis tips for younger kids or a Roblox game you built? Who would your first customer be, and what would you ask them?",
+  "tries": [
+   "Do your market research: ask 3 people what they think of your idea",
+   "Small project: with Dad's OK, sell or offer one thing you made to family or friends",
+   "Fill in your one-page plan: product, customer, cost, price",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, U.S. Small Business Administration"
+ }
+}

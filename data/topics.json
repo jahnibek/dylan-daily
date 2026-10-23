@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day and a howitworks topic about every fifth day), never repeating anything in done.",
  "queue": [
   {
-   "category": "skills",
-   "subject": "How to launch your own company",
-   "angle": "From an idea to your first customer, using real stories of kid and teen founders"
-  },
-  {
    "category": "wildcard",
    "subject": "How tennis was born",
    "angle": "How a French hand-ball game played by kings turned into modern tennis"
@@ -551,6 +546,10 @@
   {
    "date": "2026-10-22",
    "subject": "How video game graphics work"
+  },
+  {
+   "date": "2026-10-23",
+   "subject": "How to launch your own company"
   }
  ]
 }
