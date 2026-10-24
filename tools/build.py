@@ -15,7 +15,8 @@ import html, json, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATS = {"tennis": "Tennis", "games": "Games", "screen": "Movies & Shows",
         "books": "Books", "anime": "Anime & Manga", "wildcard": "Wildcard",
-        "skills": "Skills", "howitworks": "How Stuff Works"}
+        "skills": "Skills", "howitworks": "How Stuff Works",
+        "mathsci": "Science & Math"}
 
 
 def fail(msg):

@@ -1,5 +1,5 @@
 {
-  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day and a howitworks topic about every fifth day), never repeating anything in done.",
+  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
   "queue": [
     {
       "category": "tennis",
@@ -32,6 +32,11 @@
       "angle": "How Percy Jackson started as bedtime stories for his son"
     },
     {
+      "category": "mathsci",
+      "subject": "Tennis tiebreak probability",
+      "angle": "If you win 55% of points, how often do you win the match? The surprising maths of tennis scoring"
+    },
+    {
       "category": "tennis",
       "subject": "Ben Shelton",
       "angle": "How a college player coached by his dad shot up the rankings with a huge serve"
@@ -60,6 +65,11 @@
       "category": "anime",
       "subject": "Masashi Kishimoto",
       "angle": "How Naruto's creator turned rejection into one of the biggest manga ever"
+    },
+    {
+      "category": "mathsci",
+      "subject": "Infinity",
+      "angle": "Why some infinities are bigger than others, and Georg Cantor's big idea"
     },
     {
       "category": "skills",
@@ -92,6 +102,11 @@
       "angle": "Strong passwords, spotting scams, and what never to share in games or chats"
     },
     {
+      "category": "mathsci",
+      "subject": "Prime numbers and secret codes",
+      "angle": "How prime numbers keep your game accounts and messages safe"
+    },
+    {
       "category": "games",
       "subject": "Among Us / Innersloth",
       "angle": "How a tiny 3-person studio's flop became a global hit two years later"
@@ -120,6 +135,11 @@
       "category": "tennis",
       "subject": "Rafael Nadal",
       "angle": "How Nadal's uncle coached him to 14 French Open titles"
+    },
+    {
+      "category": "mathsci",
+      "subject": "Fibonacci and patterns in nature",
+      "angle": "Why sunflowers, pine cones and shells follow the same number pattern"
     },
     {
       "category": "tennis",
@@ -152,6 +172,11 @@
       "angle": "From wood to metal to graphite: the science of how rackets got lighter and more powerful"
     },
     {
+      "category": "mathsci",
+      "subject": "The Monty Hall puzzle",
+      "angle": "The famous three-door puzzle that fooled thousands of maths experts"
+    },
+    {
       "category": "wildcard",
       "subject": "Lionel Messi",
       "angle": "How a small kid who needed growth treatment became the greatest footballer"
@@ -180,6 +205,11 @@
       "category": "howitworks",
       "subject": "How Hawk-Eye calls lines in tennis",
       "angle": "How cameras and computers decide if a ball was in or out"
+    },
+    {
+      "category": "mathsci",
+      "subject": "Einstein and time slowing down",
+      "angle": "Why time really slows down when you move close to the speed of light"
     },
     {
       "category": "skills",
@@ -212,6 +242,11 @@
       "angle": "From storyboard to key frames to voice acting: how an episode like One Piece gets made"
     },
     {
+      "category": "mathsci",
+      "subject": "Rubik's cube maths",
+      "angle": "How many ways can a Rubik's cube be mixed, and why any mix can be solved in 20 moves"
+    },
+    {
       "category": "tennis",
       "subject": "Daniil Medvedev",
       "angle": "How Medvedev's unusual style beat the Big Three"
@@ -240,6 +275,11 @@
       "category": "howitworks",
       "subject": "How GPS knows where you are",
       "angle": "Satellites, timing and a little maths that finds you anywhere on Earth"
+    },
+    {
+      "category": "mathsci",
+      "subject": "Black holes",
+      "angle": "What happens near a black hole, and how scientists took the first picture of one"
     },
     {
       "category": "wildcard",

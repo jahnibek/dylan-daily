@@ -7,7 +7,7 @@ A daily interactive report for Dylan (13) about the people behind the things he 
 1. **Pick today's topic.** Take the first item in `data/topics.json` → `queue`. Use its `subject` and `angle`. If that subject already appears in `done`, skip to the next one.
 2. **Research.** Read the subject's Wikipedia page, plus one more reliable source (an official site, a major news outlet or Guinness World Records). Use only facts you've read in a source. Prefer round numbers a 13-year-old can picture, and give years for anything that changes, like rankings or sales.
 3. **Write the content file** `content/YYYY-MM-DD-<slug>.json`, using today's date in Almaty (UTC+5). Copy the shape of any existing file in `content/`:
-   - `meta`: `date`, `slug` (lowercase-hyphenated), `category` (one of `tennis`, `games`, `screen`, `books`, `anime`, `wildcard`, `skills`, `howitworks`), `emoji`, `title_plain` (no HTML), and `teaser` (one sentence, at most about 15 words).
+   - `meta`: `date`, `slug` (lowercase-hyphenated), `category` (one of `tennis`, `games`, `screen`, `books`, `anime`, `wildcard`, `skills`, `howitworks`, `mathsci`), `emoji`, `title_plain` (no HTML), and `teaser` (one sentence, at most about 15 words).
    - `page`: `kind` is "Report for Dylan" and `readTime` is "4 min read". `title` is a fun, curiosity-driven headline with one phrase wrapped in `<span class="hl">…</span>`. `sub` is "The story of …". `bigIdea` is one or two sentences with one highlighted phrase.
    - `cards`: exactly 5. Each has an emoji, a `title` of at most 6 words, a `front` teaser, a `back` of at most 30 words, and a `tryit` with a concrete action for Dylan.
    - `words`: 3–5 terms, each with a definition of at most 15 words.
@@ -55,6 +55,17 @@ These explain how something works: the science, the technology or the engineerin
 - **Cards** walk through how it works, one step at a time and in order. Use everyday comparisons from his world: tennis, games, his phone and laptop.
 - Each card's `tryit` is a quick at-home experiment or something to notice. Keep it safe: no fire, no electricity experiments, no taking devices apart.
 - **Words to know** carries the key science terms. The quiz checks that he understood the idea, not that he memorised numbers.
+
+## Science & Math reports (category `mathsci`)
+
+Once a week, a report that makes Dylan think hard. Each one is built around one puzzle or big idea in maths or science.
+- **Research** Wikipedia plus one trusted source, such as NASA, Khan Academy, a university, Britannica, the BBC or a science museum. Where it fits, include the real person behind the idea (for example Gauss, Ramanujan, Emmy Noether, Marie Curie).
+- **Title** a question or puzzle, like "Why some infinities are bigger than others", with `sub` set to "A challenge for your brain".
+- **Level: stretch.** Aim a grade or two above school level. Most problems should be solvable with effort, and one should be a real head-scratcher.
+- **Cards** build the idea step by step. Start from his world (tennis, games, anime), then go a level deeper. The 5th card is titled "Your challenge": its `front` poses a problem and its `back` gives the answer and the reasoning. Each `tryit` is something to work out with pencil and paper, a quick count or a safe experiment.
+- **Quiz:** at least 3 of the 4 questions are problems to work out, not facts to remember. Hints suggest a strategy (draw it, try a smaller case, look for a pattern) without giving the answer. The `why` shows the reasoning.
+- **Think** is an open puzzle or "what if" question with no single right answer.
+- Check every calculation and answer twice before building.
 
 ## Writing rules (age 13)
 
