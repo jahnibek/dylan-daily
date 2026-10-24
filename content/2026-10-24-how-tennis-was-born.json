@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-24",
+  "slug": "how-tennis-was-born",
+  "category": "wildcard",
+  "emoji": "👑",
+  "title_plain": "How tennis was born",
+  "teaser": "Tennis started as a hand game in France, long before rackets existed."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "Before rackets, players hit the ball <span class=\"hl\">with their bare hands</span>",
+  "sub": "The story of how tennis was born",
+  "bigIdea": "Your sport is about 900 years old. It grew from a French hand game into lawn tennis, <span class=\"hl\">one small change at a time</span>.",
+  "cards": [
+   {"emo": "✋", "title": "The game of the palm", "front": "The first tennis players had no rackets at all.", "back": "In 12th-century northern France, people hit the ball with their palm. The game was called jeu de paume, which means \"game of the palm\".", "tryit": "Rally a soft ball against a wall using only your hand. Count how long you last."},
+   {"emo": "🧤", "title": "From gloves to rackets", "front": "Hands hurt, so players kept upgrading their gear.", "back": "Bare hands gave way to gloves. By the 16th century, the glove had become a racket. The game moved into closed courts with walls.", "tryit": "Hit 10 balls with your hand, then 10 with your racket. Notice the difference."},
+   {"emo": "👑", "title": "The sport of kings", "front": "Royals loved this game, and one word came from them.", "back": "King Henry VIII built a court at Hampton Court Palace in 1530. Servers shouted \"Tenez!\", meaning \"Receive!\" That call probably gave tennis its name.", "tryit": "Before your next serve in practice, say \"Tenez!\" quietly. Feel like a king."},
+   {"emo": "🌱", "title": "Tennis moves onto grass", "front": "In the 1800s, people took the game outside.", "back": "Harry Gem and Augurio Perera played on a croquet lawn in Birmingham. In 1874, Walter Wingfield sold boxed sets of his game, with an hourglass-shaped court.", "tryit": "Sketch an hourglass court next to a modern court. Which would be harder to play on?"},
+   {"emo": "🏆", "title": "The very first Wimbledon", "front": "Today it's huge. In 1877, it was tiny.", "back": "Just 22 men entered the first Wimbledon in 1877. Spencer Gore won. About 200 people watched the final, with flannel-covered rubber balls.", "tryit": "Look up how many people watch a Wimbledon final today. Compare it with 200."}
+  ],
+  "words": [
+   {"w": "Jeu de paume", "d": "French for \"game of the palm\", the hand game before tennis."},
+   {"w": "Real tennis", "d": "The old indoor version with walls, still played today."},
+   {"w": "Lawn tennis", "d": "Tennis played outdoors on grass, invented in the 1870s."},
+   {"w": "Deuce", "d": "A tied score at 40-40. It likely comes from French for \"two\"."}
+  ],
+  "quiz": [
+   {"q": "What did the very first tennis players hit the ball with?", "opts": ["A wooden bat", "The palm of their hand", "A small net"], "a": 1, "hint": "Think about what \"jeu de paume\" means.", "why": "Jeu de paume means \"game of the palm\", because players used their hands."},
+   {"q": "Where does the word \"tennis\" probably come from?", "opts": ["A server shouting \"Tenez!\", meaning \"Receive!\"", "The number ten", "The name of an English town"], "a": 0, "hint": "Look at card 3. What did servers call out?", "why": "Servers called \"Tenez!\" to warn the other player, and the word stuck."},
+   {"q": "Why did tennis change from hands to gloves to rackets?", "opts": ["Kings banned bare hands", "Rackets were cheaper than gloves", "Players wanted better gear to play better and hurt less"], "a": 2, "hint": "Think about why you upgrade your own racket or strings.", "why": "Each change made the game easier on the hand and more fun to play."},
+   {"q": "What was the first Wimbledon in 1877 like?", "opts": ["Huge, with thousands of fans", "Small, with 22 players and about 200 fans at the final", "Played indoors on wood"], "a": 1, "hint": "Card 5 has the numbers.", "why": "Wimbledon started tiny and grew over 150 years into a giant event."}
+  ],
+  "think": "Tennis changed many times: hands, gloves, rackets, grass, new rules. If you could add one new rule or gadget to tennis today, what would it be, and why?",
+  "tries": [
+   "Play a 2-minute hand-only rally against a wall, jeu de paume style",
+   "Find Hampton Court Palace on a map and look at photos of its old tennis court",
+   "Teach a friend why we say \"deuce\" at 40-40",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Source: Wikipedia and the ITF"
+ }
+}
