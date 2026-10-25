@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-25",
+  "slug": "novak-djokovic",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How a boy who practised in an empty pool won 24 Grand Slams",
+  "teaser": "Novak Djokovic kept training through hard times and became tennis's record Grand Slam winner."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a boy who practised in an empty pool won <span class=\"hl\">24 Grand Slams</span>",
+  "sub": "The story of Novak Djokovic",
+  "bigIdea": "Novak Djokovic kept practising when everything around him was hard. That steady work made him <span class=\"hl\">the record Grand Slam winner</span> in men's tennis.",
+  "cards": [
+   {"emo": "🍕", "title": "A mini-racket at four", "front": "Novak was born in 1987 in Belgrade, Serbia.", "back": "At age 4, his parents gave him a mini-racket and a soft foam ball. His family ran a pizza place near tennis courts in the mountains.", "tryit": "Find the oldest racket or ball in your house. Hit 30 easy shots with it."},
+   {"emo": "⛰️", "title": "The coach on the mountain", "front": "At 6, Novak joined a tennis camp on Mount Kopaonik.", "back": "Coach Jelena Genčić spotted his talent and coached him for about six years. He said she helped shape his mind as a person and a player.", "tryit": "Write down one thing a coach taught you that you still use today."},
+   {"emo": "🏊", "title": "Tennis in a swimming pool", "front": "In 1999, Serbia was hit by bombing during a war.", "back": "Times were scary and hard, but Novak kept training. At one point he practised inside an empty swimming pool turned into a tennis court.", "tryit": "Practise in a small space today: 20 soft volleys against a wall, no big swings."},
+   {"emo": "✈️", "title": "Leaving home at twelve", "front": "In 1999, Novak moved to a tennis academy in Germany.", "back": "He was about 12 and stayed four years at coach Niki Pilić's academy. It was like leaving your village to train, like Luffy setting sail.", "tryit": "Plan one week of training: write which day you'll work on serves, volleys and fitness."},
+   {"emo": "🏆", "title": "Records on records", "front": "In 2008, at 20, he won his first Grand Slam.", "back": "It was the Australian Open. Since then he has won 24 Grand Slams, spent 428 weeks at No. 1, and won Olympic gold in 2024.", "tryit": "Set a 'record' of your own: count your longest rally with a friend, then try to beat it."}
+  ],
+  "words": [
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments, like Wimbledon or the Australian Open."},
+   {"w": "Academy", "d": "A special school where young players train hard every day."},
+   {"w": "Two-handed backhand", "d": "A backhand shot where you hold the racket with both hands."},
+   {"w": "World No. 1", "d": "The player ranked best in the world on the tour's ranking list."}
+  ],
+  "quiz": [
+   {"q": "Where did Novak once practise during the hard times of 1999?", "opts": ["Inside an empty swimming pool", "On a beach", "In a shopping mall"], "a": 0, "hint": "Look at card 3. It was a place that usually has water.", "why": "He trained in a disused pool that had been turned into a tennis court."},
+   {"q": "Who spotted Novak's talent at a mountain camp?", "opts": ["Pete Sampras", "Niki Pilić", "Jelena Genčić"], "a": 2, "hint": "She coached him for about six years, starting when he was 6.", "why": "Jelena Genčić ran the camp on Mount Kopaonik and coached him for years."},
+   {"q": "Which Grand Slam has Novak won a record 10 times?", "opts": ["Wimbledon", "Australian Open", "US Open"], "a": 1, "hint": "It was also his very first Grand Slam title, in 2008.", "why": "He won his first Slam in Melbourne in 2008 and has won it 10 times."},
+   {"q": "What did Novak do at about age 12?", "opts": ["Quit tennis for football", "Won Wimbledon", "Moved to an academy in Germany"], "a": 2, "hint": "Think about card 4 and the word 'leaving'.", "why": "He moved to Niki Pilić's academy in Germany and trained there for four years."}
+  ],
+  "think": "Novak kept training even when life around him was tough. What is one thing that sometimes stops you from practising, and how could you still do a little anyway?",
+  "tries": [
+   "Do 20 controlled volleys against a wall in a small space, like Novak in the pool",
+   "Practise your two-handed backhand: 15 cross-court shots, focusing on steady contact",
+   "Watch a Djokovic rally highlight and notice how he moves to reach every ball",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Olympics.com"
+ }
+}
