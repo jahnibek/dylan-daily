@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-26",
+  "slug": "cobra-kai",
+  "category": "screen",
+  "emoji": "🐍",
+  "title_plain": "How a 1984 movie villain got his own hit show 34 years later",
+  "teaser": "Cobra Kai brought The Karate Kid back by telling Johnny Lawrence's side."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a 1984 movie villain got his own hit show <span class=\"hl\">34 years later</span>",
+  "sub": "The story of Cobra Kai",
+  "bigIdea": "Cobra Kai took the bad guy from The Karate Kid and asked a new question. What if <span class=\"hl\">every story has another side</span>?",
+  "cards": [
+   {"emo": "🥋", "title": "Back to the All-Valley", "front": "In 1984, Daniel beat Johnny at the All-Valley Karate Tournament.", "back": "Cobra Kai starts 33 years later, in 2017. Johnny is down on his luck. Daniel runs a big car business.", "tryit": "Think of a match you lost. Write one thing you'd do differently in a rematch."},
+   {"emo": "🔄", "title": "The villain becomes the hero", "front": "The show tells the story from Johnny's side.", "back": "It treats Johnny's story as a comeback, not just a bad guy's. Actor William Zabka had long said Johnny was the real hero.", "tryit": "Pick a villain from One Piece or a game. Write two sentences from their point of view."},
+   {"emo": "🎬", "title": "A homemade pitch trailer", "front": "In 2017, three writers wanted to bring the story back.", "back": "Josh Heald, Jon Hurwitz and Hayden Schlossberg made a mock trailer from old footage. They pitched it to several streaming companies.", "tryit": "Make a 30-second 'trailer' on your phone for a game or show idea you have."},
+   {"emo": "📺", "title": "From YouTube to Netflix", "front": "The show first appeared on YouTube Red on May 2, 2018.", "back": "That was 34 years after the movie. In 2020 it moved to Netflix and quickly became one of its most-watched shows.", "tryit": "Ask Dad which old movie he'd love to see come back as a show."},
+   {"emo": "🏁", "title": "A six-season journey", "front": "Cobra Kai ran for six seasons and 65 episodes.", "back": "The last episodes came out on February 13, 2025. It was mostly filmed in Atlanta, Georgia, not California where it's set.", "tryit": "Plan a three-part story: write one line for the beginning, middle and end."}
+  ],
+  "words": [
+   {"w": "Dojo", "d": "A school or training hall where people learn martial arts like karate."},
+   {"w": "Sequel", "d": "A new story that continues an older one."},
+   {"w": "Point of view", "d": "Whose eyes a story is told through."},
+   {"w": "Pitch", "d": "A short presentation to convince someone to back your idea."},
+   {"w": "Streaming", "d": "Watching shows online instead of on regular TV channels."}
+  ],
+  "quiz": [
+   {"q": "Whose side of the story does Cobra Kai mostly tell?", "opts": ["Mr. Miyagi's", "Johnny Lawrence's", "Daniel's mom's"], "a": 1, "hint": "Think about the boy who lost the 1984 final.", "why": "The show retells the rivalry as Johnny's comeback story."},
+   {"q": "How did the creators first pitch the show?", "opts": ["With a mock trailer from old footage", "With a comic book", "With a video game demo"], "a": 0, "hint": "Look at card 3. It was something you watch.", "why": "They cut together old footage of the actors into a fake trailer to sell the idea."},
+   {"q": "Where did Cobra Kai first come out in 2018?", "opts": ["Netflix", "Regular TV", "YouTube Red"], "a": 2, "hint": "It only moved to its famous home two years later.", "why": "It started on YouTube Red, then moved to Netflix in 2020."},
+   {"q": "Why does the show say '34 years later'?", "opts": ["Johnny was 34", "1984 to 2018 is 34 years", "It had 34 episodes"], "a": 1, "hint": "Do the maths between the movie year and the show's first year.", "why": "The movie came out in 1984 and the show premiered in 2018: 2018 minus 1984 is 34."}
+  ],
+  "think": "Cobra Kai shows that a 'villain' can have his own reasons. Think of a tennis rival or a game opponent. What might the match look like from their side?",
+  "tries": [
+   "Rewatch a scene from The Karate Kid and notice what Johnny might be feeling",
+   "Write a short scene where a rival becomes a teammate",
+   "Make a 30-second phone trailer for your own story idea",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, TheWrap"
+ }
+}
