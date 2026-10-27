@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-27",
+  "slug": "what-makes-a-game-fun",
+  "category": "skills",
+  "emoji": "🎮",
+  "title_plain": "How to design a game that's actually fun",
+  "teaser": "Learn the secret loops, rewards and difficulty tricks behind games you can't put down."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How to design a game that's <span class=\"hl\">actually fun</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "Fun isn't luck. Game designers build it on purpose, with <span class=\"hl\">a loop you love to repeat</span> and a challenge that grows with you.",
+  "cards": [
+   {"emo": "🔁", "title": "Find your core loop", "front": "Every great game has one action you repeat forever.", "back": "Roblox's creator guide calls it the core loop: the central gameplay a whole game is built on. An adventure game's loop might be explore, fight, upgrade, repeat.", "tryit": "Pick a game you love, like Brawl Stars. Write its loop in 3 words. What do you do again and again?"},
+   {"emo": "🍄", "title": "Teach without any words", "front": "How did Mario teach millions of kids with no instructions?", "back": "Shigeru Miyamoto built World 1-1 as a hidden tutorial in 1985. A slow first Goomba teaches jumping. A block gives a coin, so you try more blocks.", "tryit": "Play the first minute of any game. List 3 things it taught you without saying a word."},
+   {"emo": "⭐", "title": "Reward progress, not just wins", "front": "Why do you always want one more match?", "back": "The progression engine moves you forward with new skills, levels or items. Roblox's guide warns that without it, a game feels repetitive, boring and shallow.", "tryit": "Think of a game you quit. Write one reward that might have kept you playing."},
+   {"emo": "🎾", "title": "Balance the difficulty", "front": "Too easy is boring. Too hard is stressful. So what's fun?", "back": "Psychologist Mihály Csíkszentmihályi named the sweet spot flow. Challenge matches your skill, so you lose track of time. Like a tennis rally against someone your level.", "tryit": "Remember a match where time flew by. Was your opponent easier, harder or just right?"},
+   {"emo": "🧪", "title": "Playtest, then fix it", "front": "Designers never know if their game is fun until...", "back": "Playtesting means letting real people play before release to find problems. Watch where players get stuck or bored, then change your design.", "tryit": "Invent a tiny game with a ball or paper. Have one person play it while you just watch."}
+  ],
+  "words": [
+   {"w": "Core loop", "d": "The main set of actions a player repeats throughout a game."},
+   {"w": "Progression", "d": "How a game moves you forward with new levels, skills or items."},
+   {"w": "Flow", "d": "Being so focused and happy in a task that time disappears."},
+   {"w": "Tutorial", "d": "The part of a game that teaches you how to play."},
+   {"w": "Playtest", "d": "Letting people try a game early to find what needs fixing."}
+  ],
+  "quiz": [
+   {"q": "A game makes you explore, fight, then upgrade, over and over. What is that called?", "opts": ["A boss level", "The progression bar", "The core loop"], "a": 2, "hint": "Think about the shape of something that keeps coming back to the start.", "why": "The core loop is the cycle of main actions a player repeats all game long."},
+   {"q": "Your game is so easy that your friend yawns. What should you change?", "opts": ["Raise the challenge a little", "Make it even easier", "Remove all the rewards"], "a": 0, "hint": "Flow needs challenge and skill to match. Which one is too low here?", "why": "When challenge is lower than skill, players get bored, so the challenge should rise."},
+   {"q": "Why does World 1-1's first Goomba walk slowly toward Mario?", "opts": ["The NES was too slow for fast enemies", "To give new players time to learn jumping", "So players can't ever lose"], "a": 1, "hint": "Remember: this level was secretly a tutorial.", "why": "Miyamoto made the first danger easy to spot so players learn to jump by trying."},
+   {"q": "You finished your first Roblox game. What's the smartest next step?", "opts": ["Publish it and never change it", "Watch a friend play it and note where they get stuck", "Delete it and start a brand new game"], "a": 1, "hint": "How do designers find problems they can't see themselves?", "why": "Playtesting shows real problems, because the designer already knows how everything works."}
+  ],
+  "think": "Plan your own game. What is its core loop in 3 words? What reward keeps players coming back, and how will it get harder as they improve?",
+  "tries": [
+   "Write the core loop of 3 games you play, like Fortnite, Brawl Stars and a Roblox game",
+   "Small project: design a one-page paper or backyard game and playtest it with a friend",
+   "Change one rule after the playtest, then test it again",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Roblox Creator Docs"
+ }
+}
