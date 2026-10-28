@@ -1,5 +1,14 @@
 [
  {
+  "file": "2026-10-28-how-online-games-work.html",
+  "date": "2026-10-28",
+  "slug": "how-online-games-work",
+  "category": "howitworks",
+  "emoji": "🌐",
+  "title_plain": "How online games send your move to the server and back",
+  "teaser": "Packets, servers and ping: why your game sometimes lags."
+ },
+ {
   "file": "2026-10-27-what-makes-a-game-fun.html",
   "date": "2026-10-27",
   "slug": "what-makes-a-game-fun",

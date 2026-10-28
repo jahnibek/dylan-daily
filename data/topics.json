@@ -2,11 +2,6 @@
   "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
   "queue": [
     {
-      "category": "howitworks",
-      "subject": "How the internet sends your game to you",
-      "angle": "Servers, ping and lag: what happens between your click and the screen"
-    },
-    {
       "category": "tennis",
       "subject": "Andre Agassi",
       "angle": "How the flashy kid from Las Vegas dropped down the rankings and fought back to No. 1"
@@ -586,6 +581,10 @@
     {
       "date": "2026-10-27",
       "subject": "Game design: what makes a game fun"
+    },
+    {
+      "date": "2026-10-28",
+      "subject": "How the internet sends your game to you"
     }
   ]
 }

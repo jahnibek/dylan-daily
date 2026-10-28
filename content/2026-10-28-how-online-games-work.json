@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-28",
+  "slug": "how-online-games-work",
+  "category": "howitworks",
+  "emoji": "🌐",
+  "title_plain": "How online games send your move to the server and back",
+  "teaser": "Packets, servers and ping: why your game sometimes lags."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How online games send your move <span class=\"hl\">to the server and back</span>",
+  "sub": "The science behind online gaming lag",
+  "bigIdea": "Every move you make is chopped into tiny packets that race to a game server and back. The faster that round trip, <span class=\"hl\">the less lag you feel</span>.",
+  "cards": [
+   {"emo": "📦", "title": "Your move becomes packets", "front": "You tap jump. What actually leaves your phone?", "back": "Your move becomes small chunks of data called packets. Each has a header with the address, like an envelope, and a payload, the message inside.", "tryit": "Write a sentence across 4 numbered sticky notes. Shuffle them and ask someone to rebuild it using the numbers."},
+   {"emo": "🛣️", "title": "Routers pass it along", "front": "Your packet doesn't fly straight to the game.", "back": "Routers read each packet's address and pass it on, one hop at a time. Each hop adds a tiny delay, like a ball passed down a line.", "tryit": "Pass a tennis ball through 3 people and time it. Then try 6 people. Which was faster?"},
+   {"emo": "🧑‍⚖️", "title": "The server is the referee", "front": "Who decides if your shot really hit?", "back": "Online games keep the real game on a central server. Your device asks to move. The server decides and tells every player, like an umpire calling in or out.", "tryit": "In your next match, notice a moment when the game seems to 'take back' something you did."},
+   {"emo": "⏱️", "title": "Ping is the round trip", "front": "That little number in the corner means a lot.", "back": "Ping is how long a message takes to reach the server and come back, in milliseconds. Over 100 ms usually feels laggy. Far-away servers mean longer trips.", "tryit": "Look in a game's settings for a ping or network stats option. Watch how the number changes."},
+   {"emo": "🔮", "title": "Games guess to hide lag", "front": "Why do players sometimes teleport?", "back": "While waiting for the server, your game predicts where players are heading. When a guess is wrong, a player snaps back or 'warps'. That's prediction fixing itself.", "tryit": "Roll a ball, close your eyes and point where it will be in 2 seconds. Open them. How close were you?"}
+  ],
+  "words": [
+   {"w": "Packet", "d": "A small chunk of data with an address, sent across a network."},
+   {"w": "Router", "d": "A device that reads packet addresses and sends them the right way."},
+   {"w": "Server", "d": "A powerful computer that runs the real game for all players."},
+   {"w": "Ping", "d": "The time for a message to reach the server and return."},
+   {"w": "Lag", "d": "The delay between your action and the game showing its result."}
+  ],
+  "quiz": [
+   {"q": "What does a packet's header hold?", "opts": ["The game's music", "The address it's going to", "Your score"], "a": 1, "hint": "Think about what's written on the outside of an envelope.", "why": "The header holds addresses so routers know where to send the packet."},
+   {"q": "Which ping would feel smoothest in a match?", "opts": ["150 ms", "100 ms", "20 ms"], "a": 2, "hint": "Is ping a score to beat, or a time you have to wait?", "why": "Ping is waiting time, so a smaller number means a faster round trip."},
+   {"q": "Why do online games use a central server?", "opts": ["So one place decides what really happened", "To make the graphics prettier", "To charge your device"], "a": 0, "hint": "Think about why a tennis match needs an umpire.", "why": "One server keeps the true game so every player sees the same result."},
+   {"q": "Why can a far-away server cause more lag?", "opts": ["Far servers are lazier", "Packets travel farther through more hops", "Far servers use bigger screens"], "a": 1, "hint": "Remember the ball passed through 3 people versus 6.", "why": "A longer trip with more routers adds delay each way."}
+  ],
+  "think": "If you built an online game for players all over the world, where would you put your servers, and why?",
+  "tries": [
+   "Do the sticky-note packet shuffle with someone at home",
+   "Check your ping in a game and compare a smooth match with a laggy one",
+   "Spot one moment in a match when the game guessed wrong and a player snapped back",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Unity"
+ }
+}
