@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-29",
+  "slug": "andre-agassi",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How Andre Agassi fell to No. 141 and climbed back to No. 1",
+  "teaser": "Andre Agassi dropped to No. 141, then rebuilt his game in small tournaments and reached No. 1."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How Andre Agassi fell to No. 141 and <span class=\"hl\">climbed back to No. 1</span>",
+  "sub": "The story of Andre Agassi",
+  "bigIdea": "Andre Agassi was a star who fell almost out of sight. He came back by <span class=\"hl\">starting small and working hard</span>, and won more than ever.",
+  "cards": [
+   {"emo": "🏠", "title": "A court in the backyard", "front": "Andre was born in 1970 in Las Vegas, USA.", "back": "His dad, a former Olympic boxer, built a tennis court in their backyard. By age 2, Andre could already serve a ball over a full court.", "tryit": "Hit 20 serves today and count how many land in. Write the number down."},
+   {"emo": "✈️", "title": "Off to academy at 13", "front": "At 13, Andre moved to a tennis academy in Florida.", "back": "He trained at Nick Bollettieri's academy and turned pro at just 16, in 1986. His big, powerful forehand made people notice him fast.", "tryit": "Hit 15 forehands and focus only on a smooth follow-through over your shoulder."},
+   {"emo": "🏆", "title": "Flashy star at the top", "front": "In 1992, Andre won his first Grand Slam at Wimbledon.", "back": "Then he won the 1994 US Open and the 1995 Australian Open. In April 1995, he became world No. 1 for the first time.", "tryit": "Write down one big tennis goal and one small step toward it this week."},
+   {"emo": "📉", "title": "The fall to No. 141", "front": "By November 1997, Andre was ranked No. 141.", "back": "A wrist injury kept hurting his play, and he lost focus. Many people said his career at the top was over.", "tryit": "Think of a time you played badly. Write one thing you learned from it."},
+   {"emo": "🔁", "title": "Starting small to rise", "front": "In 1998, Andre went back to the small tournaments.", "back": "He trained hard on fitness and played lower 'Challenger' events. He climbed from No. 110 to No. 6 in one year, then reached No. 1 again in 1999.", "tryit": "Do a 10-minute fitness set: shuttle runs, side steps and jump rope."}
+  ],
+  "words": [
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments, like Wimbledon or the French Open."},
+   {"w": "Challenger event", "d": "A smaller pro tournament, one level below the main tour."},
+   {"w": "Return of serve", "d": "The shot you hit back when your opponent serves."},
+   {"w": "Career Grand Slam", "d": "Winning all four Grand Slam tournaments at least once."},
+   {"w": "Comeback", "d": "Returning to success after a time of losing or struggling."}
+  ],
+  "quiz": [
+   {"q": "How low did Andre's ranking fall in 1997?", "opts": ["No. 41", "No. 141", "No. 14"], "a": 1, "hint": "Look at card 4. It was well outside the top 100.", "why": "A wrist injury and lost focus dropped him to No. 141 in November 1997."},
+   {"q": "What did Andre do in 1998 to come back?", "opts": ["Played small Challenger events and trained hard", "Switched to a new sport", "Took a year off"], "a": 0, "hint": "Think about the phrase 'starting small'.", "why": "He worked on fitness and played lower-level events to rebuild, rising to No. 6."},
+   {"q": "In the 1999 French Open final, Andre was two sets down. What happened?", "opts": ["He retired injured", "He lost in four sets", "He won in five sets"], "a": 2, "hint": "That title gave him all four Grand Slams.", "why": "He came back from two sets down to win, completing his career Grand Slam."},
+   {"q": "Andre was nicknamed 'the Punisher'. Which shot was he famous for?", "opts": ["The drop shot", "The underarm serve", "The return of serve"], "a": 2, "hint": "It's the first shot you hit when the other player serves.", "why": "He punished serves by hitting returns early and hard, putting rivals on defence."}
+  ],
+  "think": "Andre went back to small tournaments to rebuild. If your tennis ever hit a slump, what 'small tournament' step could you take to climb back?",
+  "tries": [
+   "Practise returns: have a partner serve 20 balls and aim each return deep",
+   "Play a practice set where you stay calm after every lost point",
+   "Watch highlights of Agassi's 1999 French Open final comeback",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Britannica Kids"
+ }
+}
