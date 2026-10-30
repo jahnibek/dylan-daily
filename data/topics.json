@@ -2,11 +2,6 @@
   "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
   "queue": [
     {
-      "category": "books",
-      "subject": "Rick Riordan",
-      "angle": "How Percy Jackson started as bedtime stories for his son"
-    },
-    {
       "category": "mathsci",
       "subject": "Tennis tiebreak probability",
       "angle": "If you win 55% of points, how often do you win the match? The surprising maths of tennis scoring"
@@ -584,6 +579,10 @@
     {
       "date": "2026-10-29",
       "subject": "Andre Agassi"
+    },
+    {
+      "date": "2026-10-30",
+      "subject": "Rick Riordan"
     }
   ]
 }

@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-10-30",
+  "slug": "rick-riordan",
+  "category": "books",
+  "emoji": "⚡",
+  "title_plain": "How a bedtime story for his son became Percy Jackson",
+  "teaser": "Rick Riordan's bedtime stories for his son turned into Percy Jackson and millions of books."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a bedtime story for his son <span class=\"hl\">became Percy Jackson</span>",
+  "sub": "The story of Rick Riordan",
+  "bigIdea": "Rick Riordan made up stories to help his son enjoy reading. One of them grew into <span class=\"hl\">a hero that millions of kids love</span>.",
+  "cards": [
+   {"emo": "📖", "title": "A kid who loved myths", "front": "Rick was born in 1964 in San Antonio, Texas.", "back": "The first book he read for fun was The Lord of the Rings, maybe ten times. He loved Greek and Norse myths from middle school.", "tryit": "Pick one Greek god, like Zeus or Poseidon. Find one cool fact about them."},
+   {"emo": "✍️", "title": "First story at 13", "front": "Rick started writing in middle school.", "back": "At 13, he sent his first story to be published. It was turned down. He kept writing anyway and got his first stories printed in college.", "tryit": "Write a short story opening in 5 sentences. Don't worry if it's messy."},
+   {"emo": "🏫", "title": "Teacher by day, writer by night", "front": "For 15 years, Rick taught English and history.", "back": "Mythology was his favourite lesson to teach. While teaching full time, he also wrote mystery novels for adults, and they won big awards.", "tryit": "Explain one thing you know well to someone in under 2 minutes, like a teacher."},
+   {"emo": "🌙", "title": "Bedtime stories become Percy", "front": "His son Haley asked for bedtime stories about Greek heroes.", "back": "Haley found reading hard because of dyslexia. So Rick made his hero, Percy, dyslexic too, and turned the stories into The Lightning Thief in 2005.", "tryit": "Tell someone a 2-minute story where your hero's 'weakness' turns into a superpower."},
+   {"emo": "🏆", "title": "From camp to Disney+", "front": "A summer camp job gave Rick the idea for Camp Half-Blood.", "back": "Today, over 190 million of his books are in print. He helped make the Percy Jackson show on Disney+ and won two Emmy Awards.", "tryit": "Watch a Percy Jackson trailer. Spot one Greek myth idea in it."}
+  ],
+  "words": [
+   {"w": "Mythology", "d": "Old stories about gods and heroes, told by ancient peoples like the Greeks."},
+   {"w": "Demigod", "d": "In myths, a child of a god and a human."},
+   {"w": "Dyslexia", "d": "A different way the brain handles words, which can make reading harder."},
+   {"w": "Series", "d": "A set of books that tell one big story, in order."},
+   {"w": "Emmy Award", "d": "A top prize for the best TV shows and the people who make them."}
+  ],
+  "quiz": [
+   {"q": "How did Percy Jackson start?", "opts": ["As a school project", "As a movie script", "As bedtime stories for Rick's son"], "a": 2, "hint": "Look at card 4. Think about the time of day.", "why": "Rick made up stories about Greek heroes at bedtime for his son Haley."},
+   {"q": "Why did Rick make Percy dyslexic?", "opts": ["His son Haley had dyslexia too", "A publisher asked him to", "To make the book shorter"], "a": 0, "hint": "Who was the very first listener of the story?", "why": "He wanted his son to see a hero who was a bit like him."},
+   {"q": "What happened to the first story Rick sent out at 13?", "opts": ["It won a prize", "It was turned down", "It became a film"], "a": 1, "hint": "Card 2 is about not giving up.", "why": "It wasn't published, but he kept writing and later became a bestselling author."},
+   {"q": "Where did the idea for Camp Half-Blood come from?", "opts": ["A video game", "A dream he had", "His job at a summer camp"], "a": 2, "hint": "Think about what Rick did during college summers.", "why": "He worked as a music director at a summer camp for three years in college."}
+  ],
+  "think": "Percy's dyslexia turns out to be part of his strength. What's something that feels hard for you that could also be a hidden strength?",
+  "tries": [
+   "Read the first chapter of The Lightning Thief",
+   "Invent a demigod: pick a god parent and one special power",
+   "Write a 1-page bedtime story about a hero from your world, like tennis or Roblox",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, rickriordan.com"
+ }
+}
