@@ -1,0 +1,44 @@
+{
+ "meta": {
+  "date": "2026-10-31",
+  "slug": "tennis-tiebreak-probability",
+  "category": "mathsci",
+  "emoji": "🎲",
+  "title_plain": "Why winning 55% of points wins most matches",
+  "teaser": "A tiny edge on each point grows into a huge edge in the match."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "Why winning 55% of points <span class=\"hl\">wins most matches</span>",
+  "sub": "A challenge for your brain",
+  "bigIdea": "Tennis scoring stacks points into games, games into sets and sets into matches. Each layer <span class=\"hl\">turns a small edge into a big one</span>.",
+  "cards": [
+   {"emo": "🪜", "title": "Tennis is a ladder", "front": "Why don't you just count total points?", "back": "Points build games, games build sets, and sets build the match. You need 4 points for a game and 6 games for a set, winning by 2.", "tryit": "Watch one set on TV or YouTube. Count how many points each player wins. Did the winner always win more?"},
+   {"emo": "🪙", "title": "A tiny edge per point", "front": "What does winning 55% of points feel like?", "back": "Picture a coin that lands heads 11 times in every 20 flips. That's 55%. It's only a little better than a fair coin, and you lose almost half the time.", "tryit": "Flip a coin 20 times and count heads. Do it twice. Notice how much the count jumps around."},
+   {"emo": "📈", "title": "The edge grows each level", "front": "Here's where the magic happens.", "back": "In a simple maths model, winning 55% of points means winning about 62% of games, 82% of sets and 91% of best-of-three matches.", "tryit": "Draw a ladder with four rungs: point, game, set, match. Write each percentage on its rung."},
+   {"emo": "🐐", "title": "Federer's 54% secret", "front": "Even the greats lose lots of points.", "back": "Roger Federer won about 80% of his 1,526 singles matches, but only 54% of his points. He said, \"In tennis, perfection is impossible.\"", "tryit": "In your next practice, after a lost point, take one breath and let it go before the next one."},
+   {"emo": "🧩", "title": "Your challenge", "front": "At deuce, you win each point 60% of the time. What's your chance of winning the game?", "back": "Win two in a row: 0.6 × 0.6 = 36%. Lose two: 0.4 × 0.4 = 16%. Otherwise it's deuce again. So you win 36 out of 52, about 69%.", "tryit": "Redo the deuce puzzle with 50%. Does your answer make sense? Then try 55%."}
+  ],
+  "words": [
+   {"w": "Probability", "d": "How likely something is, from 0% (never) to 100% (always)."},
+   {"w": "Model", "d": "A simplified version of real life that maths can work with."},
+   {"w": "Deuce", "d": "40–40 in a game. Someone must now win two points in a row."},
+   {"w": "Tiebreak", "d": "A race to 7 points, winning by 2, played at 6–6 in a set."}
+  ],
+  "quiz": [
+   {"q": "You win each point 60% of the time. What's your chance of winning the next two points?", "opts": ["120%", "36%", "60%"], "a": 1, "hint": "Can a chance ever be bigger than 100%? Think about multiplying.", "why": "Both must happen, so you multiply: 0.6 × 0.6 = 0.36, which is 36%."},
+   {"q": "Two players each win exactly 50% of points. What's the first player's chance of winning the match?", "opts": ["50%", "25%", "75%"], "a": 0, "hint": "Try swapping the two players' names. Does anything change?", "why": "The players are perfectly equal, so the scoring can't favour either one."},
+   {"q": "At deuce, each point is a 50–50 coin flip. What's the chance the next two points end back at deuce?", "opts": ["25%", "75%", "50%"], "a": 2, "hint": "List all four ways two points can go: WW, WL, LW, LL.", "why": "WL and LW both lead back to deuce, and each has a 25% chance, so 50%."},
+   {"q": "Federer won about 80% of his matches. About what share of points did he win?", "opts": ["80%", "54%", "70%"], "a": 1, "hint": "Remember the ladder: a small edge at the bottom becomes big at the top.", "why": "Because scoring stacks layers, a 54% edge on points grew into about 80% of matches."}
+  ],
+  "think": "If you could change one rule of tennis scoring, would upsets become more or less common? Why?",
+  "tries": [
+   "Flip a coin 20 times, twice, and compare your head counts",
+   "Work out the deuce puzzle for a player who wins 55% of points",
+   "Keep a tally of points won in your next practice set",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Fortune"
+ }
+}

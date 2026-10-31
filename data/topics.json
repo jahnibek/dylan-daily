@@ -1,588 +1,587 @@
 {
-  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
-  "queue": [
-    {
-      "category": "mathsci",
-      "subject": "Tennis tiebreak probability",
-      "angle": "If you win 55% of points, how often do you win the match? The surprising maths of tennis scoring"
-    },
-    {
-      "category": "tennis",
-      "subject": "Ben Shelton",
-      "angle": "How a college player coached by his dad shot up the rankings with a huge serve"
-    },
-    {
-      "category": "skills",
-      "subject": "Money basics: saving and compound interest",
-      "angle": "How money grows over time, and why starting early is a superpower"
-    },
-    {
-      "category": "games",
-      "subject": "Satoshi Tajiri",
-      "angle": "How a bug-collecting kid created Pokémon"
-    },
-    {
-      "category": "wildcard",
-      "subject": "Why tennis scoring goes 15-30-40",
-      "angle": "The mystery of love, deuce and the strangest scoring system in sport"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How a touchscreen works",
-      "angle": "How your phone feels your finger without any buttons"
-    },
-    {
-      "category": "anime",
-      "subject": "Masashi Kishimoto",
-      "angle": "How Naruto's creator turned rejection into one of the biggest manga ever"
-    },
-    {
-      "category": "mathsci",
-      "subject": "Infinity",
-      "angle": "Why some infinities are bigger than others, and Georg Cantor's big idea"
-    },
-    {
-      "category": "skills",
-      "subject": "How to pitch your idea in 60 seconds",
-      "angle": "How founders explain an idea fast, and how to practice your own pitch"
-    },
-    {
-      "category": "tennis",
-      "subject": "Alexander Zverev",
-      "angle": "How Zverev grew up in a tennis family and won Olympic gold"
-    },
-    {
-      "category": "tennis",
-      "subject": "Andy Roddick",
-      "angle": "How a big-serving American reached No. 1 and won the 2003 US Open"
-    },
-    {
-      "category": "screen",
-      "subject": "Avatar: The Last Airbender",
-      "angle": "How two friends created Avatar and its four-element world"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How AI chatbots work",
-      "angle": "How tools like Claude learn from text to answer questions, and why they can still make mistakes"
-    },
-    {
-      "category": "skills",
-      "subject": "Staying safe online",
-      "angle": "Strong passwords, spotting scams, and what never to share in games or chats"
-    },
-    {
-      "category": "mathsci",
-      "subject": "Prime numbers and secret codes",
-      "angle": "How prime numbers keep your game accounts and messages safe"
-    },
-    {
-      "category": "games",
-      "subject": "Among Us / Innersloth",
-      "angle": "How a tiny 3-person studio's flop became a global hit two years later"
-    },
-    {
-      "category": "wildcard",
-      "subject": "The story of Wimbledon",
-      "angle": "How the oldest tennis tournament began in 1877 and kept its traditions: grass, white clothes and strawberries"
-    },
-    {
-      "category": "books",
-      "subject": "Dav Pilkey",
-      "angle": "How a kid who got sent to the hallway created Captain Underpants and Dog Man"
-    },
-    {
-      "category": "skills",
-      "subject": "Coding basics: your first script in Luau",
-      "angle": "Make a part change colour or a door open in Roblox Studio with a few lines of code"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How airplanes fly",
-      "angle": "Lift, thrust and drag: how a giant metal plane stays in the air"
-    },
-    {
-      "category": "tennis",
-      "subject": "Rafael Nadal",
-      "angle": "How Nadal's uncle coached him to 14 French Open titles"
-    },
-    {
-      "category": "mathsci",
-      "subject": "Fibonacci and patterns in nature",
-      "angle": "Why sunflowers, pine cones and shells follow the same number pattern"
-    },
-    {
-      "category": "tennis",
-      "subject": "Steffi Graf",
-      "angle": "How she won all four Grand Slams plus Olympic gold in one year, the Golden Slam of 1988"
-    },
-    {
-      "category": "screen",
-      "subject": "Hayao Miyazaki / Studio Ghibli",
-      "angle": "How Miyazaki hand-draws worlds like Spirited Away"
-    },
-    {
-      "category": "skills",
-      "subject": "How to learn anything faster",
-      "angle": "Practice, mistakes, sleep and spacing: how champions and scientists learn"
-    },
-    {
-      "category": "games",
-      "subject": "Minecraft / Mojang",
-      "angle": "How a small Swedish game about blocks became the best-selling game ever"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How rockets reach space",
-      "angle": "How rockets push off, and how SpaceX lands boosters to reuse them"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How tennis rackets changed",
-      "angle": "From wood to metal to graphite: the science of how rackets got lighter and more powerful"
-    },
-    {
-      "category": "mathsci",
-      "subject": "The Monty Hall puzzle",
-      "angle": "The famous three-door puzzle that fooled thousands of maths experts"
-    },
-    {
-      "category": "wildcard",
-      "subject": "Lionel Messi",
-      "angle": "How a small kid who needed growth treatment became the greatest footballer"
-    },
-    {
-      "category": "skills",
-      "subject": "How to spot fake news and AI fakes",
-      "angle": "Simple checks for fake photos, videos and stories online"
-    },
-    {
-      "category": "tennis",
-      "subject": "Serena Williams",
-      "angle": "How Serena and Venus trained on public courts in Compton to rule tennis"
-    },
-    {
-      "category": "anime",
-      "subject": "Koyoharu Gotouge",
-      "angle": "How Demon Slayer's creator built a hit in just four years"
-    },
-    {
-      "category": "tennis",
-      "subject": "Björn Borg",
-      "angle": "How the ice-cool Swede won five Wimbledons in a row and stayed calm under pressure"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How Hawk-Eye calls lines in tennis",
-      "angle": "How cameras and computers decide if a ball was in or out"
-    },
-    {
-      "category": "mathsci",
-      "subject": "Einstein and time slowing down",
-      "angle": "Why time really slows down when you move close to the speed of light"
-    },
-    {
-      "category": "skills",
-      "subject": "How YouTube and TikTok choose what you see",
-      "angle": "What an algorithm is, and how to stay in control of your feed"
-    },
-    {
-      "category": "games",
-      "subject": "Rocket League / Psyonix",
-      "angle": "How 'soccer with rocket cars' became a worldwide esport"
-    },
-    {
-      "category": "books",
-      "subject": "J.R.R. Tolkien",
-      "angle": "How a language-loving professor created Middle-earth"
-    },
-    {
-      "category": "wildcard",
-      "subject": "The longest tennis match ever",
-      "angle": "How Isner and Mahut played for 11 hours over three days at Wimbledon 2010"
-    },
-    {
-      "category": "skills",
-      "subject": "How to set goals and build habits",
-      "angle": "Turn a big tennis goal into small daily habits that stick"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How anime is made",
-      "angle": "From storyboard to key frames to voice acting: how an episode like One Piece gets made"
-    },
-    {
-      "category": "mathsci",
-      "subject": "Rubik's cube maths",
-      "angle": "How many ways can a Rubik's cube be mixed, and why any mix can be solved in 20 moves"
-    },
-    {
-      "category": "tennis",
-      "subject": "Daniil Medvedev",
-      "angle": "How Medvedev's unusual style beat the Big Three"
-    },
-    {
-      "category": "screen",
-      "subject": "Marvel Studios / Kevin Feige",
-      "angle": "How Kevin Feige connected 30+ movies into one universe"
-    },
-    {
-      "category": "tennis",
-      "subject": "John McEnroe",
-      "angle": "How a lefty with magic touch at the net became a champion and a great tennis commentator"
-    },
-    {
-      "category": "skills",
-      "subject": "How to speak in front of people",
-      "angle": "Simple tricks to feel calm and sound confident when presenting"
-    },
-    {
-      "category": "games",
-      "subject": "Clash Royale / Clash of Clans",
-      "angle": "How Supercell's small teams make giant mobile hits"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How GPS knows where you are",
-      "angle": "Satellites, timing and a little maths that finds you anywhere on Earth"
-    },
-    {
-      "category": "mathsci",
-      "subject": "Black holes",
-      "angle": "What happens near a black hole, and how scientists took the first picture of one"
-    },
-    {
-      "category": "wildcard",
-      "subject": "Usain Bolt",
-      "angle": "How a cricket-loving kid became the fastest human ever"
-    },
-    {
-      "category": "howitworks",
-      "subject": "Why tennis balls are yellow and fuzzy",
-      "angle": "The science of the felt, the pressure inside and why TV changed the color"
-    },
-    {
-      "category": "skills",
-      "subject": "Make a trailer for your game",
-      "angle": "How to plan, record and edit a short video that makes people want to play"
-    },
-    {
-      "category": "tennis",
-      "subject": "Taylor Fritz",
-      "angle": "How Taylor Fritz became America's top player"
-    },
-    {
-      "category": "anime",
-      "subject": "Kohei Horikoshi",
-      "angle": "How My Hero Academia's creator nearly quit before his big hit"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How roller coasters work",
-      "angle": "Gravity, speed and loops: the physics that makes coasters thrilling and safe"
-    },
-    {
-      "category": "tennis",
-      "subject": "Rod Laver",
-      "angle": "How the Rocket won all four Grand Slams in one year, twice"
-    },
-    {
-      "category": "books",
-      "subject": "Roald Dahl",
-      "angle": "How Roald Dahl's wild childhood became Charlie and the Chocolate Factory"
-    },
-    {
-      "category": "games",
-      "subject": "Stardew Valley / Eric Barone",
-      "angle": "How one person made a hit farming game alone over 4 years"
-    },
-    {
-      "category": "screen",
-      "subject": "Spider-Man: Into the Spider-Verse",
-      "angle": "How the Spider-Verse artists invented a brand-new animation look"
-    },
-    {
-      "category": "tennis",
-      "subject": "Holger Rune",
-      "angle": "How Denmark's Holger Rune rose fast with big belief"
-    },
-    {
-      "category": "wildcard",
-      "subject": "The Open Era of 1968",
-      "angle": "How tennis opened its biggest tournaments to pros and changed the sport forever"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How electric cars work",
-      "angle": "Batteries, motors and why electric cars feel so fast"
-    },
-    {
-      "category": "wildcard",
-      "subject": "Michael Jordan",
-      "angle": "How Michael Jordan got cut from his school team and came back"
-    },
-    {
-      "category": "games",
-      "subject": "Valve / Steam",
-      "angle": "How Valve built Steam and Half-Life"
-    },
-    {
-      "category": "books",
-      "subject": "Kwame Alexander",
-      "angle": "How The Crossover turned basketball into poetry"
-    },
-    {
-      "category": "tennis",
-      "subject": "Chris Evert",
-      "angle": "How her steady baseline game and two-handed backhand changed women's tennis"
-    },
-    {
-      "category": "anime",
-      "subject": "Haruichi Furudate / Haikyu!!",
-      "angle": "How a former volleyball player turned his sport into the hit manga Haikyu!!"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How noise-cancelling headphones work",
-      "angle": "How headphones make sound to erase sound"
-    },
-    {
-      "category": "tennis",
-      "subject": "Andy Murray",
-      "angle": "How Andy Murray ended Britain's 77-year Wimbledon wait"
-    },
-    {
-      "category": "screen",
-      "subject": "Pixar / Ed Catmull",
-      "angle": "How Pixar made Toy Story, the first fully computer-animated movie"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How court surfaces change the game",
-      "angle": "Why grass, clay and hard courts make the ball bounce differently at the four Grand Slams"
-    },
-    {
-      "category": "games",
-      "subject": "Rovio / Angry Birds",
-      "angle": "How Rovio's 52nd game, Angry Birds, finally became a hit"
-    },
-    {
-      "category": "wildcard",
-      "subject": "The Wright Brothers",
-      "angle": "How two bicycle makers taught the world to fly"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How a computer chip works",
-      "angle": "Billions of tiny switches that turn on and off to run every game you play"
-    },
-    {
-      "category": "tennis",
-      "subject": "Coco Gauff",
-      "angle": "How Coco Gauff beat Venus Williams at Wimbledon at age 15"
-    },
-    {
-      "category": "tennis",
-      "subject": "Venus Williams",
-      "angle": "How she learned on public courts and won seven Grand Slam singles titles"
-    },
-    {
-      "category": "books",
-      "subject": "Raina Telgemeier",
-      "angle": "How Smile turned a dental disaster into a bestselling graphic novel"
-    },
-    {
-      "category": "games",
-      "subject": "Mario Kart",
-      "angle": "How Nintendo invented the kart-racing game"
-    },
-    {
-      "category": "anime",
-      "subject": "Pokémon anime",
-      "angle": "How Ash and Pikachu's TV show became a 25-year adventure"
-    },
-    {
-      "category": "howitworks",
-      "subject": "How 3D printers work",
-      "angle": "How a printer builds real objects layer by layer"
-    },
-    {
-      "category": "tennis",
-      "subject": "Lleyton Hewitt",
-      "angle": "How a fast, fighting Aussie became the youngest men's No. 1 at age 20"
-    },
-    {
-      "category": "screen",
-      "subject": "Wallace & Gromit / Aardman",
-      "angle": "How Aardman makes movies one clay frame at a time"
-    },
-    {
-      "category": "tennis",
-      "subject": "Stefanos Tsitsipas",
-      "angle": "How Tsitsipas learned tennis from his coach dad in Greece"
-    },
-    {
-      "category": "wildcard",
-      "subject": "Walt Disney",
-      "angle": "How Walt Disney went broke before creating Mickey Mouse"
-    },
-    {
-      "category": "games",
-      "subject": "Tetris / Alexey Pajitnov",
-      "angle": "How a Soviet programmer's puzzle conquered the world"
-    },
-    {
-      "category": "tennis",
-      "subject": "Kim Clijsters",
-      "angle": "How a Belgian champion known for her splits and smile came back to win more Slams"
-    },
-    {
-      "category": "books",
-      "subject": "Chris Colfer",
-      "angle": "How Chris Colfer wrote The Land of Stories as a kid"
-    },
-    {
-      "category": "tennis",
-      "subject": "Iga Świątek",
-      "angle": "How Iga Świątek uses a sports psychologist to stay calm"
-    },
-    {
-      "category": "screen",
-      "subject": "The Lego Movie",
-      "angle": "How Lego went from almost broke to blockbuster movies"
-    },
-    {
-      "category": "games",
-      "subject": "Epic Games Store and Unreal Engine 5",
-      "angle": "How game engines let small teams make huge-looking games"
-    },
-    {
-      "category": "tennis",
-      "subject": "Gustavo Kuerten",
-      "angle": "How Guga, a surfer-style Brazilian, won the French Open three times and drew a heart on the clay"
-    },
-    {
-      "category": "anime",
-      "subject": "Osamu Tezuka",
-      "angle": "How the 'god of manga' created Astro Boy"
-    },
-    {
-      "category": "wildcard",
-      "subject": "Cristiano Ronaldo",
-      "angle": "How Ronaldo's work ethic turned a skinny kid into a goal machine"
-    },
-    {
-      "category": "tennis",
-      "subject": "Grigor Dimitrov",
-      "angle": "How 'Baby Fed' found his own style"
-    },
-    {
-      "category": "books",
-      "subject": "Gordon Korman",
-      "angle": "How Gordon Korman published his first book at 14"
-    },
-    {
-      "category": "games",
-      "subject": "Fortnite Creative / UEFN creators",
-      "angle": "How kids and teens build Fortnite islands and earn money"
-    }
-  ],
-  "done": [
-    {
-      "date": "2026-09-27",
-      "subject": "Roger Federer"
-    },
-    {
-      "date": "2026-10-01",
-      "subject": "Tim Sweeney / Fortnite"
-    },
-    {
-      "date": "2026-10-04",
-      "subject": "Eiichiro Oda / One Piece"
-    },
-    {
-      "date": "2026-10-11",
-      "subject": "David Baszucki / Roblox"
-    },
-    {
-      "date": "2026-10-11",
-      "subject": "Carlos Alcaraz"
-    },
-    {
-      "date": "2026-10-12",
-      "subject": "Jeff Kinney"
-    },
-    {
-      "date": "2026-10-13",
-      "subject": "Brawl Stars / Supercell"
-    },
-    {
-      "date": "2026-10-14",
-      "subject": "Create your own game: make your first Roblox obby"
-    },
-    {
-      "date": "2026-10-15",
-      "subject": "The Karate Kid"
-    },
-    {
-      "date": "2026-10-16",
-      "subject": "How topspin works in tennis"
-    },
-    {
-      "date": "2026-10-17",
-      "subject": "Jannik Sinner"
-    },
-    {
-      "date": "2026-10-18",
-      "subject": "How to use AI as a smart helper"
-    },
-    {
-      "date": "2026-10-19",
-      "subject": "Pete Sampras"
-    },
-    {
-      "date": "2026-10-20",
-      "subject": "Akira Toriyama"
-    },
-    {
-      "date": "2026-10-21",
-      "subject": "Shigeru Miyamoto"
-    },
-    {
-      "date": "2026-10-22",
-      "subject": "How video game graphics work"
-    },
-    {
-      "date": "2026-10-23",
-      "subject": "How to launch your own company"
-    },
-    {
-      "date": "2026-10-24",
-      "subject": "How tennis was born"
-    },
-    {
-      "date": "2026-10-25",
-      "subject": "Novak Djokovic"
-    },
-    {
-      "date": "2026-10-26",
-      "subject": "Cobra Kai"
-    },
-    {
-      "date": "2026-10-27",
-      "subject": "Game design: what makes a game fun"
-    },
-    {
-      "date": "2026-10-28",
-      "subject": "How the internet sends your game to you"
-    },
-    {
-      "date": "2026-10-29",
-      "subject": "Andre Agassi"
-    },
-    {
-      "date": "2026-10-30",
-      "subject": "Rick Riordan"
-    }
-  ]
+ "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
+ "queue": [
+  {
+   "category": "tennis",
+   "subject": "Ben Shelton",
+   "angle": "How a college player coached by his dad shot up the rankings with a huge serve"
+  },
+  {
+   "category": "skills",
+   "subject": "Money basics: saving and compound interest",
+   "angle": "How money grows over time, and why starting early is a superpower"
+  },
+  {
+   "category": "games",
+   "subject": "Satoshi Tajiri",
+   "angle": "How a bug-collecting kid created Pokémon"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Why tennis scoring goes 15-30-40",
+   "angle": "The mystery of love, deuce and the strangest scoring system in sport"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How a touchscreen works",
+   "angle": "How your phone feels your finger without any buttons"
+  },
+  {
+   "category": "anime",
+   "subject": "Masashi Kishimoto",
+   "angle": "How Naruto's creator turned rejection into one of the biggest manga ever"
+  },
+  {
+   "category": "mathsci",
+   "subject": "Infinity",
+   "angle": "Why some infinities are bigger than others, and Georg Cantor's big idea"
+  },
+  {
+   "category": "skills",
+   "subject": "How to pitch your idea in 60 seconds",
+   "angle": "How founders explain an idea fast, and how to practice your own pitch"
+  },
+  {
+   "category": "tennis",
+   "subject": "Alexander Zverev",
+   "angle": "How Zverev grew up in a tennis family and won Olympic gold"
+  },
+  {
+   "category": "tennis",
+   "subject": "Andy Roddick",
+   "angle": "How a big-serving American reached No. 1 and won the 2003 US Open"
+  },
+  {
+   "category": "screen",
+   "subject": "Avatar: The Last Airbender",
+   "angle": "How two friends created Avatar and its four-element world"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How AI chatbots work",
+   "angle": "How tools like Claude learn from text to answer questions, and why they can still make mistakes"
+  },
+  {
+   "category": "skills",
+   "subject": "Staying safe online",
+   "angle": "Strong passwords, spotting scams, and what never to share in games or chats"
+  },
+  {
+   "category": "mathsci",
+   "subject": "Prime numbers and secret codes",
+   "angle": "How prime numbers keep your game accounts and messages safe"
+  },
+  {
+   "category": "games",
+   "subject": "Among Us / Innersloth",
+   "angle": "How a tiny 3-person studio's flop became a global hit two years later"
+  },
+  {
+   "category": "wildcard",
+   "subject": "The story of Wimbledon",
+   "angle": "How the oldest tennis tournament began in 1877 and kept its traditions: grass, white clothes and strawberries"
+  },
+  {
+   "category": "books",
+   "subject": "Dav Pilkey",
+   "angle": "How a kid who got sent to the hallway created Captain Underpants and Dog Man"
+  },
+  {
+   "category": "skills",
+   "subject": "Coding basics: your first script in Luau",
+   "angle": "Make a part change colour or a door open in Roblox Studio with a few lines of code"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How airplanes fly",
+   "angle": "Lift, thrust and drag: how a giant metal plane stays in the air"
+  },
+  {
+   "category": "tennis",
+   "subject": "Rafael Nadal",
+   "angle": "How Nadal's uncle coached him to 14 French Open titles"
+  },
+  {
+   "category": "mathsci",
+   "subject": "Fibonacci and patterns in nature",
+   "angle": "Why sunflowers, pine cones and shells follow the same number pattern"
+  },
+  {
+   "category": "tennis",
+   "subject": "Steffi Graf",
+   "angle": "How she won all four Grand Slams plus Olympic gold in one year, the Golden Slam of 1988"
+  },
+  {
+   "category": "screen",
+   "subject": "Hayao Miyazaki / Studio Ghibli",
+   "angle": "How Miyazaki hand-draws worlds like Spirited Away"
+  },
+  {
+   "category": "skills",
+   "subject": "How to learn anything faster",
+   "angle": "Practice, mistakes, sleep and spacing: how champions and scientists learn"
+  },
+  {
+   "category": "games",
+   "subject": "Minecraft / Mojang",
+   "angle": "How a small Swedish game about blocks became the best-selling game ever"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How rockets reach space",
+   "angle": "How rockets push off, and how SpaceX lands boosters to reuse them"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How tennis rackets changed",
+   "angle": "From wood to metal to graphite: the science of how rackets got lighter and more powerful"
+  },
+  {
+   "category": "mathsci",
+   "subject": "The Monty Hall puzzle",
+   "angle": "The famous three-door puzzle that fooled thousands of maths experts"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Lionel Messi",
+   "angle": "How a small kid who needed growth treatment became the greatest footballer"
+  },
+  {
+   "category": "skills",
+   "subject": "How to spot fake news and AI fakes",
+   "angle": "Simple checks for fake photos, videos and stories online"
+  },
+  {
+   "category": "tennis",
+   "subject": "Serena Williams",
+   "angle": "How Serena and Venus trained on public courts in Compton to rule tennis"
+  },
+  {
+   "category": "anime",
+   "subject": "Koyoharu Gotouge",
+   "angle": "How Demon Slayer's creator built a hit in just four years"
+  },
+  {
+   "category": "tennis",
+   "subject": "Björn Borg",
+   "angle": "How the ice-cool Swede won five Wimbledons in a row and stayed calm under pressure"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How Hawk-Eye calls lines in tennis",
+   "angle": "How cameras and computers decide if a ball was in or out"
+  },
+  {
+   "category": "mathsci",
+   "subject": "Einstein and time slowing down",
+   "angle": "Why time really slows down when you move close to the speed of light"
+  },
+  {
+   "category": "skills",
+   "subject": "How YouTube and TikTok choose what you see",
+   "angle": "What an algorithm is, and how to stay in control of your feed"
+  },
+  {
+   "category": "games",
+   "subject": "Rocket League / Psyonix",
+   "angle": "How 'soccer with rocket cars' became a worldwide esport"
+  },
+  {
+   "category": "books",
+   "subject": "J.R.R. Tolkien",
+   "angle": "How a language-loving professor created Middle-earth"
+  },
+  {
+   "category": "wildcard",
+   "subject": "The longest tennis match ever",
+   "angle": "How Isner and Mahut played for 11 hours over three days at Wimbledon 2010"
+  },
+  {
+   "category": "skills",
+   "subject": "How to set goals and build habits",
+   "angle": "Turn a big tennis goal into small daily habits that stick"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How anime is made",
+   "angle": "From storyboard to key frames to voice acting: how an episode like One Piece gets made"
+  },
+  {
+   "category": "mathsci",
+   "subject": "Rubik's cube maths",
+   "angle": "How many ways can a Rubik's cube be mixed, and why any mix can be solved in 20 moves"
+  },
+  {
+   "category": "tennis",
+   "subject": "Daniil Medvedev",
+   "angle": "How Medvedev's unusual style beat the Big Three"
+  },
+  {
+   "category": "screen",
+   "subject": "Marvel Studios / Kevin Feige",
+   "angle": "How Kevin Feige connected 30+ movies into one universe"
+  },
+  {
+   "category": "tennis",
+   "subject": "John McEnroe",
+   "angle": "How a lefty with magic touch at the net became a champion and a great tennis commentator"
+  },
+  {
+   "category": "skills",
+   "subject": "How to speak in front of people",
+   "angle": "Simple tricks to feel calm and sound confident when presenting"
+  },
+  {
+   "category": "games",
+   "subject": "Clash Royale / Clash of Clans",
+   "angle": "How Supercell's small teams make giant mobile hits"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How GPS knows where you are",
+   "angle": "Satellites, timing and a little maths that finds you anywhere on Earth"
+  },
+  {
+   "category": "mathsci",
+   "subject": "Black holes",
+   "angle": "What happens near a black hole, and how scientists took the first picture of one"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Usain Bolt",
+   "angle": "How a cricket-loving kid became the fastest human ever"
+  },
+  {
+   "category": "howitworks",
+   "subject": "Why tennis balls are yellow and fuzzy",
+   "angle": "The science of the felt, the pressure inside and why TV changed the color"
+  },
+  {
+   "category": "skills",
+   "subject": "Make a trailer for your game",
+   "angle": "How to plan, record and edit a short video that makes people want to play"
+  },
+  {
+   "category": "tennis",
+   "subject": "Taylor Fritz",
+   "angle": "How Taylor Fritz became America's top player"
+  },
+  {
+   "category": "anime",
+   "subject": "Kohei Horikoshi",
+   "angle": "How My Hero Academia's creator nearly quit before his big hit"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How roller coasters work",
+   "angle": "Gravity, speed and loops: the physics that makes coasters thrilling and safe"
+  },
+  {
+   "category": "tennis",
+   "subject": "Rod Laver",
+   "angle": "How the Rocket won all four Grand Slams in one year, twice"
+  },
+  {
+   "category": "books",
+   "subject": "Roald Dahl",
+   "angle": "How Roald Dahl's wild childhood became Charlie and the Chocolate Factory"
+  },
+  {
+   "category": "games",
+   "subject": "Stardew Valley / Eric Barone",
+   "angle": "How one person made a hit farming game alone over 4 years"
+  },
+  {
+   "category": "screen",
+   "subject": "Spider-Man: Into the Spider-Verse",
+   "angle": "How the Spider-Verse artists invented a brand-new animation look"
+  },
+  {
+   "category": "tennis",
+   "subject": "Holger Rune",
+   "angle": "How Denmark's Holger Rune rose fast with big belief"
+  },
+  {
+   "category": "wildcard",
+   "subject": "The Open Era of 1968",
+   "angle": "How tennis opened its biggest tournaments to pros and changed the sport forever"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How electric cars work",
+   "angle": "Batteries, motors and why electric cars feel so fast"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Michael Jordan",
+   "angle": "How Michael Jordan got cut from his school team and came back"
+  },
+  {
+   "category": "games",
+   "subject": "Valve / Steam",
+   "angle": "How Valve built Steam and Half-Life"
+  },
+  {
+   "category": "books",
+   "subject": "Kwame Alexander",
+   "angle": "How The Crossover turned basketball into poetry"
+  },
+  {
+   "category": "tennis",
+   "subject": "Chris Evert",
+   "angle": "How her steady baseline game and two-handed backhand changed women's tennis"
+  },
+  {
+   "category": "anime",
+   "subject": "Haruichi Furudate / Haikyu!!",
+   "angle": "How a former volleyball player turned his sport into the hit manga Haikyu!!"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How noise-cancelling headphones work",
+   "angle": "How headphones make sound to erase sound"
+  },
+  {
+   "category": "tennis",
+   "subject": "Andy Murray",
+   "angle": "How Andy Murray ended Britain's 77-year Wimbledon wait"
+  },
+  {
+   "category": "screen",
+   "subject": "Pixar / Ed Catmull",
+   "angle": "How Pixar made Toy Story, the first fully computer-animated movie"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How court surfaces change the game",
+   "angle": "Why grass, clay and hard courts make the ball bounce differently at the four Grand Slams"
+  },
+  {
+   "category": "games",
+   "subject": "Rovio / Angry Birds",
+   "angle": "How Rovio's 52nd game, Angry Birds, finally became a hit"
+  },
+  {
+   "category": "wildcard",
+   "subject": "The Wright Brothers",
+   "angle": "How two bicycle makers taught the world to fly"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How a computer chip works",
+   "angle": "Billions of tiny switches that turn on and off to run every game you play"
+  },
+  {
+   "category": "tennis",
+   "subject": "Coco Gauff",
+   "angle": "How Coco Gauff beat Venus Williams at Wimbledon at age 15"
+  },
+  {
+   "category": "tennis",
+   "subject": "Venus Williams",
+   "angle": "How she learned on public courts and won seven Grand Slam singles titles"
+  },
+  {
+   "category": "books",
+   "subject": "Raina Telgemeier",
+   "angle": "How Smile turned a dental disaster into a bestselling graphic novel"
+  },
+  {
+   "category": "games",
+   "subject": "Mario Kart",
+   "angle": "How Nintendo invented the kart-racing game"
+  },
+  {
+   "category": "anime",
+   "subject": "Pokémon anime",
+   "angle": "How Ash and Pikachu's TV show became a 25-year adventure"
+  },
+  {
+   "category": "howitworks",
+   "subject": "How 3D printers work",
+   "angle": "How a printer builds real objects layer by layer"
+  },
+  {
+   "category": "tennis",
+   "subject": "Lleyton Hewitt",
+   "angle": "How a fast, fighting Aussie became the youngest men's No. 1 at age 20"
+  },
+  {
+   "category": "screen",
+   "subject": "Wallace & Gromit / Aardman",
+   "angle": "How Aardman makes movies one clay frame at a time"
+  },
+  {
+   "category": "tennis",
+   "subject": "Stefanos Tsitsipas",
+   "angle": "How Tsitsipas learned tennis from his coach dad in Greece"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Walt Disney",
+   "angle": "How Walt Disney went broke before creating Mickey Mouse"
+  },
+  {
+   "category": "games",
+   "subject": "Tetris / Alexey Pajitnov",
+   "angle": "How a Soviet programmer's puzzle conquered the world"
+  },
+  {
+   "category": "tennis",
+   "subject": "Kim Clijsters",
+   "angle": "How a Belgian champion known for her splits and smile came back to win more Slams"
+  },
+  {
+   "category": "books",
+   "subject": "Chris Colfer",
+   "angle": "How Chris Colfer wrote The Land of Stories as a kid"
+  },
+  {
+   "category": "tennis",
+   "subject": "Iga Świątek",
+   "angle": "How Iga Świątek uses a sports psychologist to stay calm"
+  },
+  {
+   "category": "screen",
+   "subject": "The Lego Movie",
+   "angle": "How Lego went from almost broke to blockbuster movies"
+  },
+  {
+   "category": "games",
+   "subject": "Epic Games Store and Unreal Engine 5",
+   "angle": "How game engines let small teams make huge-looking games"
+  },
+  {
+   "category": "tennis",
+   "subject": "Gustavo Kuerten",
+   "angle": "How Guga, a surfer-style Brazilian, won the French Open three times and drew a heart on the clay"
+  },
+  {
+   "category": "anime",
+   "subject": "Osamu Tezuka",
+   "angle": "How the 'god of manga' created Astro Boy"
+  },
+  {
+   "category": "wildcard",
+   "subject": "Cristiano Ronaldo",
+   "angle": "How Ronaldo's work ethic turned a skinny kid into a goal machine"
+  },
+  {
+   "category": "tennis",
+   "subject": "Grigor Dimitrov",
+   "angle": "How 'Baby Fed' found his own style"
+  },
+  {
+   "category": "books",
+   "subject": "Gordon Korman",
+   "angle": "How Gordon Korman published his first book at 14"
+  },
+  {
+   "category": "games",
+   "subject": "Fortnite Creative / UEFN creators",
+   "angle": "How kids and teens build Fortnite islands and earn money"
+  }
+ ],
+ "done": [
+  {
+   "date": "2026-09-27",
+   "subject": "Roger Federer"
+  },
+  {
+   "date": "2026-10-01",
+   "subject": "Tim Sweeney / Fortnite"
+  },
+  {
+   "date": "2026-10-04",
+   "subject": "Eiichiro Oda / One Piece"
+  },
+  {
+   "date": "2026-10-11",
+   "subject": "David Baszucki / Roblox"
+  },
+  {
+   "date": "2026-10-11",
+   "subject": "Carlos Alcaraz"
+  },
+  {
+   "date": "2026-10-12",
+   "subject": "Jeff Kinney"
+  },
+  {
+   "date": "2026-10-13",
+   "subject": "Brawl Stars / Supercell"
+  },
+  {
+   "date": "2026-10-14",
+   "subject": "Create your own game: make your first Roblox obby"
+  },
+  {
+   "date": "2026-10-15",
+   "subject": "The Karate Kid"
+  },
+  {
+   "date": "2026-10-16",
+   "subject": "How topspin works in tennis"
+  },
+  {
+   "date": "2026-10-17",
+   "subject": "Jannik Sinner"
+  },
+  {
+   "date": "2026-10-18",
+   "subject": "How to use AI as a smart helper"
+  },
+  {
+   "date": "2026-10-19",
+   "subject": "Pete Sampras"
+  },
+  {
+   "date": "2026-10-20",
+   "subject": "Akira Toriyama"
+  },
+  {
+   "date": "2026-10-21",
+   "subject": "Shigeru Miyamoto"
+  },
+  {
+   "date": "2026-10-22",
+   "subject": "How video game graphics work"
+  },
+  {
+   "date": "2026-10-23",
+   "subject": "How to launch your own company"
+  },
+  {
+   "date": "2026-10-24",
+   "subject": "How tennis was born"
+  },
+  {
+   "date": "2026-10-25",
+   "subject": "Novak Djokovic"
+  },
+  {
+   "date": "2026-10-26",
+   "subject": "Cobra Kai"
+  },
+  {
+   "date": "2026-10-27",
+   "subject": "Game design: what makes a game fun"
+  },
+  {
+   "date": "2026-10-28",
+   "subject": "How the internet sends your game to you"
+  },
+  {
+   "date": "2026-10-29",
+   "subject": "Andre Agassi"
+  },
+  {
+   "date": "2026-10-30",
+   "subject": "Rick Riordan"
+  },
+  {
+   "date": "2026-10-31",
+   "subject": "Tennis tiebreak probability"
+  }
+ ]
 }
