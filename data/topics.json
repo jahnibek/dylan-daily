@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "tennis",
-   "subject": "Ben Shelton",
-   "angle": "How a college player coached by his dad shot up the rankings with a huge serve"
-  },
-  {
    "category": "skills",
    "subject": "Money basics: saving and compound interest",
    "angle": "How money grows over time, and why starting early is a superpower"
@@ -582,6 +577,10 @@
   {
    "date": "2026-10-31",
    "subject": "Tennis tiebreak probability"
+  },
+  {
+   "date": "2026-11-01",
+   "subject": "Ben Shelton"
   }
  ]
 }

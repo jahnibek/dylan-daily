@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-01",
+  "slug": "ben-shelton",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How Ben Shelton went from quarterback to world No. 4",
+  "teaser": "Ben Shelton started tennis late, trained with his dad and served his way to No. 4."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How Ben Shelton went from quarterback to <span class=\"hl\">world No. 4</span>",
+  "sub": "The story of Ben Shelton",
+  "bigIdea": "Ben Shelton started tennis later than most pros. With his dad as coach, he proved that <span class=\"hl\">a late start can still go all the way</span>.",
+  "cards": [
+   {"emo": "🏈", "title": "A quarterback first", "front": "Ben was born in 2002 in Atlanta, USA. His first sport wasn't tennis.", "back": "He played quarterback in American football. Bigger kids kept knocking him down, so around age 12 he started playing tennis regularly, coached by his dad.", "tryit": "Try 10 overhead throwing motions with no ball. Notice how it feels like a serve."},
+   {"emo": "🐊", "title": "Champion for the Gators", "front": "Ben's dad, Bryan, was a former pro who coached the Florida Gators.", "back": "Ben played college tennis for Florida. He clinched the 2021 team title and won the 2022 national singles title. His college record was 65 wins, 10 losses.", "tryit": "Play a practice set where your only goal is to cheer for one good shot each game."},
+   {"emo": "🛂", "title": "Top 100 without a passport", "front": "Ben turned pro in 2022, and he rose fast.", "back": "He won three small 'Challenger' titles in three weeks. That put him in the top 100 before he had ever left the USA.", "tryit": "Write down three small goals you could reach in three weeks of practice."},
+   {"emo": "🚀", "title": "A serve at 150 mph", "front": "Ben is a lefty with one of the biggest serves in tennis.", "back": "He has served at 150 miles per hour (241 km/h). On his first trip abroad, in 2023, he reached the Australian Open quarterfinals.", "tryit": "Hit 20 serves. Aim 10 wide and 10 down the middle, and count how many land in."},
+   {"emo": "🏆", "title": "Climbing to world No. 4", "front": "Ben kept improving his whole game, not just his serve.", "back": "He won big Canadian Open titles in 2025 and 2026. He reached the 2026 US Open final and hit world No. 4 in September 2026.", "tryit": "Pick one shot besides your serve. Practise it for 15 minutes this week."}
+  ],
+  "words": [
+   {"w": "Quarterback", "d": "The American football player who throws the ball to start most plays."},
+   {"w": "NCAA", "d": "The group that runs college sports and championships in the USA."},
+   {"w": "Challenger event", "d": "A smaller pro tournament, one level below the main tour."},
+   {"w": "Ace", "d": "A serve so good the other player can't even touch it."},
+   {"w": "Masters 1000", "d": "The biggest kind of tournament after the four Grand Slams."}
+  ],
+  "quiz": [
+   {"q": "Which sport did Ben play before focusing on tennis?", "opts": ["Basketball", "American football", "Soccer"], "a": 1, "hint": "Look at card 1. He threw a ball, but not a tennis ball.", "why": "He played quarterback, then switched to tennis around age 12."},
+   {"q": "What was special about Ben reaching the top 100 in 2022?", "opts": ["He had never played outside the USA", "He did it in his first week", "He had no coach"], "a": 0, "hint": "Think about what a passport is for.", "why": "He won three Challenger titles in the USA and broke into the top 100 before ever going abroad."},
+   {"q": "Who has coached Ben in college and on the pro tour?", "opts": ["Roger Federer", "A football coach", "His dad, Bryan"], "a": 2, "hint": "He was a former pro who coached the Florida Gators.", "why": "Bryan Shelton coached Ben at Florida and later left the job to travel with him on tour."},
+   {"q": "Why did Ben keep working on more than his serve?", "opts": ["Serves are not allowed to be fast", "A great player needs strong shots in long rallies too", "He wanted to stop serving"], "a": 1, "hint": "Read card 5. Big serves win points, but not every point.", "why": "Building a fuller game helped him win titles on every surface and reach No. 4."}
+  ],
+  "think": "Ben started tennis late, but his football throwing helped his serve. What skill from another game or hobby of yours could help your tennis?",
+  "tries": [
+   "Do 10 shadow serves each day, copying a smooth throwing motion",
+   "Watch highlights of Ben Shelton's serve and notice how he uses his legs",
+   "Play one practice set where you come to the net at least 5 times",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, ATP Tour"
+ }
+}
