@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-02",
+  "slug": "money-basics-compound-interest",
+  "category": "skills",
+  "emoji": "💰",
+  "title_plain": "How to make your money grow on its own",
+  "teaser": "Learn how saved money earns more money, and why starting early is a superpower."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How to make your money <span class=\"hl\">grow on its own</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "Saved money can earn its own money. With compound interest, <span class=\"hl\">time is your superpower</span>, so the earlier you start, the more it grows.",
+  "cards": [
+   {"emo": "🪙", "title": "Know principal and interest", "front": "Why would a bank pay you just for saving?", "back": "Principal is the money you start with. Interest is extra money paid for keeping it saved. Simple interest pays only on that starting pile.", "tryit": "Ask Dad what interest rate a kids' savings account pays here. Write the number down."},
+   {"emo": "⛄", "title": "Interest earns interest too", "front": "What happens when your interest starts working for you?", "back": "$1,000 at 5% becomes $1,050 after one year. Year two pays 5% on $1,050, giving $1,102.50. That's compound interest: it snowballs, like a level-up that boosts your next level-up.", "tryit": "On a calculator, type 100, then keep multiplying by 1.1. How many presses until it passes 200?"},
+   {"emo": "🧮", "title": "Use the Rule of 72", "front": "A quick brain trick to see how fast money doubles.", "back": "Divide 72 by the interest rate to estimate the years to double. At 9%, $100 becomes $200 in about 8 years. Luca Pacioli wrote this rule in 1494.", "tryit": "Use the Rule of 72 for 3%, 6% and 12%. Which one doubles fastest?"},
+   {"emo": "📜", "title": "Ben Franklin's 100-year plan", "front": "A famous inventor tested compound interest after he died.", "back": "In 1789, Franklin's will gave £1,000 each to Boston and Philadelphia, lent out at 5%. He predicted each would grow to £131,000 after 100 years.", "tryit": "Multiply 1,000 by 1.05 ten times on a calculator. How much after 10 years?"},
+   {"emo": "🚀", "title": "Start early, add often", "front": "Why does a 13-year-old saver have a head start?", "back": "$100 at 6% doubles about every 12 years. Save it at 13, and by 61 it's about $1,600. Wait until 25, and it's only about $800.", "tryit": "Pick a goal. Decide one small amount you could save every week from gifts or chores."}
+  ],
+  "words": [
+   {"w": "Principal", "d": "The money you put in at the start."},
+   {"w": "Interest", "d": "Extra money paid to you for keeping your money saved."},
+   {"w": "Interest rate", "d": "The percent of your money you earn as interest each year."},
+   {"w": "Compound interest", "d": "Interest paid on your money plus the interest it already earned."},
+   {"w": "Rule of 72", "d": "Divide 72 by the rate to guess how long money takes to double."}
+  ],
+  "quiz": [
+   {"q": "You save $100 at 10% compound interest per year. How much after 2 years?", "opts": ["$120", "$121", "$200"], "a": 1, "hint": "Work one year at a time. What is year two's 10% taken from?", "why": "Year one gives $110, then year two pays 10% of $110, which is $11, so $121."},
+   {"q": "Using the Rule of 72, about how long does money take to double at 6%?", "opts": ["About 12 years", "About 6 years", "About 72 years"], "a": 0, "hint": "The rule has just one step. Which two numbers do you divide?", "why": "72 divided by 6 is 12, so it takes about 12 years to double."},
+   {"q": "What makes compound interest different from simple interest?", "opts": ["It only pays once, at the very end", "It needs a bank card to work", "It pays interest on earlier interest too"], "a": 2, "hint": "Think of the snowball. What gets added to the pile each year?", "why": "Compound interest adds earned interest to the pile, so the next interest is bigger."},
+   {"q": "Maya saves $100 at 13. Leo saves $100 at 25. Both earn 6%. Who has more at 61?", "opts": ["Leo, because he saved when older", "Maya, because her money had time to double once more", "They have exactly the same"], "a": 1, "hint": "Count the years each person's money grows. How many 12-year doubles fit?", "why": "Maya's money grows 48 years (4 doubles) and Leo's 36 years (3 doubles), so Maya wins."}
+  ],
+  "think": "Plan your own savings goal. What would you save for, how much could you add each week, and how long would it take to get there?",
+  "tries": [
+   "With Dad, try the free compound interest calculator on Investor.gov using $100 and different numbers of years",
+   "Small project: make a savings jar or chart for one goal and track it for 4 weeks",
+   "Use the Rule of 72 to find doubling times for 4%, 8% and 9%",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Investor.gov (U.S. SEC), Benjamin Franklin's will (The Franklin Institute)"
+ }
+}

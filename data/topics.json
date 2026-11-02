@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "skills",
-   "subject": "Money basics: saving and compound interest",
-   "angle": "How money grows over time, and why starting early is a superpower"
-  },
-  {
    "category": "games",
    "subject": "Satoshi Tajiri",
    "angle": "How a bug-collecting kid created Pokémon"
@@ -581,6 +576,10 @@
   {
    "date": "2026-11-01",
    "subject": "Ben Shelton"
+  },
+  {
+   "date": "2026-11-02",
+   "subject": "Money basics: saving and compound interest"
   }
  ]
 }
