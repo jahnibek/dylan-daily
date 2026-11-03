@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-03",
+  "slug": "satoshi-tajiri",
+  "category": "games",
+  "emoji": "🐛",
+  "title_plain": "How a bug-collecting kid created Pokémon",
+  "teaser": "Satoshi Tajiri turned his childhood love of catching bugs into Pokémon."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a bug-collecting kid <span class=\"hl\">created Pokémon</span>",
+  "sub": "The story of Satoshi Tajiri",
+  "bigIdea": "Satoshi Tajiri mixed two things he loved as a kid, bugs and games. That mix became <span class=\"hl\">one of the biggest game series ever</span>.",
+  "cards": [
+   {"emo": "🐞", "title": "The kid called Dr. Bug", "front": "Satoshi was born in 1965 in Tokyo, Japan. He grew up near rice fields and rivers.", "back": "He loved catching insects so much that other kids called him \"Dr. Bug\". He even invented his own trick: beetles slept under stones he left by trees.", "tryit": "Go outside for 10 minutes and count how many different bugs you can spot."},
+   {"emo": "👾", "title": "From ponds to arcades", "front": "As the city grew, trees were cut down and the bugs disappeared.", "back": "A fishing pond near his home became an arcade. Satoshi fell in love with Space Invaders and started thinking about how games were made.", "tryit": "Play a game you love and write down one thing that makes it fun."},
+   {"emo": "📰", "title": "A handmade game magazine", "front": "As a teenager, Satoshi made his own magazine called Game Freak.", "back": "It was handwritten and stapled together, full of tips to win games. Artist Ken Sugimori joined him. In 1989 they turned it into a game company.", "tryit": "Write a one-page tips sheet for a game you're good at, like Brawl Stars."},
+   {"emo": "🔗", "title": "The idea in a cable", "front": "In 1990 Satoshi saw a cable that linked two Game Boys together.", "back": "He imagined bugs crawling from one Game Boy to the other. That sparked the idea: catch creatures, then trade them with friends.", "tryit": "Think of two hobbies you love. Sketch a game idea that mixes them."},
+   {"emo": "⏳", "title": "Six years of not quitting", "front": "Pokémon Red and Green took six years to make.", "back": "Money ran so low that some workers quit, and Satoshi took no pay. The games finally came out in 1996 and became a huge hit.", "tryit": "Pick one tough skill. Practise it 15 minutes a day this week, even when it's boring."}
+  ],
+  "words": [
+   {"w": "Entomologist", "d": "A scientist who studies insects."},
+   {"w": "Fanzine", "d": "A homemade magazine made by fans about something they love."},
+   {"w": "Link cable", "d": "A wire that connects two game consoles so they can share data."},
+   {"w": "Game designer", "d": "The person who plans how a game works and what makes it fun."},
+   {"w": "Mentor", "d": "An experienced person who guides and teaches someone newer."}
+  ],
+  "quiz": [
+   {"q": "What did other kids call young Satoshi?", "opts": ["Mr. Game", "Dr. Bug", "Captain Beetle"], "a": 1, "hint": "Think about his favourite hobby before video games.", "why": "He caught so many insects that kids nicknamed him Dr. Bug."},
+   {"q": "What gave Satoshi the big idea for trading Pokémon?", "opts": ["A TV commercial", "A board game", "A cable linking two Game Boys"], "a": 2, "hint": "Look at card 4. Something had to connect two players.", "why": "He imagined bugs moving through the link cable between two Game Boys."},
+   {"q": "What was Game Freak before it was a game company?", "opts": ["A handmade magazine", "An arcade", "A toy shop"], "a": 0, "hint": "Satoshi stapled the pages together himself.", "why": "Game Freak started as his handwritten tips magazine, then became a studio in 1989."},
+   {"q": "Why does the Pokémon story show the power of not giving up?", "opts": ["It was finished in one month", "It took six years and almost ran out of money", "Nintendo made it for him"], "a": 1, "hint": "Read card 5 about how long it took.", "why": "Satoshi kept going for six years, even working without pay, until it was done."}
+  ],
+  "think": "Satoshi turned his favourite childhood hobby into a game. If you made a game from something you love, like tennis or anime, what would players collect or do?",
+  "tries": [
+   "Spend 10 minutes outside looking for bugs, like Dr. Bug did",
+   "Make a one-page tips sheet for your favourite game",
+   "Sketch a creature for your own game and give it a name and a power",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, TIME"
+ }
+}
