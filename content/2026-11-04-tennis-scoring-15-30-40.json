@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-04",
+  "slug": "tennis-scoring-15-30-40",
+  "category": "wildcard",
+  "emoji": "🎾",
+  "title_plain": "Why tennis counts 15, 30, 40",
+  "teaser": "The mystery behind love, deuce and the strangest scoring system in sport."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "Why tennis counts <span class=\"hl\">15, 30, 40</span>",
+  "sub": "The story of tennis's strangest scoring system",
+  "bigIdea": "You say \"15-love\" every match, but the numbers are about 600 years old. They may come from <span class=\"hl\">a clock face in medieval France</span>.",
+  "cards": [
+   {"emo": "🔢", "title": "Points that jump by 15", "front": "In most sports, one point is 1. In tennis, your first point is 15.", "back": "A game goes love, 15, 30, 40, then game. You need four points and a two-point lead to win it.", "tryit": "Watch one game of a pro match and say each score before the umpire does."},
+   {"emo": "🕰️", "title": "The clock face idea", "front": "One theory says players in old France kept score on a clock.", "back": "Each point moved a hand a quarter turn: 15, 30, 45. Reaching 60, the top of the hour, won the game. A poem from 1435 mentions forty-five.", "tryit": "Draw a clock. Move a pencil hand through a game you played, one quarter at a time."},
+   {"emo": "✂️", "title": "Why 45 became 40", "front": "If it went 15, 30, 45, why do we say 40 today?", "back": "Games must be won by two points. So the last 20 minutes split into two 10s: 40, then 50 for advantage, then 60 for game.", "tryit": "On your clock, show what happens at deuce. Where does the hand go if you lose advantage?"},
+   {"emo": "🥚", "title": "Why zero is love", "front": "Why would a score of zero be called love?", "back": "One idea: the French word for egg is l'oeuf, and an egg looks like 0. Another: you keep playing for the love of the game, even at zero.", "tryit": "Ask a friend or coach which theory they believe, then tell them the other one."},
+   {"emo": "⚖️", "title": "Deuce and the tiebreak", "front": "At 40-40 the umpire says deuce. And at 6-6 in games, a tiebreak starts.", "back": "Deuce likely comes from French for two: you need two points in a row. A 1969 Wimbledon match took over five hours, so tiebreaks spread from 1970.", "tryit": "Play a practice tiebreak to 7. You must win by two, so keep going if it's 6-6."}
+  ],
+  "words": [
+   {"w": "Deuce", "d": "A 40-40 tie in a game. You need two points in a row."},
+   {"w": "Advantage", "d": "The point after deuce. Win the next point and you win the game."},
+   {"w": "Tiebreak", "d": "A special game at 6-6, played to 7 points, win by two."},
+   {"w": "Jeu de paume", "d": "An old French game like tennis, first played with the hand."},
+   {"w": "Umpire", "d": "The official who calls the score and runs the match."}
+  ],
+  "quiz": [
+   {"q": "The server has won three points and the receiver one. What's the score?", "opts": ["30-15", "40-15", "45-15"], "a": 1, "hint": "Count up: love, 15, 30, then the odd one. The server's score comes first.", "why": "Three points is 40 and one point is 15, so it's 40-15."},
+   {"q": "In the clock theory, what number stood for advantage?", "opts": ["50", "45", "55"], "a": 0, "hint": "After 40, the last 20 minutes were split into two equal steps.", "why": "40 plus 10 is 50 for advantage, and another 10 reaches 60 for game."},
+   {"q": "Which is a real theory for why zero is called love?", "opts": ["It was a famous player's name", "It's an old word for the net", "The French word for egg sounds like it"], "a": 2, "hint": "Think about what shape the number zero looks like.", "why": "L'oeuf means egg in French, and an egg looks like a 0."},
+   {"q": "Why did tennis start using tiebreaks?", "opts": ["Players wanted more serves", "Some matches went on for hours", "Rackets got lighter"], "a": 1, "hint": "Remember the 1969 Wimbledon match in card 5.", "why": "Very long sets were tiring, so the tiebreak was made to finish sets faster."}
+  ],
+  "think": "If you could invent a new scoring system for tennis or Brawl Stars, how would it work, and what would you call zero?",
+  "tries": [
+   "Keep score out loud in your next practice set, including deuce and advantage",
+   "Draw the clock-face scoreboard and teach it to a teammate",
+   "Watch a pro tiebreak and count how many points it took",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, BBC Bitesize, LTA"
+ }
+}

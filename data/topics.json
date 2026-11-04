@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "wildcard",
-   "subject": "Why tennis scoring goes 15-30-40",
-   "angle": "The mystery of love, deuce and the strangest scoring system in sport"
-  },
-  {
    "category": "howitworks",
    "subject": "How a touchscreen works",
    "angle": "How your phone feels your finger without any buttons"
@@ -579,6 +574,10 @@
   {
    "date": "2026-11-03",
    "subject": "Satoshi Tajiri"
+  },
+  {
+   "date": "2026-11-04",
+   "subject": "Why tennis scoring goes 15-30-40"
   }
  ]
 }
