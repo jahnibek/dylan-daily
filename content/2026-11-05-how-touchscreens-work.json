@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-05",
+  "slug": "how-touchscreens-work",
+  "category": "howitworks",
+  "emoji": "📱",
+  "title_plain": "How your phone feels your finger without any buttons",
+  "teaser": "A hidden grid, a tiny electric field and your finger: the touchscreen secret."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How your phone feels your finger <span class=\"hl\">without any buttons</span>",
+  "sub": "The science behind touchscreens",
+  "bigIdea": "Your phone screen hides a grid of see-through wires. Your finger carries electricity, so <span class=\"hl\">it changes the grid exactly where you touch</span>.",
+  "cards": [
+   {"emo": "🥪", "title": "A glass sandwich with secret wires", "front": "Your screen looks like plain glass. It isn't.", "back": "Under the glass sits a grid of super-thin lines, in rows and columns. They're made of a special material that is up to 90% see-through.", "tryit": "Look at your screen from the side under a bright lamp. Can you spot the grid? Almost nobody can!"},
+   {"emo": "⚡", "title": "Every crossing holds a charge", "front": "Where a row crosses a column, something happens.", "back": "Each crossing point is a tiny capacitor that holds a little electric charge. A small 12 by 16 grid already has 192 of these points.", "tryit": "Draw a 4 by 5 grid on paper. Count the crossings. Then work out how many a 12 by 16 grid has."},
+   {"emo": "👆", "title": "Your finger is a conductor", "front": "Why does a glove usually stop working?", "back": "Your body conducts electricity well. When your finger comes close, it changes the charge at the nearest crossings. A normal glove blocks that.", "tryit": "Tap a screen with your fingertip, then a fingernail, a pencil eraser and a gloved finger. Which ones work?"},
+   {"emo": "🔍", "title": "A chip checks every point", "front": "How does the phone know which spot you touched?", "back": "A tiny chip checks the grid, row by row, incredibly fast. It finds which crossings changed and turns them into a position, like a map square.", "tryit": "Play a quick game of Battleship-style guessing with a friend: call out row and column to find a hidden dot."},
+   {"emo": "🤏", "title": "Many fingers, many moves", "front": "Pinch to zoom needs two fingers at once.", "back": "Modern screens track several touches at the same time. By comparing positions moment to moment, the phone sees swipes, pinches and drags.", "tryit": "Open a photo and pinch to zoom very slowly. Notice how the picture follows both fingers."}
+  ],
+  "words": [
+   {"w": "Conductor", "d": "A material that lets electricity flow through it, like metal or your body."},
+   {"w": "Electrode", "d": "A thin conducting strip that carries a small electric signal."},
+   {"w": "Capacitor", "d": "A tiny part that stores electric charge between two conductors."},
+   {"w": "Grid", "d": "Rows and columns that cross, so every spot has an address."},
+   {"w": "Multi-touch", "d": "A screen that can track two or more fingers at once."}
+  ],
+  "quiz": [
+   {"q": "What hides under the glass of your phone screen?", "opts": ["A grid of see-through wires", "Thousands of tiny buttons", "A layer of water"], "a": 0, "hint": "Think rows and columns, like a map.", "why": "Thin see-through electrodes form rows and columns under the glass."},
+   {"q": "Why does a fingertip work but a normal glove usually doesn't?", "opts": ["Gloves are too heavy", "Your finger is warm", "Your body conducts electricity"], "a": 2, "hint": "What does your finger carry that wool or cotton doesn't?", "why": "Your finger conducts electricity and changes the charge on the grid; most gloves block that."},
+   {"q": "How does the phone work out where you touched?", "opts": ["It listens for the tap sound", "It finds which grid crossings changed", "It guesses from the last touch"], "a": 1, "hint": "Remember the Battleship game.", "why": "A chip checks each row and column and finds the crossing points that changed."},
+   {"q": "How does the phone tell a swipe from a tap?", "opts": ["It compares your finger's position over time", "Swipes press harder", "It asks the app"], "a": 0, "hint": "What's different between a tap and a swipe as time passes?", "why": "A tap stays in one spot, while a swipe moves across many points as the chip keeps checking."}
+  ],
+  "think": "In Brawl Stars or Roblox on a phone, you use two thumbs at once. What would games feel like if your screen could only feel one finger at a time? How would you redesign the controls?",
+  "tries": [
+   "Test five objects on a screen (fingernail, eraser, glove, knuckle, fingertip) and record which work",
+   "Put one small drop of water on a phone screen and watch if it acts like a touch, then wipe it dry",
+   "Count how many fingers your phone or tablet can track at once in a drawing app",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, MIT School of Engineering"
+ }
+}

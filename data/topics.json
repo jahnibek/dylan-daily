@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, anime, wildcard, plus a skills topic about every third day a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "howitworks",
-   "subject": "How a touchscreen works",
-   "angle": "How your phone feels your finger without any buttons"
-  },
-  {
    "category": "anime",
    "subject": "Masashi Kishimoto",
    "angle": "How Naruto's creator turned rejection into one of the biggest manga ever"
@@ -578,6 +573,10 @@
   {
    "date": "2026-11-04",
    "subject": "Why tennis scoring goes 15-30-40"
+  },
+  {
+   "date": "2026-11-05",
+   "subject": "How a touchscreen works"
   }
  ]
 }
