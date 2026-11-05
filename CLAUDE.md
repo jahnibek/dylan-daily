@@ -1,13 +1,13 @@
 # Dylan Daily
 
-A daily interactive report for Dylan (13) about the people behind the things he loves: tennis players, game creators, movies, shows, anime and book authors, plus practical skills and how stuff works. Published with GitHub Pages at https://jahnibek.github.io/dylan-daily/ and emailed to him every morning.
+A daily interactive report for Dylan (13) about the people behind the things he loves: tennis players, game creators, movies, shows, anime and manga, LEGO and book authors, plus practical skills and how stuff works. Published with GitHub Pages at https://jahnibek.github.io/dylan-daily/ and emailed to him every morning.
 
 ## Daily run (the scheduled task follows this exactly)
 
 1. **Pick today's topic.** Take the first item in `data/topics.json` → `queue`. Use its `subject` and `angle`. If that subject already appears in `done`, skip to the next one.
 2. **Research.** Read the subject's Wikipedia page, plus one more reliable source (an official site, a major news outlet or Guinness World Records). Use only facts you've read in a source. Prefer round numbers a 13-year-old can picture, and give years for anything that changes, like rankings or sales.
 3. **Write the content file** `content/YYYY-MM-DD-<slug>.json`, using today's date in Almaty (UTC+5). Copy the shape of any existing file in `content/`:
-   - `meta`: `date`, `slug` (lowercase-hyphenated), `category` (one of `tennis`, `games`, `screen`, `books`, `anime`, `wildcard`, `skills`, `howitworks`, `mathsci`), `emoji`, `title_plain` (no HTML), and `teaser` (one sentence, at most about 15 words).
+   - `meta`: `date`, `slug` (lowercase-hyphenated), `category` (one of `tennis`, `games`, `screen`, `books`, `anime`, `lego`, `wildcard`, `skills`, `howitworks`, `mathsci`), `emoji`, `title_plain` (no HTML), and `teaser` (one sentence, at most about 15 words).
    - `page`: `kind` is "Report for Dylan" and `readTime` is "4 min read". `title` is a fun, curiosity-driven headline with one phrase wrapped in `<span class="hl">…</span>`. `sub` is "The story of …". `bigIdea` is one or two sentences with one highlighted phrase.
    - `cards`: exactly 5. Each has an emoji, a `title` of at most 6 words, a `front` teaser, a `back` of at most 30 words, and a `tryit` with a concrete action for Dylan.
    - `words`: 3–5 terms, each with a definition of at most 15 words.
@@ -34,6 +34,20 @@ A daily interactive report for Dylan (13) about the people behind the things he 
    - `<TOPIC>` is a short, natural phrase for the day's subject, for example "Carlos Alcaraz", "Jeff Kinney and Diary of a Wimpy Kid" or "making your first Roblox obby".
    - Send both a plain-text body (with the full report URL on its own line) and an HTML body (htmlBody). In the HTML, the link is an orange button: background #E08A4B, text #10243D, bold, padding 12px 20px, border-radius 8px. Use Arial at 16px, colour #1A2433.
    - Nothing else: no teaser, no library line, no attachments.
+
+## Anime & Manga reports (category `anime`)
+
+About once a week. Tell the story of a manga artist, anime studio or series: how they started, the setbacks and the practice behind the hit.
+- **Research** Wikipedia plus one reliable source, such as the publisher (Shueisha/VIZ), the studio's official site or a major news outlet.
+- Pick kid-friendly series. If a series is mainly known for graphic violence or mature themes, skip it under the writing rules.
+- Each card's `tryit` can be drawing, noticing a technique in an episode, or trying a habit the creator used.
+
+## LEGO reports (category `lego`)
+
+About once a week. Topics cover LEGO's history and people, how bricks and sets are made and designed, building techniques, LEGO games and films, and famous builds.
+- **Research** Wikipedia plus LEGO's official site (lego.com) or Guinness World Records.
+- Each card's `tryit` is a quick build or challenge he can do with his own bricks in 15 minutes or less.
+- Building-skill topics (for example "Build your own LEGO MOC") use category `skills` and follow the Skills rules.
 
 ## Skills reports (category `skills`)
 
@@ -70,7 +84,7 @@ Once a week, a report that makes Dylan think hard. Each one is built around one 
 ## Writing rules (age 13)
 
 - Aim for a grade 6–7 reading level. Keep sentences under about 15 words, use everyday words, and explain any jargon in "Words to know".
-- Talk to Dylan as "you". Be warm and upbeat, but never preachy or babyish. Use comparisons from his world: competitive tennis, Roblox, Fortnite, Brawl Stars, One Piece and anime, The Karate Kid, Cobra Kai and *Diary of a Wimpy Kid*.
+- Talk to Dylan as "you". Be warm and upbeat, but never preachy or babyish. Use comparisons from his world: competitive tennis, Roblox, Fortnite, Brawl Stars, One Piece and anime, LEGO, The Karate Kid, Cobra Kai and *Diary of a Wimpy Kid*.
 - The parent rule: guide his thinking, don't hand him answers. Hints nudge, and the "why" explains after he answers.
 - Focus on effort, practice, creativity, setbacks, curiosity and teamwork.
 - **Never include:**
