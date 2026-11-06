@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "anime",
-   "subject": "Masashi Kishimoto",
-   "angle": "How Naruto's creator turned rejection into one of the biggest manga ever"
-  },
-  {
    "category": "mathsci",
    "subject": "Infinity",
    "angle": "Why some infinities are bigger than others, and Georg Cantor's big idea"
@@ -677,6 +672,10 @@
   {
    "date": "2026-11-05",
    "subject": "How a touchscreen works"
+  },
+  {
+   "date": "2026-11-06",
+   "subject": "Masashi Kishimoto"
   }
  ]
 }

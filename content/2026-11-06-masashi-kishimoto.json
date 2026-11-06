@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-06",
+  "slug": "masashi-kishimoto",
+  "category": "anime",
+  "emoji": "🍥",
+  "title_plain": "How Naruto's creator turned rejection into a hit",
+  "teaser": "Masashi Kishimoto's ideas kept getting turned down, until one last try became Naruto."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How Naruto's creator turned <span class=\"hl\">rejection into a hit</span>",
+  "sub": "The story of Masashi Kishimoto",
+  "bigIdea": "Masashi Kishimoto had idea after idea turned down. He kept drawing, and <span class=\"hl\">one last try became Naruto</span>.",
+  "cards": [
+   {"emo": "✏️", "title": "A kid copying his heroes", "front": "Masashi was born in 1974 in Okayama, Japan. He has an identical twin brother, Seishi.", "back": "As a kid he drew characters from Doraemon and Dr. Slump. He loved Dragon Ball, but couldn't afford the magazine, so he read a friend's copy.", "tryit": "Copy one panel of your favourite manga. Notice how the artist draws the eyes."},
+   {"emo": "🎨", "title": "His style didn't fit", "front": "In college, Masashi sent manga to contests. But something was off.", "back": "His drawings looked like manga for grown-ups, not for Shōnen Jump readers. So he studied anime character designers and copied their styles until his own changed.", "tryit": "Draw the same face in two styles: one cute and simple, one serious and detailed."},
+   {"emo": "📉", "title": "A win, then a flop", "front": "In 1996 his story Karakuri won an honourable mention in a contest for new artists.", "back": "He got an editor, Kosuke Yahagi. In 1998 Karakuri ran in Shōnen Jump, but he had about two weeks to make it. Readers didn't like it much.", "tryit": "Think of a time you rushed something. Write one thing you'd do with more time."},
+   {"emo": "🔁", "title": "One more try", "front": "Next he made a baseball manga. It went nowhere. He thought shōnen manga wasn't for him.", "back": "He secretly worked on a story for older readers instead. His editor read it and said: try for young readers one last time. Masashi did.", "tryit": "Pick something you gave up on, like a tough shot in tennis. Give it one more 15-minute try."},
+   {"emo": "🍥", "title": "The honest smile", "front": "In 1999 Naruto began in Weekly Shōnen Jump and quickly became a hit.", "back": "It ran for 15 years: 700 chapters in 72 books. It has sold over 250 million copies. Masashi felt it worked because Naruto's smile was honest.", "tryit": "Draw your own hero with a smile that shows who they are: cheeky, shy or brave."}
+  ],
+  "words": [
+   {"w": "Mangaka", "d": "The Japanese word for a person who creates manga."},
+   {"w": "Shōnen", "d": "Manga made mainly for boys and teens, full of action and adventure."},
+   {"w": "One-shot", "d": "A single short manga story, often used to test an idea."},
+   {"w": "Editor", "d": "A person who helps an artist improve their work before it's printed."},
+   {"w": "Serialization", "d": "When a story comes out in parts, chapter by chapter, over time."}
+  ],
+  "quiz": [
+   {"q": "Why didn't Masashi's early drawings fit Shōnen Jump?", "opts": ["They were in colour", "They looked like manga for grown-ups", "They had no words"], "a": 1, "hint": "Think about who reads Shōnen Jump.", "why": "His style suited older readers, so he studied anime designers to change it."},
+   {"q": "What went wrong with Karakuri in Shōnen Jump in 1998?", "opts": ["He had only about two weeks to make it", "It was printed upside down", "It was too long"], "a": 0, "hint": "Look at card 3. Time was a problem.", "why": "The deadline was so sudden that the story was rushed, and readers didn't like it."},
+   {"q": "Who convinced Masashi to try a shōnen manga one last time?", "opts": ["His twin brother", "Akira Toriyama", "His editor, Kosuke Yahagi"], "a": 2, "hint": "It was the person whose job is to help him improve his work.", "why": "Yahagi read his secret story and pushed him to try for young readers again."},
+   {"q": "What does Masashi's story show about rejection?", "opts": ["It means you should quit", "It can be a step on the way to success", "It only happens to beginners once"], "a": 1, "hint": "How many ideas failed before Naruto?", "why": "Several ideas failed first, and each one taught him something he used in Naruto."}
+  ],
+  "think": "Masashi almost gave up on the kind of manga he loved, but tried once more. What's one thing, in tennis or a game, that you'd give one more try?",
+  "tries": [
+   "Copy one manga panel and notice how the artist draws faces",
+   "Create a hero for your own manga and draw their smile",
+   "Give one thing you gave up on another 15-minute try",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, VIZ, Anime News Network"
+ }
+}
