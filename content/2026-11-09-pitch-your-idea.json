@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-09",
+  "slug": "pitch-your-idea",
+  "category": "skills",
+  "emoji": "🎤",
+  "title_plain": "How to pitch your idea in 60 seconds",
+  "teaser": "Learn the five steps to explain any idea fast, before the elevator doors open."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How to pitch your idea <span class=\"hl\">in 60 seconds</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "A great pitch doesn't try to win everything at once. Its job is to <span class=\"hl\">earn the next conversation</span>, in about the time an elevator ride takes.",
+  "cards": [
+   {"emo": "🎣", "title": "Hook them fast", "front": "Which part of a pitch matters most?", "back": "Experts say your first two sentences matter most. Try a question, then 'Imagine…'. Like a first serve, it sets up everything after it.", "tryit": "Write three different opening questions for one idea. Read them to someone and ask which one grabs them."},
+   {"emo": "🎯", "title": "Say who, what and why", "front": "What four things does a pitch usually explain?", "back": "Who it's for, what it does, why it's needed, and how it works. In an elevator, Square's Shinji Hashimoto pitched mixing Disney with his studio's games. That became Kingdom Hearts.", "tryit": "Fill in one sentence: 'My idea is for ___, it does ___, because ___.'"},
+   {"emo": "📖", "title": "Tell one small story", "front": "Why do stories beat lists of facts?", "back": "People picture one person more easily than a crowd. Share your 'Eureka!' moment, when you first got the idea. Save the long details for later.", "tryit": "Remember the moment your idea popped into your head. Tell it in four sentences or fewer."},
+   {"emo": "😄", "title": "Keep it simple and positive", "front": "How should a pitch sound out loud?", "back": "Use simple words and few numbers. Smile, look people in the eye, and pause after key points. Sound like a chat, not a script.", "tryit": "Say your pitch twice: once fast, once with three short pauses. Which felt clearer?"},
+   {"emo": "🙋", "title": "Finish with a clear ask", "front": "How do you end so something actually happens?", "back": "Say exactly what you want next: try it, help build it, talk again. Philip Crosby pitched his boss in an elevator and was invited to present to every manager.", "tryit": "Write one ending line that asks for a small, clear next step."}
+  ],
+  "words": [
+   {"w": "Pitch", "d": "A short talk that explains an idea and gets people interested."},
+   {"w": "Elevator pitch", "d": "A pitch short enough for an elevator ride, about 30 seconds to 2 minutes."},
+   {"w": "Hook", "d": "An opening line that grabs attention right away."},
+   {"w": "Audience", "d": "The people listening to you."},
+   {"w": "The ask", "d": "The clear next step you request at the end."}
+  ],
+  "quiz": [
+   {"q": "What is the main goal of an elevator pitch?", "opts": ["To explain every single detail", "To get people interested enough to keep talking", "To fill the whole two minutes"], "a": 1, "hint": "Think about what happens after the elevator doors open.", "why": "A pitch opens a door; the details come in the longer conversation it earns."},
+   {"q": "You want a friend to help build your Roblox game. Which opening is the best hook?", "opts": ["My game has 14 scripts and 3 maps.", "Hi, so, um, I made a thing.", "Ever wish an obby fought back? Imagine one where the lava chases you."], "a": 2, "hint": "Which line makes you want to hear the next sentence?", "why": "A question plus 'Imagine' sparks curiosity, while a list of numbers or a shy start doesn't."},
+   {"q": "Put the steps in order: ask, hook, story, who-what-why.", "opts": ["Hook, who-what-why, story, ask", "Story, ask, hook, who-what-why", "Ask, story, who-what-why, hook"], "a": 0, "hint": "What has to come first to get attention, and what comes right before the doors open?", "why": "You grab attention first, explain the idea, bring it alive with a story, then ask for the next step."},
+   {"q": "Your pitch is for your grandma, not a gamer friend. What should change?", "opts": ["Nothing, a pitch is always the same", "Your words and examples, to fit what she cares about", "Talk faster so she can't ask questions"], "a": 1, "hint": "Who is the pitch really for, you or the listener?", "why": "Good pitches are tailored to the listener's interests, so you pick words and examples that fit them."}
+  ],
+  "think": "Plan your own 60-second pitch. What idea would you pitch, who would you pitch it to, and what would you ask them to do at the end?",
+  "tries": [
+   "Write a 60-second pitch for one idea, like a game, a LEGO build or a family weekend plan",
+   "Small project: time yourself with a phone stopwatch, cut it to under 60 seconds, then pitch it to the family at dinner",
+   "Next time you watch a game trailer, spot its hook in the first few seconds",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, PLOS Computational Biology (\"Ten simple rules for hitting a home run with your elevator pitch\", 2021)"
+ }
+}
