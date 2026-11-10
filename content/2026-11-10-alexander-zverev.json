@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-10",
+  "slug": "alexander-zverev",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How Alexander Zverev turned a tennis family into Olympic gold",
+  "teaser": "Zverev grew up with two tennis-pro parents, won Olympic gold and kept chasing Grand Slams."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How Alexander Zverev turned a tennis family into <span class=\"hl\">Olympic gold</span>",
+  "sub": "The story of Alexander Zverev",
+  "bigIdea": "Zverev lost his first three Grand Slam finals. He kept going and finally won two in 2026, proving that <span class=\"hl\">losing a final is a step, not the end</span>.",
+  "cards": [
+   {"emo": "👨‍👩‍👦", "title": "A whole family of pros", "front": "Alexander was born in Hamburg, Germany, in 1997. Tennis was the family business.", "back": "Both his parents were pro players for the Soviet Union. His mum, Irina, was a top Soviet player. His big brother Mischa became a pro too.", "tryit": "Ask someone at home to feed you 20 balls. Count how many you return deep."},
+   {"emo": "🥇", "title": "Best junior in the world", "front": "He started playing at about age three. By 16 he was the top junior.", "back": "He was the world's No. 1 junior at the end of 2013. In 2014 he won the Australian Open boys' title.", "tryit": "Write down one junior goal for this season, like a ranking or a tournament."},
+   {"emo": "🏆", "title": "First title at 19", "front": "In 2016 he won his first pro tournament, in St. Petersburg.", "back": "He beat Stan Wawrinka, a Grand Slam champion, in the final. In 2018 he beat Novak Djokovic to win the ATP Finals.", "tryit": "Play a practice set against someone better than you. Note one shot that worked."},
+   {"emo": "🇯🇵", "title": "Gold at the Olympics", "front": "At the Tokyo Olympics in 2021, he came from behind against world No. 1 Djokovic.", "back": "Then he beat Karen Khachanov 6-3, 6-1 in the final. He joined Steffi Graf as the only Germans with Olympic singles gold.", "tryit": "Practise one comeback: start a game at 0-30 and try to win it."},
+   {"emo": "💪", "title": "Three losses, then two wins", "front": "Zverev lost Grand Slam finals in 2020, 2024 and 2025. Many people doubted him.", "back": "In 2026 he finally won the French Open and the US Open. He beat Ben Shelton in the US Open final.", "tryit": "Think of a match you lost. Write one thing you'd change next time."}
+  ],
+  "words": [
+   {"w": "Junior No. 1", "d": "The best-ranked player in the world under age 18."},
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments, like Wimbledon or the US Open."},
+   {"w": "ATP Finals", "d": "An end-of-year event for the best eight men of the season."},
+   {"w": "Golden Slam", "d": "Winning all four Grand Slams and Olympic gold in one year."},
+   {"w": "Comeback", "d": "Winning after being behind in the score."}
+  ],
+  "quiz": [
+   {"q": "What was special about Zverev's parents?", "opts": ["They were football coaches", "They were both pro tennis players", "They built tennis courts"], "a": 1, "hint": "Look at card 1. Tennis was the family business.", "why": "Both his parents played pro tennis for the Soviet Union, and his brother turned pro too."},
+   {"q": "Which junior title did Zverev win in 2014?", "opts": ["The Australian Open boys' title", "Junior Wimbledon", "The Olympic junior gold"], "a": 0, "hint": "It's the first Grand Slam of every year.", "why": "He won the 2014 Australian Open boys' singles after finishing 2013 as junior No. 1."},
+   {"q": "Who did Zverev beat in the Tokyo Olympics semifinal?", "opts": ["Karen Khachanov", "Ben Shelton", "Novak Djokovic"], "a": 2, "hint": "He was world No. 1 and chasing a Golden Slam.", "why": "Zverev came back to beat Djokovic, then beat Khachanov in the final."},
+   {"q": "What does Zverev's story teach about losing finals?", "opts": ["Stop after one loss", "Keep learning and trying again", "Only play easy events"], "a": 1, "hint": "Count his lost finals, then look at 2026.", "why": "He lost three Grand Slam finals but kept improving and won two in 2026."}
+  ],
+  "think": "Zverev lost big finals before he won one. What's a loss you've had that could help you win next time?",
+  "tries": [
+   "Play one practice game where you start at 0-30 and fight back",
+   "Watch highlights of Zverev's 2026 US Open final and notice how he stays calm",
+   "Write down your best match this month and why it went well",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, AP via Fox Sports"
+ }
+}
