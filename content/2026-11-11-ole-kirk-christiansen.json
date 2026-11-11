@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-11",
+  "slug": "ole-kirk-christiansen",
+  "category": "lego",
+  "emoji": "🦆",
+  "title_plain": "How a carpenter's wooden duck led to the LEGO brick",
+  "teaser": "Ole Kirk Christiansen turned a struggling woodshop into the company behind your favourite bricks."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a carpenter's <span class=\"hl\">wooden duck</span> led to the LEGO brick",
+  "sub": "The story of Ole Kirk Christiansen and the birth of LEGO",
+  "bigIdea": "Ole Kirk faced hard times, doubting relatives and a factory fire. He kept going because he believed <span class=\"hl\">only the best is good enough</span> for kids.",
+  "cards": [
+   {"emo": "🪵", "title": "A boy who loved wood", "front": "Ole Kirk was born in Denmark in 1891. He was one of 13 kids.", "back": "His family was poor, and he worked on farms as a young boy. He loved whittling wood. In 1916 he bought a carpentry shop in Billund.", "tryit": "Build a tiny workshop with a workbench and one tool in 10 minutes."},
+   {"emo": "🪀", "title": "Hard times, new idea", "front": "In the early 1930s, few people could afford his ladders and ironing boards.", "back": "So he started making cheap wooden toys. When yo-yos stopped selling, he cut them in half and used them as wheels for toy cars!", "tryit": "Build a pull-along toy car using only the bricks you find in 5 minutes."},
+   {"emo": "🔤", "title": "Two words, one name", "front": "His toy company needed a name. He played with two Danish words.", "back": "\"Leg godt\" means \"play well\" in Danish. He joined the first letters: LE + GO. The name LEGO was born in the mid-1930s.", "tryit": "Build the word LEGO, or your own name, with bricks in under 15 minutes."},
+   {"emo": "🦆", "title": "The duck that taught quality", "front": "His son Godtfred once saved money by giving toy ducks two coats of varnish, not three.", "back": "Ole made him fetch the ducks back and add the last coat, alone, even if it took all night. The motto became \"Only the best is good enough.\"", "tryit": "Build a duck in 10 minutes. Then spend 5 more making one detail better."},
+   {"emo": "🧱", "title": "From wood to plastic", "front": "In 1942 a fire destroyed his factory. He rebuilt it for his workers.", "back": "In 1947 he bought a plastic-moulding machine that cost over twice the year's profit. Plastic bricks followed, and the brick design was patented in 1958.", "tryit": "Test clutch power: stack 2x4 bricks into a tower. How tall before it wobbles?"}
+  ],
+  "words": [
+   {"w": "Carpenter", "d": "A person who builds and fixes things made of wood."},
+   {"w": "Varnish", "d": "A clear coating that makes wood shiny and protects it."},
+   {"w": "Motto", "d": "A short saying that sums up what someone believes."},
+   {"w": "Injection moulding", "d": "Pressing hot, melted plastic into a shape, then letting it cool."},
+   {"w": "Clutch power", "d": "The grip that holds two LEGO bricks firmly together."}
+  ],
+  "quiz": [
+   {"q": "What did Ole Kirk do when yo-yos stopped selling?", "opts": ["Threw them away", "Cut them in half to make toy car wheels", "Painted them gold"], "a": 1, "hint": "Think about what round, flat shapes could help a toy move.", "why": "He reused the yo-yos as wheels, so nothing went to waste."},
+   {"q": "What does \"leg godt\" mean in Danish?", "opts": ["Build big", "Wooden toy", "Play well"], "a": 2, "hint": "It's about what kids do with toys.", "why": "\"Leg godt\" means \"play well,\" and LEGO comes from its first letters."},
+   {"q": "Why did Godtfred have to fetch the ducks back?", "opts": ["They were missing a coat of varnish", "They were the wrong colour", "The train was late"], "a": 0, "hint": "Count the coats: how many did they usually get?", "why": "He skipped the third coat, and his dad wanted every toy done properly."},
+   {"q": "What does Ole Kirk's story teach about setbacks?", "opts": ["Quit after one problem", "Only work when things are easy", "Keep improving and start again"], "a": 2, "hint": "Think about the fire and the hard 1930s. What did he do each time?", "why": "He rebuilt after a fire and kept trying new ideas, like plastic bricks."}
+  ],
+  "think": "Ole Kirk said only the best is good enough. What's one thing, in tennis or building, where you could add your own \"third coat\"?",
+  "tries": [
+   "Build a LEGO duck with a beak that can open and close",
+   "Look at an old toy or brick at home and spot signs of good quality",
+   "Pick one thing you do this week and give it an extra careful finish",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, LEGO.com, LEGO House"
+ }
+}
