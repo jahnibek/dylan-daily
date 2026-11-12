@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-12",
+  "slug": "andy-roddick",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How Andy Roddick's rocket serve took him to world No. 1",
+  "teaser": "Roddick almost quit at 17, then won the 2003 US Open and reached No. 1."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How Andy Roddick's <span class=\"hl\">rocket serve</span> took him to world No. 1",
+  "sub": "The story of Andy Roddick",
+  "bigIdea": "Roddick nearly quit tennis at 17. Four more months of hard work turned him into <span class=\"hl\">the best junior in the world</span>, then a US Open champion.",
+  "cards": [
+   {"emo": "🏠", "title": "The little brother", "front": "Andy was born in Omaha, USA, in 1982. He was the youngest of three boys.", "back": "His big brother John was a top junior, ranked as high as No. 6 in the world. Andy wanted to keep up with him.", "tryit": "Pick a player you look up to. Copy one of their habits in practice this week."},
+   {"emo": "⏳", "title": "Four more months", "front": "At 17, Roddick lost a lot of junior matches in a row. He thought about quitting.", "back": "His coach, Tarik Benhabiles, asked for four more months of full focus. In 2000, Andy became the world's No. 1 junior.", "tryit": "Choose one shot that feels stuck. Practise only that shot for 15 minutes."},
+   {"emo": "🚀", "title": "A serve like a rocket", "front": "Roddick's serve was short, snappy and super fast. Strong legs powered it.", "back": "He once served at 152 mph, about 245 km/h, in a Grand Slam. He hit over 9,000 aces in his career.", "tryit": "Serve 10 balls. Bend your knees and push up with your legs on each one."},
+   {"emo": "🏆", "title": "Two sets down, then champion", "front": "In the 2003 US Open semifinal, he lost the first two sets and faced match point.", "back": "He saved it with a big serve and won. In the final he beat Juan Carlos Ferrero, finishing with three aces in a row.", "tryit": "Play a practice game where you start at 15-40. Try to win it anyway."},
+   {"emo": "🇺🇸", "title": "Winning for his team", "front": "At age 10, Roddick watched the USA win the Davis Cup. He dreamed of doing it too.", "back": "In 2007 he did it, with James Blake and the Bryan brothers. When he could clinch a tie, he won all 12 times.", "tryit": "Play doubles with a friend. Say one encouraging thing after every point."}
+  ],
+  "words": [
+   {"w": "Ace", "d": "A serve so good the other player can't even touch it."},
+   {"w": "Match point", "d": "A point where one player wins the whole match if they win it."},
+   {"w": "Davis Cup", "d": "A team competition where countries play each other in tennis."},
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments, like Wimbledon or the US Open."},
+   {"w": "Year-end No. 1", "d": "The player ranked best in the world when the season ends."}
+  ],
+  "quiz": [
+   {"q": "What did Roddick's coach ask him to do when he wanted to quit?", "opts": ["Take a year off", "Switch to a new sport", "Give tennis four more months of full focus"], "a": 2, "hint": "Look at card 2. It was a short, clear deal.", "why": "Benhabiles asked for four focused months, and Roddick became junior world No. 1 in 2000."},
+   {"q": "What was Roddick's biggest weapon?", "opts": ["His serve", "His drop shot", "His left-handed backhand"], "a": 0, "hint": "Think about the word 'ace' and card 3.", "why": "His fast serve won him free points, with over 9,000 aces in his career."},
+   {"q": "What happened in his 2003 US Open semifinal?", "opts": ["He won in three easy sets", "He came back from two sets down and a match point", "His opponent didn't show up"], "a": 1, "hint": "It was a comeback story.", "why": "He was two sets down and faced match point, but fought back to win in five sets."},
+   {"q": "Why did winning the 2007 Davis Cup mean so much to Roddick?", "opts": ["It was his first match ever", "It was played in his backyard", "He'd dreamed of it since watching the USA win as a kid"], "a": 2, "hint": "Go back to when he was 10 years old.", "why": "He watched the USA win the Davis Cup in 1992 and helped them win it again in 2007."}
+  ],
+  "think": "Roddick almost quit, then gave it four more months. What's one thing you'd give four focused months to get better at?",
+  "tries": [
+   "Spend 15 minutes on serves, using your legs to push up",
+   "Watch highlights of the 2003 US Open final and count Roddick's aces",
+   "Play one game starting at 15-40 and try to fight back",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, International Tennis Hall of Fame"
+ }
+}
