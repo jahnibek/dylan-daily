@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-13",
+  "slug": "avatar-the-last-airbender",
+  "category": "screen",
+  "emoji": "🌀",
+  "title_plain": "How a doodle of a bald kid became Avatar: The Last Airbender",
+  "teaser": "Two art-school friends turned a quick sketch into a four-element world."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a doodle of a <span class=\"hl\">bald kid with an arrow</span> became Avatar",
+  "sub": "The story of Avatar: The Last Airbender",
+  "bigIdea": "Two friends from art school took a funny sketch and kept asking \"what if?\" Years of building turned it into <span class=\"hl\">a whole world of four elements</span>.",
+  "cards": [
+   {"emo": "🎃", "title": "Friends from art school", "front": "Michael Dante DiMartino and Bryan Konietzko met at a Halloween party in 1995.", "back": "Both studied at the Rhode Island School of Design. Bryan helped Michael paint backgrounds for his student film. Their team-up started there.", "tryit": "Team up with a friend on one small drawing. One draws the character, one draws the background."},
+   {"emo": "✏️", "title": "A doodle gets a makeover", "front": "Bryan's old sketch showed a bald man with an arrow on his head and a staff.", "back": "Nickelodeon didn't want a grown-up hero. So Bryan redrew him as a boy, but kept the bald head, arrow and staff. That boy became Aang.", "tryit": "Find an old drawing of yours. Redraw it as a kid version, keeping three details the same."},
+   {"emo": "🐃", "title": "Ideas from everywhere", "front": "Next, Bryan drew a boy herding flying bison. Michael added an idea from a documentary.", "back": "The documentary was about a polar expedition, which inspired the Water Tribe. They also mixed in Asian cultures, martial arts and anime.", "tryit": "Pick two things you love, like tennis and One Piece. Mix them into one new character idea."},
+   {"emo": "🥋", "title": "Real kung fu moves", "front": "Every bending style copies a real martial art. Expert Sifu Kisu helped design them.", "back": "Water uses tai chi. Earth uses Hung Gar. Fire uses Northern Shaolin. Air uses Baguazhang, which is all about circles.", "tryit": "Watch a bending scene. Is the move smooth and flowing, or strong and rooted? Copy it slowly."},
+   {"emo": "🏆", "title": "Hit, then hit again", "front": "The show ran from 2005 to 2008: 61 episodes in three \"books\".", "back": "It won a Primetime Emmy, five Annie Awards and a Peabody. In 2020 it became Netflix's No. 1 show in the US.", "tryit": "Name the three books: Water, Earth and Fire. Guess why there's no fourth book called Air."}
+  ],
+  "words": [
+   {"w": "Bending", "d": "In Avatar, the power to control water, earth, fire or air."},
+   {"w": "Martial art", "d": "A fighting or self-defence style practised as a skill, like karate."},
+   {"w": "Consultant", "d": "An expert a team asks for help on one special subject."},
+   {"w": "Sequel", "d": "A new story that continues after the first one ends."},
+   {"w": "Annie Award", "d": "A big prize given each year for the best animation."}
+  ],
+  "quiz": [
+   {"q": "Why did Bryan redraw his bald man as a boy?", "opts": ["The man looked too scary", "Nickelodeon didn't want a grown-up hero", "He lost the first drawing"], "a": 1, "hint": "Think about who the show was made for.", "why": "Nickelodeon advised against a middle-aged lead, so the man became the boy Aang."},
+   {"q": "Which real martial art is airbending based on?", "opts": ["Baguazhang", "Hung Gar", "Tai chi"], "a": 0, "hint": "Air nomads move in circles and dodge. Look at card 4.", "why": "Baguazhang uses circular, dodging moves, which fit light and swirling air."},
+   {"q": "Where did the creators first meet?", "opts": ["At a tennis club", "At Nickelodeon's office", "At a Halloween party at art school"], "a": 2, "hint": "It was years before they worked on any TV show.", "why": "They met at a Halloween party in 1995 while studying at the Rhode Island School of Design."},
+   {"q": "What happened when Avatar came to Netflix in 2020?", "opts": ["Few people watched it", "It became the most popular show on US Netflix", "It was turned into a game"], "a": 1, "hint": "Old shows can find a new audience.", "why": "Within its first week on Netflix it became the most popular show in the US."}
+  ],
+  "think": "Avatar began as a doodle that got changed again and again. Which of your own ideas, in drawing, LEGO or games, could grow if you kept changing it?",
+  "tries": [
+   "Draw your own bender. Pick an element and a real sport or move it copies",
+   "Watch one Avatar episode and spot a tai chi or kung fu move",
+   "Redo an old drawing or build, keeping three details the same",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Mental Floss"
+ }
+}

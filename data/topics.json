@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "screen",
-   "subject": "Avatar: The Last Airbender",
-   "angle": "How two friends created Avatar and its four-element world"
-  },
-  {
    "category": "anime",
    "subject": "Takeshi Konomi / The Prince of Tennis",
    "angle": "How a manga about a 12-year-old tennis prodigy got kids worldwide onto the court"
@@ -671,6 +666,10 @@
   {
    "date": "2026-11-12",
    "subject": "Andy Roddick"
+  },
+  {
+   "date": "2026-11-13",
+   "subject": "Avatar: The Last Airbender"
   }
  ]
 }
