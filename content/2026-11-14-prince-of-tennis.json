@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-14",
+  "slug": "prince-of-tennis",
+  "category": "anime",
+  "emoji": "🎾",
+  "title_plain": "How a manga about a 12-year-old tennis prodigy got kids onto the court",
+  "teaser": "Takeshi Konomi drew a cocky young tennis star, and real kids grabbed racquets."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a manga about a 12-year-old got kids <span class=\"hl\">onto the tennis court</span>",
+  "sub": "The story of Takeshi Konomi and The Prince of Tennis",
+  "bigIdea": "Takeshi Konomi kept drawing for six years before his big hit. Then his tennis manga made <span class=\"hl\">real kids want to play</span>.",
+  "cards": [
+   {"emo": "✏️", "title": "Six years to a hit", "front": "Konomi was born in Japan in 1970. His first manga came out in 1993.", "back": "His first weekly series started in 1997. His giant hit, The Prince of Tennis, only began in 1999. He kept practising and kept trying.", "tryit": "Pick one skill you're slow at. Practise it for 10 minutes today, then note one tiny improvement."},
+   {"emo": "🧢", "title": "Meet Ryoma Echizen", "front": "The hero is a 12-year-old who won four junior tournaments in America in a row.", "back": "Ryoma moves to Tokyo and joins Seigaku, a school with a strong tennis club. He quickly beats older players and makes the team.", "tryit": "Draw Ryoma's cap and racquet in a quick sketch. Then draw yourself in your own tennis gear."},
+   {"emo": "🔥", "title": "His own style, not Dad's", "front": "Ryoma's dad was a famous pro nicknamed \"Samurai Nanjiro\".", "back": "Ryoma doesn't just copy his father. Through the story, he invents his own techniques and finds his own style of tennis.", "tryit": "At practice, copy one shot from a pro. Then add one small twist that makes it yours."},
+   {"emo": "🕳️", "title": "Wild shots, real rules", "front": "Some moves in the series look like black holes or even tennis on horseback.", "back": "Konomi said he made them wild on purpose to entertain readers and get them talking. But every match still follows the rules of tennis.", "tryit": "Invent a crazy shot name for your best real shot. Draw a 3-panel comic of you hitting it."},
+   {"emo": "🏟️", "title": "Real kids hit the courts", "front": "By 2003, the show was a huge hit with young fans in Japan.", "back": "A leader at racquet maker Yonex said Ryoma \"is a hero to many of the young generation.\" He said the show encouraged Japanese kids to play tennis.", "tryit": "Watch one Prince of Tennis episode. Spot one real tip, like footwork, that you could use."}
+  ],
+  "words": [
+   {"w": "Manga", "d": "Japanese comics, usually read from right to left."},
+   {"w": "Serialized", "d": "Published one chapter at a time, often every week."},
+   {"w": "Tankōbon", "d": "A collected book of manga chapters, like a volume."},
+   {"w": "Prodigy", "d": "A young person with amazing skill at something."},
+   {"w": "Sequel", "d": "A new story that continues after the first one ends."}
+  ],
+  "quiz": [
+   {"q": "Konomi's first manga came out in 1993. How long until The Prince of Tennis began?", "opts": ["About 2 years", "About 10 years", "About 6 years"], "a": 2, "hint": "The big hit started in 1999. Do the subtraction.", "why": "From 1993 to 1999 is six years of drawing and trying before the hit."},
+   {"q": "How does Ryoma grow as a player in the story?", "opts": ["He invents his own techniques", "He copies his father exactly", "He stops playing singles"], "a": 0, "hint": "Think about what makes a style truly yours.", "why": "Ryoma creates original moves instead of just being a copy of his famous dad."},
+   {"q": "Konomi's moves look wild. What do the matches still follow?", "opts": ["The rules of a video game", "The rules of tennis", "No rules at all"], "a": 1, "hint": "It's still a tennis manga, even with black holes.", "why": "Konomi said the shots are over the top, but everything stays within tennis rules."},
+   {"q": "What did a Yonex leader say the show did in 2003?", "opts": ["Made racquets cheaper", "Made kids stop watching TV", "Encouraged Japanese kids to play tennis"], "a": 2, "hint": "Yonex makes racquets. What would they notice?", "why": "He said Ryoma was a hero to young people and the show got kids onto courts."}
+  ],
+  "think": "Ryoma builds his own style instead of copying his dad. Which part of your tennis could become your own signature move?",
+  "tries": [
+   "Draw a 3-panel manga of your best rally, with a cool name for your shot",
+   "Read the first chapter or watch the first episode of The Prince of Tennis",
+   "At practice, copy one pro shot, then add your own twist",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, ORICON NEWS, Sportstar"
+ }
+}
