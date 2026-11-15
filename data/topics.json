@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "howitworks",
-   "subject": "How AI chatbots work",
-   "angle": "How tools like Claude learn from text to answer questions, and why they can still make mistakes"
-  },
-  {
    "category": "skills",
    "subject": "Staying safe online",
    "angle": "Strong passwords, spotting scams, and what never to share in games or chats"
@@ -669,6 +664,10 @@
   {
    "date": "2026-11-14",
    "subject": "Takeshi Konomi / The Prince of Tennis"
+  },
+  {
+   "date": "2026-11-15",
+   "subject": "How AI chatbots work"
   }
  ]
 }

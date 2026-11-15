@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-15",
+  "slug": "how-ai-chatbots-work",
+  "category": "howitworks",
+  "emoji": "🤖",
+  "title_plain": "How a chatbot answers you one word at a time",
+  "teaser": "Tokens, trillions of words and one big guessing game: how AI chatbots talk."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a chatbot answers you <span class=\"hl\">one word at a time</span>",
+  "sub": "The science behind AI chatbots",
+  "bigIdea": "A chatbot like Claude is a giant guessing machine. It learned from huge amounts of text to <span class=\"hl\">predict the next word</span>, again and again.",
+  "cards": [
+   {"emo": "✂️", "title": "Your message becomes tokens", "front": "Chatbots don't read words the way you do.", "back": "First, your text is chopped into tokens: small chunks, usually a few letters long. Each token becomes a list of numbers the computer can work with.", "tryit": "Split the word \"unbelievable\" into three chunks a chatbot might use. Then try \"Fortnite\" and \"tennis\"."},
+   {"emo": "📚", "title": "Practice on a giant library", "front": "Before it can chat, it has to train. A lot.", "back": "The model studies trillions of tokens of text. Its training game is simple: guess the next word, check, and adjust. Like serving again and again until it lands.", "tryit": "Ask someone to read a sentence from a book and stop halfway. Guess the next word. How often are you right?"},
+   {"emo": "🧩", "title": "Patterns, not memories", "front": "It doesn't store answers like a dictionary.", "back": "It learns which words usually follow others. \"The cat sat on the mat\" sounds likely. \"Sat the the mat cat on\" doesn't. These patterns live in billions of settings called parameters.", "tryit": "Write three sentence starts, like \"In Roblox you can...\" Then write the ending you think most people would choose."},
+   {"emo": "🎾", "title": "Coached to be a helper", "front": "A raw model just keeps writing. That's not a chat.", "back": "So it gets extra training, called fine-tuning, on example conversations. That teaches it to follow instructions and answer like an assistant. Think of a coach fixing your forehand.", "tryit": "Think of one tip a coach gave you that changed your game. Write it down in one sentence."},
+   {"emo": "⚠️", "title": "Why it still makes mistakes", "front": "Chatbots can sound sure and still be wrong.", "back": "It picks words that sound likely, not facts it has checked. So it can make up wrong facts confidently. Experts call this a hallucination. Always double-check important facts.", "tryit": "With Dad, ask a chatbot about something you know really well. Can you spot anything it gets wrong?"}
+  ],
+  "words": [
+   {"w": "Large language model", "d": "An AI trained on huge amounts of text to understand and write language."},
+   {"w": "Token", "d": "A small chunk of text, usually a few letters long."},
+   {"w": "Parameter", "d": "One of billions of settings the model adjusts while it learns."},
+   {"w": "Fine-tuning", "d": "Extra training that shapes a model for one job, like chatting."},
+   {"w": "Hallucination", "d": "When an AI states something false as if it were true."}
+  ],
+  "quiz": [
+   {"q": "What happens to your message first?", "opts": ["It is read out loud", "It is split into tokens", "It is sent to a person"], "a": 1, "hint": "Think about chopping a sentence into small pieces.", "why": "The chatbot splits your text into tokens and turns each one into numbers."},
+   {"q": "What is the main game a model plays in training?", "opts": ["Guessing the next word", "Memorising every website", "Drawing pictures"], "a": 0, "hint": "Remember the stop-halfway reading game.", "why": "It practises predicting the next word over and over, adjusting after every guess."},
+   {"q": "Why can a chatbot be confidently wrong?", "opts": ["It wants to trick you", "Its battery is running low", "It picks likely-sounding words, not checked facts"], "a": 2, "hint": "Does sounding right mean being right?", "why": "It chooses words that fit the pattern, so a false sentence can still sound smooth and sure."},
+   {"q": "What does fine-tuning do?", "opts": ["Makes the screen brighter", "Teaches it to act like a helpful assistant", "Deletes what it learned"], "a": 1, "hint": "Think of the coach card.", "why": "Fine-tuning on example conversations teaches the model to follow instructions and chat."}
+  ],
+  "think": "Imagine a chatbot trained only on One Piece episodes and tennis matches. What would it be great at? What silly mistakes might it make if you asked it about homework or cooking?",
+  "tries": [
+   "Play the next-word game with a friend: one starts a sentence, the other guesses the ending",
+   "Take one fact a chatbot or game wiki told you and check it in two other places",
+   "Tap the middle word suggestion on your phone keyboard 10 times and read the silly sentence",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Britannica"
+ }
+}
