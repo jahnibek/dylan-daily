@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-16",
+  "slug": "staying-safe-online",
+  "category": "skills",
+  "emoji": "🛡️",
+  "title_plain": "How to guard your accounts like a pro",
+  "teaser": "Five steps to strong passwords, spotting scams and keeping your secrets secret."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How to guard your accounts <span class=\"hl\">like a pro</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "Most hacked accounts aren't cracked by geniuses. They're <span class=\"hl\">handed over by tricks</span>, so a few smart habits keep you way ahead.",
+  "cards": [
+   {"emo": "🔑", "title": "Make it long and random", "front": "What makes a password hard to crack?", "back": "Length beats tricks. The UK's cyber experts suggest three random words, like applenemobiro. In 2019, about 23 million hacked accounts used 123456.", "tryit": "Invent three silly passwords from three random words each. Don't use them, just practise the idea."},
+   {"emo": "🧩", "title": "One account, one password", "front": "Why not use one great password everywhere?", "back": "If one site leaks it, crooks try it everywhere. US safety agency CISA tells how Emma got hacked this way. A password manager remembers them all.", "tryit": "Count how many accounts you have: games, school, email. Ask Dad about a password manager."},
+   {"emo": "📱", "title": "Turn on 2-step verification", "front": "What if someone steals your password anyway?", "back": "2-step verification asks for a second code, often from an app. Roblox says no one else can log in, even knowing your password. It's like a second lock.", "tryit": "With Dad, open Roblox Settings, then Security, and check if 2-step verification is on."},
+   {"emo": "🎣", "title": "Spot the bait", "front": "How can you tell a message is a scam?", "back": "Watch for rush ('act now!'), weird links, spelling mistakes and prizes. Roblox says every 'free Robux' offer is a scam. Too good to be true usually is.", "tryit": "Invent a fake 'free Brawl Stars gems' message. Circle three clues that give it away."},
+   {"emo": "🤐", "title": "Guard your secrets", "front": "What should you never share in games or chats?", "back": "Never share passwords, login codes, your address or school. Roblox staff will never ask for your password. If something feels off, report it and tell an adult.", "tryit": "Write a list of five things you'd never type in a game chat. Stick it near your desk."}
+  ],
+  "words": [
+   {"w": "Phishing", "d": "A trick message that tries to get your password or details."},
+   {"w": "Passphrase", "d": "A password made of several random words joined together."},
+   {"w": "2-step verification", "d": "A second check, like a code, after you type your password."},
+   {"w": "Password manager", "d": "An app that makes and safely remembers all your passwords."},
+   {"w": "Data breach", "d": "When a company's saved information gets stolen by hackers."}
+  ],
+  "quiz": [
+   {"q": "Which password is strongest?", "opts": ["Dylan123", "P@ssw0rd", "TacoRocketPillow"], "a": 2, "hint": "Think about what a stranger could guess from your profile, and which trick hackers already know.", "why": "Three random words are long and unpredictable, while names, years and swapped letters are easy to guess."},
+   {"q": "A message says: 'Click now for 10,000 free Robux! Only 5 minutes left!' What do you do?", "opts": ["Don't click, and report it", "Click fast before time runs out", "Send it to friends first"], "a": 0, "hint": "Two clues here are on the scam checklist. Can you spot them?", "why": "Free Robux plus a rush to act are classic scam signs, and Roblox says no free Robux offer is real."},
+   {"q": "A crook learns your password. What stops them logging in?", "opts": ["A longer username", "2-step verification", "Changing your avatar"], "a": 1, "hint": "Which step adds a second lock that needs something only you have?", "why": "2-step verification asks for a code from your phone or app, which the crook doesn't have."},
+   {"q": "A friendly player says they work for Roblox and need your login code. What's true?", "opts": ["Staff sometimes need codes to help", "It's fine if they seem nice", "Roblox staff never ask for this"], "a": 2, "hint": "Look back at card five.", "why": "Real staff never ask for passwords or codes, so anyone who does is trying to take your account."}
+  ],
+  "think": "Plan your own account safety check. Which three accounts matter most to you, and what one step would you add to each?",
+  "tries": [
+   "Make a new passphrase from three random words for one account, with Dad's help",
+   "Small project: do a safety check on your game accounts with Dad and turn on 2-step verification where you can",
+   "Next time you see a 'free prize' message, count the scam clues before you close it",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, UK National Cyber Security Centre, CISA, Roblox Support"
+ }
+}

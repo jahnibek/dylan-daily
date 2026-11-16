@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "skills",
-   "subject": "Staying safe online",
-   "angle": "Strong passwords, spotting scams, and what never to share in games or chats"
-  },
-  {
    "category": "mathsci",
    "subject": "Prime numbers and secret codes",
    "angle": "How prime numbers keep your game accounts and messages safe"
@@ -668,6 +663,10 @@
   {
    "date": "2026-11-15",
    "subject": "How AI chatbots work"
+  },
+  {
+   "date": "2026-11-16",
+   "subject": "Staying safe online"
   }
  ]
 }
