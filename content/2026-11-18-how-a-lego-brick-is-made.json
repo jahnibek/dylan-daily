@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-18",
+  "slug": "how-a-lego-brick-is-made",
+  "category": "lego",
+  "emoji": "🧱",
+  "title_plain": "Why a 1958 LEGO brick still clicks today",
+  "teaser": "Hot plastic, huge pressure and tiny precision make every LEGO brick fit perfectly."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "Why a <span class=\"hl\">1958 LEGO brick</span> still clicks today",
+  "sub": "The story of how a LEGO brick is made",
+  "bigIdea": "Every LEGO brick is made with <span class=\"hl\">super-tiny precision</span>, so a brick from 1958 still fits one made this morning.",
+  "cards": [
+   {"emo": "🧪", "title": "Tiny grains, giant silos", "front": "Every brick starts as plastic smaller than a pea.", "back": "Trucks deliver colourful plastic grains called granules. Giant hoses suck them into silos three storeys high. Each silo holds up to 33 tonnes.", "tryit": "Build the tallest silo you can from 20 bricks in 10 minutes. Can it hold a minifigure on top?"},
+   {"emo": "🔥", "title": "Melt, squeeze, cool, pop", "front": "A brick is born in about 10 seconds.", "back": "Machines heat the plastic to about 230°C until it's like goo. They squeeze it into a metal mould, cool it, then pop the brick out.", "tryit": "Count how many bricks you can click together in 10 seconds. A machine makes a brick in that time."},
+   {"emo": "📏", "title": "Precise to a hair", "front": "Why do bricks grip so perfectly?", "back": "Moulds are accurate to about a tenth of a hair's width. Too loose and bricks fall apart. Too tight and you couldn't pull them off.", "tryit": "Build a 2x4 tower ten bricks high, then pull it apart. Feel that perfect grip, called clutch power."},
+   {"emo": "🕰️", "title": "The 1958 promise", "front": "Old bricks and new bricks are best friends.", "back": "LEGO filed the patent for today's brick on 28 January 1958. The stud size and spacing never changed, so 1958 bricks still click with new ones.", "tryit": "Find your oldest and newest bricks. Build a tiny 'time bridge' that joins them in 5 minutes."},
+   {"emo": "🤖", "title": "Robots, printers and checks", "front": "What happens after a brick pops out?", "back": "Robot trucks carry full boxes away. Printers add faces and details. Only about 18 bricks in every million fail the quality check.", "tryit": "Be a quality inspector: sort 30 bricks by colour in 5 minutes and spot any scratched ones."}
+  ],
+  "words": [
+   {"w": "Injection moulding", "d": "Squeezing melted plastic into a metal shape, then cooling it."},
+   {"w": "Mould", "d": "A hollow metal container shaped like the piece you want."},
+   {"w": "ABS", "d": "The strong, shiny plastic LEGO has used for most bricks since 1963."},
+   {"w": "Tolerance", "d": "How far a part may differ from its perfect size."},
+   {"w": "Clutch power", "d": "LEGO's name for how firmly two bricks grip each other."}
+  ],
+  "quiz": [
+   {"q": "Why do bricks made in 1958 still click with new ones?", "opts": ["Old bricks stretch to fit", "The stud size and spacing never changed", "Every set comes with adapters"], "a": 1, "hint": "Think about what has to match for two bricks to click.", "why": "LEGO kept the same measurements since 1958, so every brick fits every other brick."},
+   {"q": "What would happen if a mould were a tiny bit too big?", "opts": ["Bricks would be loose and fall apart", "Bricks would change colour", "Bricks would get stronger"], "a": 0, "hint": "Imagine a stud that is slightly bigger than the hole it goes into, or smaller.", "why": "Even a tiny size change breaks the grip, which is why moulds are so precise."},
+   {"q": "Which order is right for making a brick?", "opts": ["Cool, melt, squeeze", "Squeeze, cool, melt", "Melt, squeeze, cool"], "a": 2, "hint": "The plastic has to be soft before it can take a new shape.", "why": "Granules are melted, squeezed into the mould, then cooled so the brick keeps its shape."},
+   {"q": "LEGO makes about 36 billion pieces a year. About how many is that per second?", "opts": ["About 10", "About 1,000", "About 1 million"], "a": 1, "hint": "A year has about 31 million seconds. Try dividing.", "why": "36 billion divided by about 31.5 million seconds is roughly 1,140 pieces every second."}
+  ],
+  "think": "If you designed a brand-new LEGO piece, how would you make sure it still clicks with every brick ever made?",
+  "tries": [
+   "Test the clutch power of your oldest brick against a brand-new one",
+   "Build something in 15 minutes using only six 2x4 bricks (they can join in over 915 million ways!)",
+   "Look closely at a minifigure face and spot the printed details",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, LEGO.com"
+ }
+}
