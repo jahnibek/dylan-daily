@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-19",
+  "slug": "among-us-innersloth",
+  "category": "games",
+  "emoji": "🚀",
+  "title_plain": "How a game almost nobody played became a world hit",
+  "teaser": "Among Us flopped in 2018, then exploded two years later. Here's why."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a game <span class=\"hl\">almost nobody played</span> became a world hit",
+  "sub": "The story of Among Us and Innersloth",
+  "bigIdea": "Among Us had only a few dozen players for ages. A tiny team <span class=\"hl\">kept improving it anyway</span>, and in 2020 the whole world joined in.",
+  "cards": [
+   {"emo": "🕵️", "title": "A party game in space", "front": "Where did the idea come from?", "back": "Co-founder Marcus Bromander had played the party game Mafia since he was a kid. The team moved it to a spaceship and added tasks to do.", "tryit": "Pick a game you know, like tag or hide and seek. In 10 minutes, invent one new twist for it."},
+   {"emo": "📉", "title": "Only 30 to 50 players", "front": "Launch day was not a party.", "back": "Among Us came out on phones in June 2018. Only about 30 to 50 people played at once. Bromander said they were \"really bad at marketing\".", "tryit": "Think of something you made that few people saw. Write one sentence on what you'd change."},
+   {"emo": "🔧", "title": "Keep going, keep updating", "front": "Why didn't they quit?", "back": "The team nearly gave up several times. A small group of fans kept them going. They added online play, new tasks and two new maps in 2019.", "tryit": "Choose one skill, like your tennis serve. Practise it for 10 minutes today, then again tomorrow."},
+   {"emo": "💥", "title": "The 2020 explosion", "front": "Then something huge happened.", "back": "In 2020, big streamers on Twitch and YouTube started playing it. By September 2020, over 3.5 million people were playing at the same time.", "tryit": "Ask two friends which game they found through a YouTuber. Did a video make them try it?"},
+   {"emo": "🛠️", "title": "Fix it, don't restart", "front": "A sequel was planned. Then they stopped.", "back": "In September 2020, Innersloth cancelled Among Us 2. They chose to rebuild and improve the original game, so players got new things faster.", "tryit": "Take an old LEGO build and improve it in 15 minutes instead of starting a new one."}
+  ],
+  "words": [
+   {"w": "Social deduction", "d": "A game where you work out who's secretly on the other team."},
+   {"w": "Impostor", "d": "Someone pretending to be something they are not."},
+   {"w": "Indie studio", "d": "A small game company that makes games on its own."},
+   {"w": "Concurrent players", "d": "People playing a game at the very same moment."},
+   {"w": "Update", "d": "A new version of a game that fixes or adds things."}
+  ],
+  "quiz": [
+   {"q": "What game inspired Among Us?", "opts": ["Chess", "The party game Mafia", "Tennis"], "a": 1, "hint": "It's a game where some players are secretly on a hidden team.", "why": "Bromander loved Mafia as a kid and turned its secret-team idea into a space game."},
+   {"q": "Early on, only about 50 people played at once. In 2020, about 3.5 million did. About how many times bigger is that?", "opts": ["About 700 times", "About 7,000 times", "About 70,000 times"], "a": 2, "hint": "Try dividing 3,500,000 by 50. Knock off zeros first to make it easier.", "why": "3,500,000 ÷ 50 = 70,000, so the crowd grew about 70,000 times bigger."},
+   {"q": "What kept the team working when hardly anyone played?", "opts": ["A small group of loyal fans", "A huge advertising budget", "A famous film deal"], "a": 0, "hint": "Look back at the card about why they didn't quit.", "why": "A small but vocal player base gave them a reason to keep updating the game."},
+   {"q": "Why did Innersloth cancel Among Us 2?", "opts": ["Nobody liked the name", "They ran out of ideas", "They wanted to improve the original faster"], "a": 2, "hint": "Think about what players would get sooner: a whole new game or new stuff in the old one.", "why": "Rebuilding the original let millions of players get new features faster than waiting for a sequel."}
+  ],
+  "think": "Among Us got popular two years late. Is there something you're working on, like a serve or a Roblox game, that might just need more time?",
+  "tries": [
+   "Play a round of a social deduction game with family and notice how people bluff",
+   "Pick one thing you made and give it a small \"update\" this week",
+   "Track how many minutes you practise one skill each day for five days",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, CNN"
+ }
+}

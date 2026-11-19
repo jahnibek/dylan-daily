@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "games",
-   "subject": "Among Us / Innersloth",
-   "angle": "How a tiny 3-person studio's flop became a global hit two years later"
-  },
-  {
    "category": "wildcard",
    "subject": "The story of Wimbledon",
    "angle": "How the oldest tennis tournament began in 1877 and kept its traditions: grass, white clothes and strawberries"
@@ -665,6 +660,10 @@
   {
    "date": "2026-11-18",
    "subject": "How a LEGO brick is made"
+  },
+  {
+   "date": "2026-11-19",
+   "subject": "Among Us / Innersloth"
   }
  ]
 }
