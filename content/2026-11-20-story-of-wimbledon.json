@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-20",
+  "slug": "story-of-wimbledon",
+  "category": "wildcard",
+  "emoji": "🍓",
+  "title_plain": "How a croquet club built the world's oldest tennis tournament",
+  "teaser": "Wimbledon began in 1877 with 22 players. Here's how its traditions stuck."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a <span class=\"hl\">croquet club</span> built the world's oldest tennis tournament",
+  "sub": "The story of Wimbledon",
+  "bigIdea": "Wimbledon started in 1877 with just 22 players. It still plays on grass and wears white, because <span class=\"hl\">some traditions are worth keeping</span>.",
+  "cards": [
+   {"emo": "🏏", "title": "It started with croquet", "front": "Wimbledon wasn't built for tennis.", "back": "The club began in 1868 as the All England Croquet Club. In 1876 it added a brand-new game called lawn tennis. A year later, it held a championship.", "tryit": "Invent a mini game with a ball and two cups. Play it for 10 minutes and write down its rules."},
+   {"emo": "🏆", "title": "22 players, lots of rain", "front": "The very first Wimbledon was tiny.", "back": "In 1877, only 22 men entered. Rain delayed the final by four days. Spencer Gore won it in 48 minutes, with about 200 people watching.", "tryit": "Count how many players are in your tennis club or group. Is it more or less than 22?"},
+   {"emo": "🌱", "title": "Grass cut to 8mm", "front": "Why does the grass matter so much?", "back": "Wimbledon is the only Grand Slam still played on grass. The grass is grown fresh from seed every year and cut to just 8mm tall.", "tryit": "Find a ruler and look at 8mm. Then bounce a ball on grass and on a hard floor. Which bounces lower?"},
+   {"emo": "👕", "title": "Why everyone wears white", "front": "Why no bright colours?", "back": "In Victorian times, sweat stains were seen as rude, and white hid them. Since 1963 players must wear mostly white. Since 1995, almost entirely white.", "tryit": "Look at photos of other big tournaments. Count how many colours you see compared with Wimbledon."},
+   {"emo": "🍓", "title": "Strawberries and cream", "front": "The most famous snack in tennis.", "back": "Strawberries are in season right when Wimbledon happens. Fans eat about 28,000 kg of them. They're picked the day before and arrive around 5:30am.", "tryit": "Ask your family about one food tradition you always have at a special event. Where did it start?"}
+  ],
+  "words": [
+   {"w": "Grand Slam", "d": "One of tennis's four biggest tournaments each year."},
+   {"w": "Croquet", "d": "A lawn game where you hit balls through small hoops."},
+   {"w": "Tradition", "d": "Something people keep doing the same way for many years."},
+   {"w": "Centre Court", "d": "Wimbledon's main court, first named because it sat in the middle."},
+   {"w": "Seed", "d": "A top player placed so the best don't meet too early."}
+  ],
+  "quiz": [
+   {"q": "What game was the Wimbledon club first set up for?", "opts": ["Tennis", "Croquet", "Cricket"], "a": 1, "hint": "Look at the club's very first name.", "why": "It began in 1868 as the All England Croquet Club, and added tennis in 1876."},
+   {"q": "In 1877, 22 men played. Today the men's singles has 128 players. About how many times bigger is that?", "opts": ["About 6 times", "About 2 times", "About 20 times"], "a": 0, "hint": "Round 22 to 20, then ask how many 20s fit into about 120.", "why": "128 ÷ 22 is about 5.8, so it's roughly 6 times bigger."},
+   {"q": "Why did players start wearing white?", "opts": ["White was the cheapest cloth", "The queen asked for it", "White hid sweat stains"], "a": 2, "hint": "Think about what shows up on a shirt after a long, hot match.", "why": "In Victorian times sweat stains were seen as improper, and white clothes hid them best."},
+   {"q": "Spencer Gore won the 1877 final in 3 sets and 48 minutes. On average, how long was each set?", "opts": ["8 minutes", "16 minutes", "24 minutes"], "a": 1, "hint": "Share the 48 minutes equally between the sets.", "why": "48 ÷ 3 = 16, so each set took about 16 minutes on average."}
+  ],
+  "think": "Wimbledon keeps its old traditions but added a roof and electronic line calls. If you ran a tournament, what would you keep and what would you change?",
+  "tries": [
+   "Hit some balls on grass if you can, and notice how the bounce feels different",
+   "Watch a short Wimbledon highlight video and spot three traditions from this report",
+   "Make up one fun tradition for your own tennis practice",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Wimbledon.com, LTA"
+ }
+}
