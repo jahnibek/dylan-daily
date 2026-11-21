@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-21",
+  "slug": "dav-pilkey",
+  "category": "books",
+  "emoji": "🐶",
+  "title_plain": "How a kid sent to the school hallway created Dog Man",
+  "teaser": "Dav Pilkey drew comics in the hallway. They became Captain Underpants and Dog Man."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a kid sent to the <span class=\"hl\">school hallway</span> created Dog Man",
+  "sub": "The story of Dav Pilkey",
+  "bigIdea": "Dav Pilkey kept getting sent out of class. Instead of giving up, he drew comics, and <span class=\"hl\">his hallway heroes sold millions</span>.",
+  "cards": [
+   {"emo": "🚪", "title": "Sent to the hallway", "front": "As a kid in Ohio, Dav was often sent out of class.", "back": "Reading was hard for him, and sitting still was harder. Teachers put his desk in the hallway. So he drew comics there and invented Captain Underpants.", "tryit": "Grab paper and draw a 4-panel comic about a silly superhero. Give yourself 15 minutes."},
+   {"emo": "🍕", "title": "A typo became his name", "front": "Why is it \"Dav\" and not \"Dave\"?", "back": "When he worked at Pizza Hut, his name tag was printed with a typo: Dav. He liked it and kept it as his author name.", "tryit": "Invent a pen name for yourself. Sign it on your comic like a real author."},
+   {"emo": "🏆", "title": "A teacher who believed", "front": "In college, things started to change.", "back": "At Kent State University, a teacher encouraged him to write and draw. In 1986 he won a national contest for student authors. The prize: his first published book.", "tryit": "Show something you made to a teacher or coach. Ask for one tip to make it better."},
+   {"emo": "🩲", "title": "Underpants hits the shelves", "front": "In 1997, his hallway hero came back.", "back": "The Adventures of Captain Underpants came out in 1997. The series now has over 90 million copies in print, in 37 languages, plus a DreamWorks film.", "tryit": "Find an old drawing of yours. Redraw it today and see how much you've improved."},
+   {"emo": "🐶", "title": "Dog Man takes over", "front": "Then a cop with a dog's head got his own books.", "back": "Dog Man started in 2016. Inside the story, it's made by George and Harold, the boys from Captain Underpants. It has over 70 million copies in 50 languages.", "tryit": "Mash two things into one new hero, like a dog plus a cop. Sketch it in 10 minutes."}
+  ],
+  "words": [
+   {"w": "Graphic novel", "d": "A whole book told in comic panels and speech bubbles."},
+   {"w": "Pen name", "d": "A made-up name an author uses instead of their real one."},
+   {"w": "Illustrator", "d": "The artist who draws the pictures in a book."},
+   {"w": "Spin-off", "d": "A new series that grows out of an older one."},
+   {"w": "Caldecott Honor", "d": "A top American award for the art in a picture book."}
+  ],
+  "quiz": [
+   {"q": "Where did Dav first create Captain Underpants?", "opts": ["At Pizza Hut", "In his school hallway", "At college"], "a": 1, "hint": "Think about where he sat when he got sent out of class.", "why": "Teachers often sent him to a desk in the hallway, and he filled the time drawing comics."},
+   {"q": "How did Dav get the unusual spelling of his name?", "opts": ["His teacher shortened it", "His parents chose it", "A typo on a work name tag"], "a": 2, "hint": "Look back at the card with the pizza on it.", "why": "His Pizza Hut name tag said \"Dav\" by mistake, and he decided to keep it."},
+   {"q": "Captain Underpants came out in 1997 and Dog Man in 2016. How many years apart is that?", "opts": ["9 years", "19 years", "29 years"], "a": 1, "hint": "Count from 1997 up to 2000 first, then on to 2016.", "why": "1997 to 2000 is 3 years, and 2000 to 2016 is 16 more, so 19 years."},
+   {"q": "Inside the story, who are the authors of Dog Man?", "opts": ["George and Harold", "Dav's sister and dad", "Ricky Ricotta and his robot"], "a": 0, "hint": "They're the two boys who make comics in Captain Underpants.", "why": "Dog Man is a spin-off, credited to George Beard and Harold Hutchins from Captain Underpants."}
+  ],
+  "think": "Dav turned his time in the hallway into his biggest idea. What's something that feels like a setback for you, in tennis or school, that you could turn into something creative?",
+  "tries": [
+   "Draw a 4-panel comic starring a hero you invented",
+   "Read a few pages of a Dog Man book and notice how the pictures tell part of the story",
+   "Make a mini comic book this week: fold paper into 8 pages and fill them",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Scholastic"
+ }
+}

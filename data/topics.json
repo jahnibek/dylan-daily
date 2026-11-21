@@ -2,16 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "anime",
-   "subject": "Koyoharu Gotouge",
-   "angle": "How Demon Slayer's creator built a hit in just four years"
-  },
-  {
-   "category": "books",
-   "subject": "Dav Pilkey",
-   "angle": "How a kid who got sent to the hallway created Captain Underpants and Dog Man"
-  },
-  {
    "category": "skills",
    "subject": "Coding basics: your first script in Luau",
    "angle": "Make a part change colour or a door open in Roblox Studio with a few lines of code"
@@ -663,6 +653,15 @@
   {
    "date": "2026-11-20",
    "subject": "The story of Wimbledon"
+  },
+  {
+   "date": "2026-11-21",
+   "subject": "Koyoharu Gotouge",
+   "note": "skipped: Demon Slayer is mainly known for graphic violence (film rated R in the US)"
+  },
+  {
+   "date": "2026-11-21",
+   "subject": "Dav Pilkey"
   }
  ]
 }
