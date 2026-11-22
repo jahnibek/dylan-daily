@@ -2,11 +2,6 @@
  "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
  "queue": [
   {
-   "category": "skills",
-   "subject": "Coding basics: your first script in Luau",
-   "angle": "Make a part change colour or a door open in Roblox Studio with a few lines of code"
-  },
-  {
    "category": "howitworks",
    "subject": "How airplanes fly",
    "angle": "Lift, thrust and drag: how a giant metal plane stays in the air"
@@ -662,6 +657,10 @@
   {
    "date": "2026-11-21",
    "subject": "Dav Pilkey"
+  },
+  {
+   "date": "2026-11-22",
+   "subject": "Coding basics: your first script in Luau"
   }
  ]
 }

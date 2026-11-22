@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-22",
+  "slug": "first-luau-script",
+  "category": "skills",
+  "emoji": "💻",
+  "title_plain": "Make your first Roblox script that opens a door",
+  "teaser": "Five steps to write Luau code that changes colours, vanishes platforms and opens doors."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "Make your first Roblox script that <span class=\"hl\">opens a door</span>",
+  "sub": "A skill you can use today",
+  "bigIdea": "Every Roblox game runs on a few lines of Luau. Alex Balfanz started coding on Roblox at 9 and later built Jailbreak, so <span class=\"hl\">your first lines count</span>.",
+  "cards": [
+   {"emo": "🧱", "title": "Make a part, add a script", "front": "Where does code live in Roblox Studio?", "back": "Insert a Part, then set Anchored to true so it won't fall. Click the + next to it in the Explorer and add a Script. Rename both straight away.", "tryit": "Open Roblox Studio, make one Part called MyDoor and put a Script inside it."},
+   {"emo": "🏷️", "title": "Give it a name", "front": "How does your script find its own part?", "back": "Delete the starter code and type: local door = script.Parent. Now the word door means the part your script sits inside. That's a variable.", "tryit": "Write the variable line, then add print(door.Name) and press Play. Check the Output window."},
+   {"emo": "🎨", "title": "Change a property", "front": "How do you make a part vanish with code?", "back": "Properties use a dot and an equals sign. door.Transparency = 1 makes it invisible. door.CanCollide = false lets players walk through it, like a ghost.", "tryit": "Try Transparency values like 0.5 and 1. Then try door.Color = Color3.fromRGB(255, 0, 0)."},
+   {"emo": "🔁", "title": "Group and repeat", "front": "How do platforms vanish again and again?", "back": "Put your lines in a function, like local function open(). A while true do loop repeats it. Always add task.wait(3), or Studio freezes.", "tryit": "Make a platform that disappears for 3 seconds, then comes back, forever. Jump across it!"},
+   {"emo": "🚪", "title": "React to a touch", "front": "How does the door know you walked up?", "back": "Every part has a Touched event. door.Touched:Connect(open) runs open whenever something bumps it. Open, wait 3 seconds, close. Note the colon before Connect!", "tryit": "Make your door open when touched and close after 3 seconds. Test it with your avatar."}
+  ],
+  "words": [
+   {"w": "Script", "d": "A text file of code that tells your game what to do."},
+   {"w": "Variable", "d": "A name you give to a value so you can reuse it."},
+   {"w": "Property", "d": "A setting of a part, like its colour or see-through amount."},
+   {"w": "Function", "d": "A named block of code you can run whenever you want."},
+   {"w": "Event", "d": "Something that happens in the game, like a touch, that code can react to."}
+  ],
+  "quiz": [
+   {"q": "Your script is inside a Part. What does script.Parent point to?", "opts": ["The whole game", "The Part the script is inside", "Your avatar"], "a": 1, "hint": "Think about a family tree in the Explorer. Who holds the script?", "why": "Parent is whatever the script sits inside, so here it's the Part."},
+   {"q": "Your vanishing platform loop makes Studio freeze. What's missing?", "opts": ["task.wait()", "A comment", "A bigger part"], "a": 0, "hint": "A loop that never pauses never lets Studio do anything else.", "why": "Without task.wait(), the loop runs nonstop and the game never gets a turn."},
+   {"q": "Your door looks closed, but players walk right through it. Which property should be true?", "opts": ["Transparency", "Anchored", "CanCollide"], "a": 2, "hint": "One property is about looks, one about falling, one about bumping into things.", "why": "CanCollide decides if players bump into a part or pass through it."},
+   {"q": "What does door.Touched:Connect(open) do?", "opts": ["Opens the door once, right now", "Runs open whenever something touches the door", "Deletes the door"], "a": 1, "hint": "Touched is an event. What do events wait for?", "why": "Connect links the event to your function, so it runs on every touch."}
+  ],
+  "think": "Plan your own scripted trap or secret door for an obby. What should touch it, what should change, and how long should it wait?",
+  "tries": [
+   "Write the colour-changing line and try three different colours",
+   "Small project: build a secret door in your own Roblox place that opens when touched",
+   "Change one number in your script, predict what will happen, then test it",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Roblox Creator Docs, The Duke Chronicle, Roblox Newsroom"
+ }
+}
