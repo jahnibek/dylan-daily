@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-23",
+  "slug": "how-airplanes-fly",
+  "category": "howitworks",
+  "emoji": "✈️",
+  "title_plain": "How a giant metal plane rides on thin air",
+  "teaser": "Lift, thrust, drag and weight: the four-way tug-of-war that keeps planes up."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How a giant metal plane <span class=\"hl\">rides on thin air</span>",
+  "sub": "The science behind how airplanes fly",
+  "bigIdea": "A plane flies because its wings <span class=\"hl\">push air down, and the air pushes back up</span>. The engines just keep it moving fast enough for that to work.",
+  "cards": [
+   {"emo": "🪢", "title": "A four-way tug-of-war", "front": "Four forces pull on a plane every second it flies.", "back": "Weight pulls the plane down. Lift pushes it up. Thrust pushes it forward. Drag holds it back. When all four balance, the plane cruises at a steady speed.", "tryit": "Hold a book flat on your palm. Gravity pulls it down. Your hand is the lift. Now lower your hand slowly: what wins?"},
+   {"emo": "🌬️", "title": "Wings turn air downward", "front": "A wing is a machine for bending air.", "back": "As air flows past, the wing bends it downward. Newton's third law says the air pushes back up on the wing. Lower pressure above the wing helps too.", "tryit": "Hold the curved back of a spoon near a gentle stream from the tap. Watch the water bend around it and pull the spoon in."},
+   {"emo": "🔥", "title": "Engines push, wings lift", "front": "Surprise: the engines don't hold the plane up.", "back": "Engines only beat drag. A big airliner's engines push with about a fifth of its weight. The wings do the lifting. Gliders have no engine and still fly!", "tryit": "Fold a paper plane. Throw it once gently and once hard. Your arm is the engine. Which throw glides further?"},
+   {"emo": "📐", "title": "Tilt it, but not too much", "front": "Pointing the wing up a little gives more lift.", "back": "The wing's tilt is the angle of attack. More tilt, more lift, until about 15 degrees. Then air peels off the top and lift drops. That's a stall.", "tryit": "Bend up the back edges of your paper plane's wings a little. Throw it. Now bend them a lot. Does it swoop up, then drop?"},
+   {"emo": "🕹️", "title": "Roll, pitch and yaw", "front": "In 1903 the Wright brothers' first flight lasted 12 seconds. Their big trick was steering.", "back": "Ailerons on the wingtips roll the plane. The elevator on the tail tips the nose up or down. The rudder swings the nose left or right.", "tryit": "Bend one wing's back edge up and the other down on your paper plane. Throw it. Which way does it roll?"}
+  ],
+  "words": [
+   {"w": "Lift", "d": "The upward push on a wing as air flows past it."},
+   {"w": "Thrust", "d": "The forward push from engines or propellers."},
+   {"w": "Drag", "d": "The air resisting a plane as it moves forward."},
+   {"w": "Angle of attack", "d": "How much a wing is tilted up against the oncoming air."},
+   {"w": "Stall", "d": "A sudden loss of lift when a wing tilts too far."}
+  ],
+  "quiz": [
+   {"q": "What is the main job of a plane's engines?", "opts": ["To lift the plane straight up", "To beat drag and push it forward", "To make the wings flap"], "a": 1, "hint": "Think about gliders. They have no engine at all.", "why": "The wings make the lift, so the engines only need to overcome drag and keep the plane moving."},
+   {"q": "How does a wing make lift?", "opts": ["It turns air downward, so the air pushes it up", "It is lighter than air, like a balloon", "It pulls fuel upward"], "a": 0, "hint": "Remember Newton: every push has an equal push back.", "why": "The wing pushes air down, and Newton's third law means the air pushes the wing up."},
+   {"q": "What is a stall?", "opts": ["The engine stops working", "The plane runs out of fuel", "The wing tilts too far and loses lift"], "a": 2, "hint": "Think about your paper plane with its wing edges bent up a lot.", "why": "Past the critical angle, air peels off the wing's top and lift drops, even with engines running."},
+   {"q": "Which part tips the nose up or down?", "opts": ["The rudder", "The elevator", "The ailerons"], "a": 1, "hint": "It lives on the tail and its name sounds like going up and down floors.", "why": "The elevator on the tail controls pitch, pointing the nose up or down."}
+  ],
+  "think": "A tennis ball with topspin dips because air pushes on it. Where else in your games or sports do you think air is pushing things up, down or sideways?",
+  "tries": [
+   "Make three paper planes with different wing shapes and see which one flies furthest",
+   "Next time you fly, watch the wing flaps move during take-off and landing",
+   "Look up a plane in a flight-tracking app and notice its speed and height",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, NASA"
+ }
+}
