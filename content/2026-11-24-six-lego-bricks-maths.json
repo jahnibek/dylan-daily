@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-24",
+  "slug": "six-lego-bricks-maths",
+  "category": "lego",
+  "emoji": "🧱",
+  "title_plain": "How six LEGO bricks hide 915 million builds",
+  "teaser": "Six small bricks, 915 million builds, and a famous number that was wrong."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How six LEGO bricks hide <span class=\"hl\">915 million builds</span>",
+  "sub": "The story of the maths inside six LEGO bricks",
+  "bigIdea": "Six classic 2×4 bricks can be put together in <span class=\"hl\">915,103,765 different ways</span>. It took a maths professor and a computer to count them all.",
+  "cards": [
+   {"emo": "🧱", "title": "Start with just two bricks", "front": "How many ways can two 2×4 bricks click together?", "back": "There are 46 spots to click one brick onto another. Spin the pair around and many builds look the same. That leaves 24 truly different builds.", "tryit": "Grab two 2×4 bricks. In 10 minutes, how many different ways can you join them? Aim for 10."},
+   {"emo": "📈", "title": "Every brick multiplies the options", "front": "Add a third brick and the number explodes.", "back": "Each new brick on top has 46 spots again. So a tower multiplies by 46 each time. Six bricks in a tower give about 103 million builds.", "tryit": "Build a three-brick tower. Now slide only the top brick one stud at a time. How many new towers can you make?"},
+   {"emo": "🧮", "title": "The famous number was wrong", "front": "For years, people believed six bricks made 102,981,500 builds.", "back": "That 1974 LEGO number only counted towers six bricks tall. It left out lower, wider builds. It was even off by four, probably due to a small calculator.", "tryit": "Use six bricks to make a build only two bricks tall. That's a build the old count missed!"},
+   {"emo": "💻", "title": "A computer counts it all", "front": "In 2004, maths professor Søren Eilers wrote a program to count every build.", "back": "It ran for about half a week on a home computer. The answer: 915,103,765. A high school student, Mikkel Abrahamsen, wrote his own program and got the same number.", "tryit": "Write a tiny 'program' on paper: steps to list every two-brick build without missing or repeating one."},
+   {"emo": "🏰", "title": "In-between height wins", "front": "Which six-brick builds are most common: tall, low or in between?", "back": "Builds four bricks tall win, with about 360 million. Only about 8 million are two bricks tall. And seven bricks? About 86 billion builds!", "tryit": "Build a six-brick model exactly four bricks tall. Can you make it look like a robot, a ship or a car?"}
+  ],
+  "words": [
+   {"w": "Combination", "d": "One possible way to arrange or put things together."},
+   {"w": "Stud", "d": "The small round bump on top of a LEGO brick."},
+   {"w": "Symmetry", "d": "When something looks the same after you turn or flip it."},
+   {"w": "Multiply", "d": "Add a number to itself many times, like 46 × 46."},
+   {"w": "Program", "d": "Step-by-step instructions a computer follows to do a job."}
+  ],
+  "quiz": [
+   {"q": "Each new brick on a tower has 46 spots. How many ways can you stack 3 bricks, before removing look-alikes?", "opts": ["92", "2,116", "138"], "a": 1, "hint": "Two bricks get placed on the bottom one, and each has 46 choices. Add or multiply?", "why": "Each placed brick has 46 choices, so 46 × 46 = 2,116 towers."},
+   {"q": "Two bricks have 46 click spots but only 24 different builds. Why fewer?", "opts": ["Some spots make the bricks fall off", "LEGO doesn't allow some builds", "Spinning a build makes two spots look the same"], "a": 2, "hint": "Build one, then spin it halfway around on the table.", "why": "Most builds match another one when spun, so 44 pair up into 22, plus 2 that match themselves."},
+   {"q": "915 million is about how many times bigger than 103 million?", "opts": ["About 9 times", "About 2 times", "About 90 times"], "a": 0, "hint": "Round to 900 and 100, then divide.", "why": "915 ÷ 103 is close to 9, so the real count is almost nine times bigger."},
+   {"q": "Why was the old 1974 number so much smaller?", "opts": ["It used only red bricks", "It only counted towers six bricks tall", "It only counted 2×2 bricks"], "a": 1, "hint": "Think about the low build you made for card 3.", "why": "It skipped all the lower, wider builds, and those turned out to be most of them."}
+  ],
+  "think": "If you counted one build every second without stopping, how long would 915 million take? What other huge numbers might hide in Roblox, Brawl Stars or your own LEGO box?",
+  "tries": [
+   "Find 10 different ways to join two 2×4 bricks",
+   "Small project: make five six-brick models, each a different height from 2 to 6",
+   "Ask a friend to guess how many ways six bricks combine, then reveal the answer",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Søren Eilers (University of Copenhagen)"
+ }
+}
