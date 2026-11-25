@@ -1,0 +1,99 @@
+{
+ "meta": {
+  "date": "2026-11-25",
+  "slug": "rafael-nadal",
+  "category": "tennis",
+  "emoji": "🎾",
+  "title_plain": "How old balls and a tough uncle built the King of Clay",
+  "teaser": "Bad courts, old balls and Uncle Toni turned Rafa into a 14-time French Open champ."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How old balls and a tough uncle built <span class=\"hl\">the King of Clay</span>",
+  "sub": "The story of Rafael Nadal and his coach, Uncle Toni",
+  "bigIdea": "Rafael Nadal's uncle Toni trained him on purpose in hard conditions. Those tough practices helped Rafa win <span class=\"hl\">a record 14 French Open titles</span>.",
+  "cards": [
+   {
+    "emo": "👶",
+    "title": "First shots with Uncle Toni",
+    "front": "Rafa was born in 1986 on the island of Mallorca, Spain.",
+    "back": "His uncle Toni coached at the local tennis club in Manacor. Rafa hit his first shots with him at age 3. Football was his first love, though.",
+    "tryit": "Ask a family member who taught them their favourite sport or hobby. Write their answer down."
+   },
+   {
+    "emo": "🎾",
+    "title": "Bad balls on bad courts",
+    "front": "Toni often made Rafa train with worn-out balls on poor courts. Why?",
+    "back": "Toni wanted him to stop blaming equipment. Win or lose, it was up to the player. He also stretched 90-minute sessions longer, without warning, to build stamina.",
+    "tryit": "Play 10 minutes with your oldest, flattest ball. Notice every time you want to blame it, then just play on."
+   },
+   {
+    "emo": "🤚",
+    "title": "The lefty legend",
+    "front": "Rafa eats with his right hand. So why does he play tennis left-handed?",
+    "back": "Until about age 10, he hit forehands with two hands. When he switched to one hand, he chose his stronger left. Toni says the 'forced lefty' story is a legend.",
+    "tryit": "Hit 20 soft forehands with your other hand. Notice which parts feel hardest."
+   },
+   {
+    "emo": "🏠",
+    "title": "Staying home to train",
+    "front": "At 14, Spain's tennis federation asked Rafa to move to Barcelona.",
+    "back": "His family said no, partly so school wouldn't suffer. Toni believed you could become great from home. Rafa turned pro at 14 anyway.",
+    "tryit": "List three places near your home where you could practise tennis for free."
+   },
+   {
+    "emo": "👑",
+    "title": "The King of Clay",
+    "front": "From 2005 to 2022, Rafa won the French Open 14 times.",
+    "back": "That's a record. Ten of those came with Toni as coach. Rafa also won 22 Grand Slams and once won 81 clay matches in a row. He retired in 2024.",
+    "tryit": "Watch a Nadal clay highlight. Count how many times he slides into a shot."
+   }
+  ],
+  "words": [
+   {"w": "Clay court", "d": "A tennis court made of crushed brick. Balls bounce high and slower."},
+   {"w": "French Open", "d": "The Grand Slam played on clay in Paris every spring."},
+   {"w": "Stamina", "d": "The energy to keep going hard for a long time."},
+   {"w": "Topspin", "d": "Forward spin that makes the ball dip down, then kick up high."},
+   {"w": "Turn pro", "d": "To start playing a sport as your job, for prize money."}
+  ],
+  "quiz": [
+   {
+    "q": "Why did Toni make Rafa train with old balls on bad courts?",
+    "opts": ["To save money on new balls", "So Rafa would stop blaming equipment", "Because the club had no good courts"],
+    "a": 1,
+    "hint": "Think about what Toni said decides who wins or loses.",
+    "why": "Toni wanted Rafa to learn that the player, not the equipment, is responsible for the result."
+   },
+   {
+    "q": "How did Rafa end up playing left-handed?",
+    "opts": ["He picked his stronger left hand when he stopped hitting two-handed", "Toni forced him to switch on day one", "He hurt his right arm as a kid"],
+    "a": 0,
+    "hint": "Card 3 says the famous story is a legend. What really happened around age 10?",
+    "why": "When he moved to a one-handed forehand, he used his left, which felt stronger."
+   },
+   {
+    "q": "How many French Open titles did Rafa win in total?",
+    "opts": ["10", "22", "14"],
+    "a": 2,
+    "hint": "It's more than he won with Toni, but less than his total Grand Slams.",
+    "why": "Rafa won 14 French Opens, a record, out of his 22 Grand Slam titles."
+   },
+   {
+    "q": "What did Rafa's family decide when he was asked to move to Barcelona at 14?",
+    "opts": ["He moved there alone", "He stayed home in Mallorca", "He moved to America"],
+    "a": 1,
+    "hint": "Remember what Toni believed about becoming great.",
+    "why": "They stayed home, partly for school, and because Toni believed you could become great from home."
+   }
+  ],
+  "think": "Toni made practice harder on purpose so matches felt easier. What is one way you could make your own tennis practice a little tougher this week?",
+  "tries": [
+   "Play one practice game to 20 points without complaining about the ball, court or wind once",
+   "Do 15 minutes of footwork drills, then add 5 surprise minutes like Uncle Toni would",
+   "Watch a Nadal French Open highlight and notice how high his topspin forehand bounces",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Ringier DOMO magazine interview with Toni Nadal"
+ }
+}
