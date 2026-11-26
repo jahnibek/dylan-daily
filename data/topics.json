@@ -2,11 +2,6 @@
   "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
   "queue": [
     {
-      "category": "mathsci",
-      "subject": "Fibonacci and patterns in nature",
-      "angle": "Why sunflowers, pine cones and shells follow the same number pattern"
-    },
-    {
       "category": "anime",
       "subject": "Riichiro Inagaki & Boichi / Dr. Stone",
       "angle": "How two creators turned real science into an anime adventure"
@@ -658,6 +653,10 @@
     {
       "date": "2026-11-25",
       "subject": "Rafael Nadal"
+    },
+    {
+      "date": "2026-11-26",
+      "subject": "Fibonacci and patterns in nature"
     }
   ]
 }
