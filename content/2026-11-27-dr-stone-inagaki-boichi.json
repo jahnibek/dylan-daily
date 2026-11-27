@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "date": "2026-11-27",
+  "slug": "dr-stone-inagaki-boichi",
+  "category": "anime",
+  "emoji": "🧪",
+  "title_plain": "How two creators made science feel like a superpower",
+  "teaser": "A writer and an artist turned glass, radios and water wheels into Dr. Stone."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "How two creators made <span class=\"hl\">science feel like a superpower</span>",
+  "sub": "The story of Riichiro Inagaki, Boichi and Dr. Stone",
+  "bigIdea": "In Dr. Stone, the hero doesn't win with punches. He wins with science, and the creators made it work through <span class=\"hl\">patient research and teamwork</span>.",
+  "cards": [
+   {"emo": "🗿", "title": "A hero who keeps counting", "front": "In Dr. Stone, the whole world turns to stone. Senku stays awake inside the stone and counts.", "back": "He counts every second for 3,700 years. Writer Riichiro Inagaki wanted a hero who wins by working step by step, not a superhero.", "tryit": "Count to 60 in your head, then check a clock. How close were you?"},
+   {"emo": "🏈", "title": "A writer who asked for help", "front": "Before Dr. Stone, Inagaki wrote Eyeshield 21, an American football manga, from 2002 to 2009.", "back": "He could have drawn it himself. But he felt like a rookie, so he teamed up with artist Yusuke Murata. It sold over 20 million copies in Japan.", "tryit": "Think of a skill a friend is better at. Plan one project you could make together."},
+   {"emo": "🔭", "title": "An artist who studied physics", "front": "Boichi was born in Seoul, South Korea, in 1973. He wanted to draw manga from childhood.", "back": "So he studied physics in college, to get ready to draw science fiction. Inagaki was a big fan of his art and brought him onto Dr. Stone.", "tryit": "Draw one machine from your world, like a game controller, with every small detail."},
+   {"emo": "🔬", "title": "Homework behind every invention", "front": "Senku builds glass, radios and even phones from scratch. How did the creators get the science right?", "back": "They had a science helper named Kurare. They did real research, like visiting a glass-blowing factory. Boichi kept a library of 900,000 photos to draw from.", "tryit": "Take 10 photos of interesting things at home or the tennis club. Start your own drawing library."},
+   {"emo": "⚙️", "title": "The page that changed everything", "front": "In one chapter, Senku's team builds a water wheel to make electricity. Inagaki wanted it to look cool.", "back": "Boichi drew a giant full-page picture of the power plant. Fans loved it. After that, big inventions got big pages, and the team learned each other's strengths.", "tryit": "Draw your proudest moment, like a winning shot, as one big full-page picture."}
+  ],
+  "words": [
+   {"w": "Mangaka", "d": "The Japanese word for a person who creates manga."},
+   {"w": "Storyboard", "d": "A rough sketch plan of each page, made before the final art."},
+   {"w": "Science consultant", "d": "An expert who helps make sure the science in a story is right."},
+   {"w": "Petrified", "d": "Turned into stone."},
+   {"w": "Full-page panel", "d": "One big picture that fills a whole manga page."}
+  ],
+  "quiz": [
+   {"q": "Why did Inagaki team up with an artist for Eyeshield 21?", "opts": ["He didn't like manga", "He felt like a rookie at drawing", "His editor banned him from drawing"], "a": 1, "hint": "Think about how confident he felt about his own drawing.", "why": "He felt too new to draw it himself, so he found a great artist to partner with."},
+   {"q": "What did Boichi study in college to get ready for science fiction manga?", "opts": ["Cooking", "Music", "Physics"], "a": 2, "hint": "It's the science of forces, motion and energy.", "why": "He studied physics so his science fiction drawings would make sense."},
+   {"q": "Inagaki asked Kurare why radio waves happen. What did Kurare say?", "opts": ["He didn't fully understand it either", "Only Boichi knew the answer", "It was too easy to explain"], "a": 0, "hint": "Even experts reach the edge of what they know.", "why": "Kurare said he didn't understand it either, which shows science still has mysteries."},
+   {"q": "What did the water wheel page teach the team?", "opts": ["Use fewer pictures", "Let big inventions shine in big pictures", "Stop drawing machines"], "a": 1, "hint": "Fans loved that page. What would you do more of?", "why": "Fans loved the giant picture, so big inventions got big pages from then on."}
+  ],
+  "think": "Senku counted every second for 3,700 years. What's one small thing you could do every day, in tennis or LEGO, that would add up to something big in a year?",
+  "tries": [
+   "Count 60 seconds in your head and see how close you get",
+   "Start a photo library of 10 things you'd like to draw",
+   "Draw one invention you'd build if the world turned to stone",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, VIZ, Crunchyroll"
+ }
+}
