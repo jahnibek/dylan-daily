@@ -1,0 +1,99 @@
+{
+ "meta": {
+  "date": "2026-11-28",
+  "slug": "steffi-graf",
+  "category": "tennis",
+  "emoji": "🥇",
+  "title_plain": "The year Steffi Graf won everything in tennis",
+  "teaser": "In 1988, a 19-year-old won all four Grand Slams plus Olympic gold."
+ },
+ "page": {
+  "kind": "Report for Dylan",
+  "readTime": "4 min read",
+  "title": "The year Steffi Graf <span class=\"hl\">won everything</span> in tennis",
+  "sub": "The story of Steffi Graf and her Golden Slam",
+  "bigIdea": "In 1988, Steffi Graf won all four Grand Slams and Olympic gold in one year. Nobody else has ever done this <span class=\"hl\">Golden Slam</span> in a single year.",
+  "cards": [
+   {
+    "emo": "🛋️",
+    "title": "A racket in the living room",
+    "front": "Steffi's first tennis lessons didn't happen on a court. Where were they?",
+    "back": "At age 3, her dad taught her to swing a wooden racket in the family living room. She played on a real court at 4 and entered her first tournament at 5.",
+    "tryit": "Do 20 slow shadow swings at home, no ball. Focus only on a smooth, full swing."
+   },
+   {
+    "emo": "📈",
+    "title": "Losing first, climbing slowly",
+    "front": "Steffi played her first pro match at 13. Did she win?",
+    "back": "No. She lost 6–4, 6–0 to former No. 1 Tracy Austin. She won no titles for three years, but her ranking kept climbing: 98, then 22, then 6.",
+    "tryit": "Write down one tennis loss you had. Next to it, write one thing it taught you."
+   },
+   {
+    "emo": "⏱️",
+    "title": "Four hours a day",
+    "front": "How hard did young Steffi train?",
+    "back": "Up to four hours a day, sometimes straight from the airport. But her dad limited her tournaments so she wouldn't burn out. In 1985 she played 10 events; a rival played 21.",
+    "tryit": "Plan your tennis week: pick practice days and one rest day. Rest helps you improve too."
+   },
+   {
+    "emo": "🍩",
+    "title": "The 34-minute final",
+    "front": "The 1988 French Open final was the shortest Grand Slam final ever. How short?",
+    "back": "Steffi won 6–0, 6–0 in just 34 minutes. Her opponent won only 13 points. Tennis fans call a 6–0, 6–0 win a 'double bagel'.",
+    "tryit": "Play a 10-point game. Try to win each point with your best shot, like Steffi's forehand."
+   },
+   {
+    "emo": "🥇",
+    "title": "Comeback, then gold",
+    "front": "At Wimbledon, Steffi lost the first set to six-time champion Martina Navratilova. Then what?",
+    "back": "She won six games in a row and took the title. She then won the US Open and Olympic gold in Seoul. She was 19.",
+    "tryit": "Next time you lose a set, take three deep breaths and pick one thing to change."
+   }
+  ],
+  "words": [
+   {"w": "Grand Slam", "d": "The four biggest tennis events: Australian Open, French Open, Wimbledon and US Open."},
+   {"w": "Golden Slam", "d": "Winning all four Grand Slams plus an Olympic gold medal."},
+   {"w": "Double bagel", "d": "Winning a match 6–0, 6–0. The zeros look like bagels."},
+   {"w": "Burn out", "d": "To get so tired of something that you lose energy for it."},
+   {"w": "Ranking", "d": "A list showing who the best players are, from No. 1 down."}
+  ],
+  "quiz": [
+   {
+    "q": "How old was Steffi when her dad first taught her to swing a racket?",
+    "opts": ["5", "3", "13"],
+    "a": 1,
+    "hint": "She was younger than when she played her first tournament.",
+    "why": "Her dad taught her to swing a wooden racket at home when she was 3."
+   },
+   {
+    "q": "What did Steffi's dad do so she wouldn't burn out?",
+    "opts": ["Made her quit school", "Let her play every tournament", "Limited how many tournaments she played"],
+    "a": 2,
+    "hint": "Compare her 10 events in 1985 with her rival's 21.",
+    "why": "He kept her schedule small so she stayed fresh while still training hard."
+   },
+   {
+    "q": "What makes a 'Golden Slam'?",
+    "opts": ["All four Grand Slams plus Olympic gold", "Winning a match 6–0, 6–0", "Being No. 1 for a whole year"],
+    "a": 0,
+    "hint": "Think about the word 'golden' and what you win at the Olympics.",
+    "why": "A Golden Slam means winning all four Grand Slams and an Olympic gold medal."
+   },
+   {
+    "q": "How did Steffi do in her very first pro match, at 13?",
+    "opts": ["She won easily", "She lost to a former No. 1", "She didn't finish it"],
+    "a": 1,
+    "hint": "Card 2 is about losing first and climbing slowly.",
+    "why": "She lost 6–4, 6–0 to Tracy Austin, then kept improving year by year."
+   }
+  ],
+  "think": "Steffi lost a lot at first and won no titles for three years, but she kept climbing. What is one tennis skill you'd keep practising even if results came slowly?",
+  "tries": [
+   "Do 20 shadow forehands each day, focusing on smooth footwork",
+   "Plan one rest day into your tennis week",
+   "Watch a highlight of Steffi Graf's 1988 Wimbledon final and notice her forehand",
+   "Tell Dad one idea from this report"
+  ],
+  "footer": "Made for Dylan by Dad · Sources: Wikipedia, Olympics.com, International Tennis Hall of Fame"
+ }
+}

@@ -2,11 +2,6 @@
   "rules": "Take the first item in queue each day. Move it to done with the date. When queue has fewer than 10 items, append 20 new topics in the same rotating mix (tennis, games, screen, books, wildcard, plus an anime topic and a lego topic about once a week each, a skills topic about every third day, a howitworks topic about every fifth day, and a mathsci topic every seventh day), never repeating anything in done.",
   "queue": [
     {
-      "category": "tennis",
-      "subject": "Steffi Graf",
-      "angle": "How she won all four Grand Slams plus Olympic gold in one year, the Golden Slam of 1988"
-    },
-    {
       "category": "screen",
       "subject": "Hayao Miyazaki / Studio Ghibli",
       "angle": "How Miyazaki hand-draws worlds like Spirited Away"
@@ -656,6 +651,10 @@
     {
       "date": "2026-11-27",
       "subject": "Riichiro Inagaki & Boichi / Dr. Stone"
+    },
+    {
+      "date": "2026-11-28",
+      "subject": "Steffi Graf"
     }
   ]
 }
